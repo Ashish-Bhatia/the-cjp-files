@@ -12,9 +12,9 @@
     "not_established": "No qualifying method-specific evidence located in reviewed sources; absence of documentation is not disproof."
   },
   "counts": {
-    "documented": 13,
-    "not_established": 170,
-    "possible": 14,
+    "documented": 15,
+    "not_established": 166,
+    "possible": 16,
     "announced": 1
   },
   "forecast": {
@@ -89,6 +89,24 @@
       "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
       "precision": "interval_start",
       "explanation": "First reported interval begins June 7; exact first sit-in day within the interval is not independently verified."
+    },
+    {
+      "date": "2026-06-22",
+      "method": 24,
+      "name": "Symbolic lights",
+      "actor_scope": "CJP supporter at movement gathering, per EPA photo caption",
+      "source_url": "https://www.lusa.pt/foto?from=%2Fbrasil&imageid=47333784",
+      "precision": "day",
+      "explanation": "Candles and light were used as a symbolic component of the documented vigil. EPA agency caption records a CJP supporter taking part in a candlelight vigil at Jantar Mantar for students reportedly lost after medical entrance examinations. Single photograph documents participation, not organiser instructions or number of participants."
+    },
+    {
+      "date": "2026-06-22",
+      "method": 34,
+      "name": "Vigils",
+      "actor_scope": "CJP supporter at movement gathering, per EPA photo caption",
+      "source_url": "https://www.lusa.pt/foto?from=%2Fbrasil&imageid=47333784",
+      "precision": "day",
+      "explanation": "The named vigil is documented. EPA agency caption records a CJP supporter taking part in a candlelight vigil at Jantar Mantar for students reportedly lost after medical entrance examinations. Single photograph documents participation, not organiser instructions or number of participants."
     },
     {
       "date": "2026-06-28",
@@ -248,11 +266,22 @@
       "name": "Group or mass petitions",
       "family": "Nonviolent protest and persuasion",
       "subcategory": "Formal statements",
-      "status": "not_established",
+      "status": "possible",
       "first_observed_date": null,
-      "first_linked_date": null,
-      "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "first_linked_date": "2026-07-01",
+      "observations": [
+        {
+          "date": "2026-07-01",
+          "first_reported_date": "2026-07-01",
+          "occurrence": "CJP-branded websites show petition forms and unverified counts",
+          "detail": "Several mutually competing sites contain signature petitions for education demands. Site ownership, form submissions and signatory counts are not authenticated; this is a provenance lead, not proof an organiser ran a mass petition.",
+          "source_url": "https://www.cockroachjantaparty.com/petitions/petition-to-sack-the-education-minister",
+          "actor_scope": "Disputed CJP-branded website, institutional control unverified",
+          "date_precision": "approximate",
+          "evidence_class": "interpretive_candidate"
+        }
+      ],
+      "evidence_note": null
     },
     {
       "number": 7,
@@ -554,11 +583,22 @@
       "name": "Symbolic lights",
       "family": "Nonviolent protest and persuasion",
       "subcategory": "Symbolic public acts",
-      "status": "not_established",
-      "first_observed_date": null,
-      "first_linked_date": null,
-      "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "status": "documented",
+      "first_observed_date": "2026-06-22",
+      "first_linked_date": "2026-06-22",
+      "observations": [
+        {
+          "date": "2026-06-22",
+          "first_reported_date": "2026-06-22",
+          "occurrence": "Candlelight vigil commemorating deceased students",
+          "detail": "Candles and light were used as a symbolic component of the documented vigil. EPA agency caption records a CJP supporter taking part in a candlelight vigil at Jantar Mantar for students reportedly lost after medical entrance examinations. Single photograph documents participation, not organiser instructions or number of participants.",
+          "source_url": "https://www.lusa.pt/foto?from=%2Fbrasil&imageid=47333784",
+          "actor_scope": "CJP supporter at movement gathering, per EPA photo caption",
+          "date_precision": "day",
+          "evidence_class": "reported_action"
+        }
+      ],
+      "evidence_note": null
     },
     {
       "number": 25,
@@ -675,11 +715,22 @@
       "name": "Vigils",
       "family": "Nonviolent protest and persuasion",
       "subcategory": "Pressure on individuals",
-      "status": "not_established",
-      "first_observed_date": null,
-      "first_linked_date": null,
-      "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "status": "documented",
+      "first_observed_date": "2026-06-22",
+      "first_linked_date": "2026-06-22",
+      "observations": [
+        {
+          "date": "2026-06-22",
+          "first_reported_date": "2026-06-22",
+          "occurrence": "Candlelight vigil commemorating deceased students",
+          "detail": "The named vigil is documented. EPA agency caption records a CJP supporter taking part in a candlelight vigil at Jantar Mantar for students reportedly lost after medical entrance examinations. Single photograph documents participation, not organiser instructions or number of participants.",
+          "source_url": "https://www.lusa.pt/foto?from=%2Fbrasil&imageid=47333784",
+          "actor_scope": "CJP supporter at movement gathering, per EPA photo caption",
+          "date_precision": "day",
+          "evidence_class": "reported_action"
+        }
+      ],
+      "evidence_note": null
     },
     {
       "number": 35,
@@ -817,11 +868,22 @@
       "name": "Political mourning",
       "family": "Nonviolent protest and persuasion",
       "subcategory": "Honoring the dead",
-      "status": "not_established",
+      "status": "possible",
       "first_observed_date": null,
-      "first_linked_date": null,
-      "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "first_linked_date": "2026-06-22",
+      "observations": [
+        {
+          "date": "2026-06-22",
+          "first_reported_date": "2026-06-22",
+          "occurrence": "Memorial vigil possibly classifies as political mourning",
+          "detail": "The EPA caption says the vigil commemorated students whose deaths were invoked in a campaign for education accountability. Whether this equals Sharp's distinct political mourning method requires further definition and source context.",
+          "source_url": "https://www.lusa.pt/foto?from=%2Fbrasil&imageid=47333784",
+          "actor_scope": "CJP supporter at movement gathering, per EPA photo caption",
+          "date_precision": "day",
+          "evidence_class": "interpretive_candidate"
+        }
+      ],
+      "evidence_note": null
     },
     {
       "number": 44,
@@ -2708,7 +2770,9 @@
     "For the 28 June fast, allied participant rather than CJP command is disclosed.",
     "No evidence in reviewed sources verifies an AEI–CJP operational or financial link.",
     "A future public call may be used to inform a forecast, but is not admitted to the spoken-claims registry without an eligible source.",
-    "Initial review used contemporary reporting and published images, not a complete timestamped recording archive."
+    "Initial review used contemporary reporting and published images, not a complete timestamped recording archive.",
+    "New agency photo dated June 22 documents candlelight vigil. Site counters for petitions remain provenance leads, not accepted CJP organisational records.",
+    "A denied May 24 human-chain plan is recorded as an unconfirmed event lead only."
   ],
   "completeness_rule": "Every canonical number 1–198 appears once. 'Not established' entries have an explicit negative search result limited to the reviewed source base, not a proof of non-occurrence. Future dates excluded from observed chronology.",
   "method_events": [
@@ -2801,6 +2865,28 @@
       "evidence_class": "reported_action"
     },
     {
+      "date": "2026-06-22",
+      "method": 24,
+      "name": "Symbolic lights",
+      "event": "Candlelight vigil commemorating deceased students",
+      "explanation": "Candles and light were used as a symbolic component of the documented vigil. EPA agency caption records a CJP supporter taking part in a candlelight vigil at Jantar Mantar for students reportedly lost after medical entrance examinations. Single photograph documents participation, not organiser instructions or number of participants.",
+      "source_url": "https://www.lusa.pt/foto?from=%2Fbrasil&imageid=47333784",
+      "actor_scope": "CJP supporter at movement gathering, per EPA photo caption",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-06-22",
+      "method": 34,
+      "name": "Vigils",
+      "event": "Candlelight vigil commemorating deceased students",
+      "explanation": "The named vigil is documented. EPA agency caption records a CJP supporter taking part in a candlelight vigil at Jantar Mantar for students reportedly lost after medical entrance examinations. Single photograph documents participation, not organiser instructions or number of participants.",
+      "source_url": "https://www.lusa.pt/foto?from=%2Fbrasil&imageid=47333784",
+      "actor_scope": "CJP supporter at movement gathering, per EPA photo caption",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
       "date": "2026-06-28",
       "method": 159,
       "name": "The fast",
@@ -2878,5 +2964,15 @@
       "evidence_class": "reported_action"
     }
   ],
-  "method_event_count": 15
+  "method_event_count": 17,
+  "coverage_leads": [
+    {
+      "date": "2026-05-23",
+      "event_date": "2026-05-24",
+      "description": "Reported plan for Bengaluru human-chain protest, denied permission by police. No independent confirmation that event occurred, so not classified as documented action.",
+      "source_url": "https://indianexpress.com/article/cities/bangalore/cjps-human-chain-protest-denied-as-bengaluru-police-cite-traffic-concerns-10703988/",
+      "status": "announced_event_unverified",
+      "not_assigned_to_method": true
+    }
+  ]
 }
