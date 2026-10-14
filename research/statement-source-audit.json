@@ -31,7 +31,10 @@
     "Obtain written state welfare-scheme circulars allegedly conditioning benefits on SIR rolls",
     "Obtain original CJP/AAP/AEI operational instruction or funding evidence before claiming any link",
     "Obtain June 5 Vijeta Dahiya full Q&A transcript and record what speaker attributed to CJP vs his personal position.",
-    "Authenticate July 21 personnel change and separate Dahiya's later personal speech from organisational statements."
+    "Authenticate July 21 personnel change and separate Dahiya's later personal speech from organisational statements.",
+    "Reconcile late-20-July on-stage march pledge with 21-July press conference reversal using timestamped originals, and avoid treating either promise as a completed march.",
+    "Obtain the October 11 Press Club recording, police seizure memos and independent device-forensic findings before making any technical claim.",
+    "Independently audit August 6 non-fundraising statement against dated bank records and statutory filings, rather than treating a spoken denial as proof."
   ],
   "source_catalogue": [
     {
@@ -87,7 +90,43 @@
       "date": "2026-07-31",
       "format": "publisher-hosted video interview summary",
       "recording_authenticated": false
+    },
+    {
+      "url": "https://indianexpress.com/article/india/cockroach-cjp-spokespersons-saurav-das-abhijeet-dipke-jantar-mantar-protest-10722635/",
+      "date": "2026-06-03",
+      "format": "reported public press conference with linked PTI clip",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.indiatoday.in/india/story/cjp-protest-abhijeet-dipke-march-to-parliament-today-will-continue-delhi-jantar-mantar-2952421-2026-07-21",
+      "date": "2026-07-20",
+      "format": "on-stage reporter question, published following day",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence",
+      "date": "2026-07-21",
+      "format": "reported public news conference",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.telegraphindia.com/india/cockroach-party-sets-up-national-committee-appoints-abhijeet-dipke-as-convener/cid/2173702",
+      "date": "2026-08-06",
+      "format": "PTI-attributed press conference",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/delhi/cjp-leaders-ashutosh-ranka-saurav-das-police-detention-phone-seizure-allegations-10916764/lite/",
+      "date": "2026-10-11",
+      "format": "reported public press conference",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.reuters.com/world/indias-cockroach-movement-leaders-detained-jail-five-days-founder-says-2026-10-14/",
+      "date": "2026-10-14",
+      "format": "Reuters-reported spoken press interaction",
+      "recording_authenticated": false
     }
   ],
-  "release_note": "A dated leadership departure was reconstructed; post-removal personal remarks are not attributed to the movement."
+  "release_note": "Additional 18 reviews from public spoken remarks as of 15 October 2026. Previous statement-only source standard retained. Written-only 23 August organisational statement excluded as a new claim origin."
 }
