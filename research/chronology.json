@@ -1,7 +1,7 @@
 {
   "release": "2026-10-15",
   "scope": "Dated public events and attributable public statements. Events may be evidenced by official records and reported observation; the separate Myth vs Reality claim register admits only statements made in interviews, public speeches, press conferences and press interactions. Not exhaustive.",
-  "event_count": 53,
+  "event_count": 58,
   "events": [
     {
       "event_date": "15 May 2026",
@@ -158,6 +158,20 @@
       "url": "https://indianexpress.com/article/india/sonam-wangchuk-hunger-strike-cjp-centre-sansad-chalo-march-today-updates-10794799/"
     },
     {
+      "event_date": "20 July 2026, late evening",
+      "title": "Dipke publicly says a further Parliament march will continue",
+      "assessment": "In a public reporter exchange near Jantar Mantar late Monday, Dipke forecasts another march on Tuesday. Later remarks changed the plan. This is a spoken intention, not evidence that the Tuesday march occurred.",
+      "source": "India Today / on-stage reporter exchange",
+      "url": "https://www.indiatoday.in/india/story/cjp-protest-abhijeet-dipke-march-to-parliament-today-will-continue-delhi-jantar-mantar-2952421-2026-07-21"
+    },
+    {
+      "event_date": "21 July 2026",
+      "title": "CJP publicly cancels further Parliament march citing injuries",
+      "assessment": "At a news conference Dipke says CJP will not repeat the Parliament march after injuries. The decision modifies his earlier expressed plan rather than terminating every future CJP protest.",
+      "source": "Al Jazeera / Reuters, press conference",
+      "url": "https://www.aljazeera.com/news/2026/7/21/indias-cockroach-protest-movement-halts-marches-after-police-violence"
+    },
+    {
       "event_date": "21 July 2026",
       "title": "CJP removes Vijeta Dahiya from spokesperson role",
       "assessment": "Indian Express reports Dahiya's removal after a July 20 controversy. The shift is a dated organisational event and should not be mistaken for continued leadership or proof about disputed video sequences.",
@@ -226,6 +240,13 @@
       "assessment": "The founder publicly discusses protest finance, political-party support, the paper-leak law and a 'response group' rather than immediate electoral entry. Statements remain the speaker's accounts unless separately verified.",
       "source": "Aaj Tak / Q&A interview",
       "url": "https://www.aajtak.in/india/maharashtra/story/cockroach-janta-party-abhijeet-deepke-exclusive-interview-paper-leak-protest-modi-govt-neet-ntc-agkp-dskc-2612426-2026-07-31"
+    },
+    {
+      "event_date": "6 August 2026",
+      "title": "Working committee and membership strategy announced at press conference",
+      "assessment": "Dipke, Das and Ranka receive publicly reported roles. Das says the movement is recruiting online, is not currently fundraising and will not immediately register as an electoral party. Self-described financing remains unaudited.",
+      "source": "PTI / Telegraph India, press conference",
+      "url": "https://www.telegraphindia.com/india/cockroach-party-sets-up-national-committee-appoints-abhijeet-dipke-as-convener/cid/2173702"
     },
     {
       "event_date": "9 August 2026",
@@ -312,6 +333,13 @@
       "url": "https://www.reuters.com/world/asia-pacific/indian-capital-braces-second-day-protests-against-poll-chief-2026-10-11/"
     },
     {
+      "event_date": "11 October 2026",
+      "title": "CJP leaders raise mobile-seizure and police-conduct allegations at briefing",
+      "assessment": "Das and Ranka address reporters after release. Their claims about device custody and possible cloning remain allegations; a forensic examination, seizure documents and any independent judicial finding are outstanding.",
+      "source": "Indian Express / press conference",
+      "url": "https://indianexpress.com/article/cities/delhi/cjp-leaders-ashutosh-ranka-saurav-das-police-detention-phone-seizure-allegations-10916764/lite/"
+    },
+    {
       "event_date": "12 October 2026",
       "title": "Delhi Police denotifies Jantar Mantar as protest venue",
       "assessment": "An October 12 police notification names Ramlila Ground, Burari Ground and CBD Ground as alternatives. Subsequent petitions dispute the change; a challenge is not a judicial invalidation.",
@@ -337,6 +365,13 @@
       "title": "Five-day custody ordered",
       "assessment": "Reuters and Indian Express report a magistrate ordering custody for Ranka and Das. This is a procedural court action, not a conviction.",
       "source": "Reuters / Indian Express",
+      "url": "https://www.reuters.com/world/indias-cockroach-movement-leaders-detained-jail-five-days-founder-says-2026-10-14/"
+    },
+    {
+      "event_date": "14 October 2026",
+      "title": "Ajinkya Shinde responds publicly after custody and bond decision",
+      "assessment": "Released on a personal bond, Shinde tells reporters CJP will not be deterred. Police and the defence give differing legal interpretations of prior undertakings; custody does not determine guilt.",
+      "source": "Reuters / reporter interaction",
       "url": "https://www.reuters.com/world/indias-cockroach-movement-leaders-detained-jail-five-days-founder-says-2026-10-14/"
     },
     {
