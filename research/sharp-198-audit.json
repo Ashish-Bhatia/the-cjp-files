@@ -191,6 +191,36 @@
           "actor_scope": "CJP speaker(s), individual identification pending",
           "date_precision": "day",
           "evidence_class": "reported_action"
+        },
+        {
+          "date": "2026-07-21",
+          "first_reported_date": "2026-07-21",
+          "occurrence": "Two publicly reported positions on the planned Parliament march",
+          "detail": "Monday evening stage remarks anticipated a second march; a subsequent Tuesday press conference cancelled it citing risk of injury. Statements are different points in time.",
+          "source_url": "https://www.indiatoday.in/india/story/cjp-protest-abhijeet-dipke-march-to-parliament-today-will-continue-delhi-jantar-mantar-2952421-2026-07-21",
+          "actor_scope": "CJP founder",
+          "date_precision": "day; evening remark reported following morning",
+          "evidence_class": "reported_public_speech"
+        },
+        {
+          "date": "2026-08-06",
+          "first_reported_date": "2026-08-06",
+          "occurrence": "National committee and recruitment press conference",
+          "detail": "Das and Ranka described CJP office roles, membership drive, reported financing posture and Jharkhand outreach plans. Plans are not completed actions.",
+          "source_url": "https://www.telegraphindia.com/india/cockroach-party-sets-up-national-committee-appoints-abhijeet-dipke-as-convener/cid/2173702",
+          "actor_scope": "CJP office-bearers",
+          "date_precision": "day",
+          "evidence_class": "reported_public_speech"
+        },
+        {
+          "date": "2026-10-11",
+          "first_reported_date": "2026-10-11",
+          "occurrence": "Post-detention press conference",
+          "detail": "CJP speakers discussed phone seizures, possible tampering, police conduct and continuing demonstrations. Technical allegations require separate evidence.",
+          "source_url": "https://indianexpress.com/article/cities/delhi/cjp-leaders-ashutosh-ranka-saurav-das-police-detention-phone-seizure-allegations-10916764/lite/",
+          "actor_scope": "CJP spokespeople",
+          "date_precision": "day",
+          "evidence_class": "reported_public_speech"
         }
       ],
       "evidence_note": null,
@@ -3168,7 +3198,8 @@
     "A future public call may be used to inform a forecast, but is not admitted to the spoken-claims registry without an eligible source.",
     "Initial review used contemporary reporting and published images, not a complete timestamped recording archive.",
     "New agency photo dated June 22 documents candlelight vigil. Site counters for petitions remain provenance leads, not accepted CJP organisational records.",
-    "A denied May 24 human-chain plan is recorded as an unconfirmed event lead only."
+    "A denied May 24 human-chain plan is recorded as an unconfirmed event lead only.",
+    "15 October follow-on audit: press statements added as repeats of already documented method #1. No new method is established merely by announcing plans, claiming funding independence or alleging misconduct. All 198 classifications and the 16 October #18 repeat forecast remain unchanged."
   ],
   "completeness_rule": "Every canonical number 1–198 appears once. 'Not established' entries have an explicit negative search result limited to the reviewed source base, not a proof of non-occurrence. Future dates excluded from observed chronology.",
   "method_events": [
