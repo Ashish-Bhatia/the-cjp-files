@@ -193,7 +193,9 @@
           "evidence_class": "reported_action"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Dated full public statement, transcript or authenticated recording attributable to a speaker acting for CJP.",
+      "method_specific_test": "Provide original dated evidence specifically of “Public Speeches”; a general protest is insufficient."
     },
     {
       "number": 2,
@@ -204,7 +206,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated full public statement, transcript or authenticated recording attributable to a speaker acting for CJP.",
+      "method_specific_test": "Provide original dated evidence specifically of “Letters of opposition or support”; a general protest is insufficient."
     },
     {
       "number": 3,
@@ -226,7 +230,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Dated full public statement, transcript or authenticated recording attributable to a speaker acting for CJP.",
+      "method_specific_test": "Provide original dated evidence specifically of “Declarations by organizations and institutions”; a general protest is insufficient."
     },
     {
       "number": 4,
@@ -237,7 +243,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated full public statement, transcript or authenticated recording attributable to a speaker acting for CJP.",
+      "method_specific_test": "Provide original dated evidence specifically of “Signed public statements”; a general protest is insufficient."
     },
     {
       "number": 5,
@@ -259,7 +267,9 @@
           "evidence_class": "announced_future_action"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Dated full public statement, transcript or authenticated recording attributable to a speaker acting for CJP.",
+      "method_specific_test": "Provide original dated evidence specifically of “Declarations of indictment and intention”; a general protest is insufficient."
     },
     {
       "number": 6,
@@ -281,7 +291,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Dated full public statement, transcript or authenticated recording attributable to a speaker acting for CJP.",
+      "method_specific_test": "Provide original dated evidence specifically of “Group or mass petitions”; a general protest is insufficient."
     },
     {
       "number": 7,
@@ -313,7 +325,9 @@
           "evidence_class": "reported_action"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Authentic dated communication artifact, distribution evidence and verified CJP organisational attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Slogans, caricatures, and symbols”; a general protest is insufficient."
     },
     {
       "number": 8,
@@ -335,7 +349,9 @@
           "evidence_class": "reported_action"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Authentic dated communication artifact, distribution evidence and verified CJP organisational attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Banners, posters, and displayed communications”; a general protest is insufficient."
     },
     {
       "number": 9,
@@ -346,7 +362,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authentic dated communication artifact, distribution evidence and verified CJP organisational attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Leaflets, pamphlets, and books”; a general protest is insufficient."
     },
     {
       "number": 10,
@@ -357,7 +375,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authentic dated communication artifact, distribution evidence and verified CJP organisational attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Newspapers and journals”; a general protest is insufficient."
     },
     {
       "number": 11,
@@ -379,7 +399,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Authentic dated communication artifact, distribution evidence and verified CJP organisational attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Records, radio, and television”; a general protest is insufficient."
     },
     {
       "number": 12,
@@ -390,7 +412,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authentic dated communication artifact, distribution evidence and verified CJP organisational attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Skywriting and earthwriting”; a general protest is insufficient."
     },
     {
       "number": 13,
@@ -412,7 +436,9 @@
           "evidence_class": "reported_action"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Original meeting/delegation records, participants, dates and purpose; separate attendance from formal representation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Deputations”; a general protest is insufficient."
     },
     {
       "number": 14,
@@ -423,7 +449,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Original meeting/delegation records, participants, dates and purpose; separate attendance from formal representation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Mock awards”; a general protest is insufficient."
     },
     {
       "number": 15,
@@ -445,7 +473,9 @@
           "evidence_class": "reported_action"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Original meeting/delegation records, participants, dates and purpose; separate attendance from formal representation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Group lobbying”; a general protest is insufficient."
     },
     {
       "number": 16,
@@ -456,7 +486,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Original meeting/delegation records, participants, dates and purpose; separate attendance from formal representation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Picketing”; a general protest is insufficient."
     },
     {
       "number": 17,
@@ -467,7 +499,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Original meeting/delegation records, participants, dates and purpose; separate attendance from formal representation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Mock elections”; a general protest is insufficient."
     },
     {
       "number": 18,
@@ -499,7 +533,9 @@
           "evidence_class": "announced_future_action"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Dated eyewitness reporting, agency image/video and context sufficient to distinguish the precise symbolic act.",
+      "method_specific_test": "Provide original dated evidence specifically of “Displays of flags and symbolic colors”; a general protest is insufficient."
     },
     {
       "number": 19,
@@ -521,7 +557,9 @@
           "evidence_class": "reported_action"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Dated eyewitness reporting, agency image/video and context sufficient to distinguish the precise symbolic act.",
+      "method_specific_test": "Provide original dated evidence specifically of “Wearing of symbols”; a general protest is insufficient."
     },
     {
       "number": 20,
@@ -532,7 +570,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated eyewitness reporting, agency image/video and context sufficient to distinguish the precise symbolic act.",
+      "method_specific_test": "Provide original dated evidence specifically of “Prayer and worship”; a general protest is insufficient."
     },
     {
       "number": 21,
@@ -554,7 +594,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Dated eyewitness reporting, agency image/video and context sufficient to distinguish the precise symbolic act.",
+      "method_specific_test": "Provide original dated evidence specifically of “Delivering symbolic objects”; a general protest is insufficient."
     },
     {
       "number": 22,
@@ -565,7 +607,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated eyewitness reporting, agency image/video and context sufficient to distinguish the precise symbolic act.",
+      "method_specific_test": "Provide original dated evidence specifically of “Protest disrobings”; a general protest is insufficient."
     },
     {
       "number": 23,
@@ -576,7 +620,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated eyewitness reporting, agency image/video and context sufficient to distinguish the precise symbolic act.",
+      "method_specific_test": "Provide original dated evidence specifically of “Destruction of own property”; a general protest is insufficient."
     },
     {
       "number": 24,
@@ -598,7 +644,9 @@
           "evidence_class": "reported_action"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Dated eyewitness reporting, agency image/video and context sufficient to distinguish the precise symbolic act.",
+      "method_specific_test": "Provide original dated evidence specifically of “Symbolic lights”; a general protest is insufficient."
     },
     {
       "number": 25,
@@ -609,7 +657,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated eyewitness reporting, agency image/video and context sufficient to distinguish the precise symbolic act.",
+      "method_specific_test": "Provide original dated evidence specifically of “Displays of portraits”; a general protest is insufficient."
     },
     {
       "number": 26,
@@ -620,7 +670,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated eyewitness reporting, agency image/video and context sufficient to distinguish the precise symbolic act.",
+      "method_specific_test": "Provide original dated evidence specifically of “Paint as protest”; a general protest is insufficient."
     },
     {
       "number": 27,
@@ -642,7 +694,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Dated eyewitness reporting, agency image/video and context sufficient to distinguish the precise symbolic act.",
+      "method_specific_test": "Provide original dated evidence specifically of “New signs and names”; a general protest is insufficient."
     },
     {
       "number": 28,
@@ -653,7 +707,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated eyewitness reporting, agency image/video and context sufficient to distinguish the precise symbolic act.",
+      "method_specific_test": "Provide original dated evidence specifically of “Symbolic sounds”; a general protest is insufficient."
     },
     {
       "number": 29,
@@ -664,7 +720,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated eyewitness reporting, agency image/video and context sufficient to distinguish the precise symbolic act.",
+      "method_specific_test": "Provide original dated evidence specifically of “Symbolic reclamations”; a general protest is insufficient."
     },
     {
       "number": 30,
@@ -675,7 +733,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated eyewitness reporting, agency image/video and context sufficient to distinguish the precise symbolic act.",
+      "method_specific_test": "Provide original dated evidence specifically of “Rude gestures”; a general protest is insufficient."
     },
     {
       "number": 31,
@@ -686,7 +746,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Time-coded source showing directed pressure toward identifiable officials, independent of lawful criticism.",
+      "method_specific_test": "Provide original dated evidence specifically of ““Haunting” officials”; a general protest is insufficient."
     },
     {
       "number": 32,
@@ -697,7 +759,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Time-coded source showing directed pressure toward identifiable officials, independent of lawful criticism.",
+      "method_specific_test": "Provide original dated evidence specifically of “Taunting officials”; a general protest is insufficient."
     },
     {
       "number": 33,
@@ -708,7 +772,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Time-coded source showing directed pressure toward identifiable officials, independent of lawful criticism.",
+      "method_specific_test": "Provide original dated evidence specifically of “Fraternization”; a general protest is insufficient."
     },
     {
       "number": 34,
@@ -730,7 +796,9 @@
           "evidence_class": "reported_action"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Time-coded source showing directed pressure toward identifiable officials, independent of lawful criticism.",
+      "method_specific_test": "Provide original dated evidence specifically of “Vigils”; a general protest is insufficient."
     },
     {
       "number": 35,
@@ -752,7 +820,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Full original performance and evidence of association with the movement rather than unaffiliated parody.",
+      "method_specific_test": "Provide original dated evidence specifically of “Humorous skits and pranks”; a general protest is insufficient."
     },
     {
       "number": 36,
@@ -774,7 +844,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Full original performance and evidence of association with the movement rather than unaffiliated parody.",
+      "method_specific_test": "Provide original dated evidence specifically of “Performances of plays and music”; a general protest is insufficient."
     },
     {
       "number": 37,
@@ -785,7 +857,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Full original performance and evidence of association with the movement rather than unaffiliated parody.",
+      "method_specific_test": "Provide original dated evidence specifically of “Singing”; a general protest is insufficient."
     },
     {
       "number": 38,
@@ -817,7 +891,9 @@
           "evidence_class": "announced_future_action"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Dated footage or reporter verification that a procession actually occurred, not only a mobilisation notice.",
+      "method_specific_test": "Provide original dated evidence specifically of “Marches”; a general protest is insufficient."
     },
     {
       "number": 39,
@@ -828,7 +904,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated footage or reporter verification that a procession actually occurred, not only a mobilisation notice.",
+      "method_specific_test": "Provide original dated evidence specifically of “Parades”; a general protest is insufficient."
     },
     {
       "number": 40,
@@ -839,7 +917,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated footage or reporter verification that a procession actually occurred, not only a mobilisation notice.",
+      "method_specific_test": "Provide original dated evidence specifically of “Religious processions”; a general protest is insufficient."
     },
     {
       "number": 41,
@@ -850,7 +930,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated footage or reporter verification that a procession actually occurred, not only a mobilisation notice.",
+      "method_specific_test": "Provide original dated evidence specifically of “Pilgrimages”; a general protest is insufficient."
     },
     {
       "number": 42,
@@ -861,7 +943,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated footage or reporter verification that a procession actually occurred, not only a mobilisation notice.",
+      "method_specific_test": "Provide original dated evidence specifically of “Motorcades”; a general protest is insufficient."
     },
     {
       "number": 43,
@@ -883,7 +967,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Independent dated funeral, vigil or burial-site documentation showing the specified commemorative political action.",
+      "method_specific_test": "Provide original dated evidence specifically of “Political mourning”; a general protest is insufficient."
     },
     {
       "number": 44,
@@ -894,7 +980,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Independent dated funeral, vigil or burial-site documentation showing the specified commemorative political action.",
+      "method_specific_test": "Provide original dated evidence specifically of “Mock funerals”; a general protest is insufficient."
     },
     {
       "number": 45,
@@ -905,7 +993,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Independent dated funeral, vigil or burial-site documentation showing the specified commemorative political action.",
+      "method_specific_test": "Provide original dated evidence specifically of “Demonstrative funerals”; a general protest is insufficient."
     },
     {
       "number": 46,
@@ -916,7 +1006,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Independent dated funeral, vigil or burial-site documentation showing the specified commemorative political action.",
+      "method_specific_test": "Provide original dated evidence specifically of “Homage at burial places”; a general protest is insufficient."
     },
     {
       "number": 47,
@@ -948,7 +1040,9 @@
           "evidence_class": "reported_action"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Independent dated report of a CJP-linked gathering with location, speakers and action type.",
+      "method_specific_test": "Provide original dated evidence specifically of “Assemblies of protest or support”; a general protest is insufficient."
     },
     {
       "number": 48,
@@ -970,7 +1064,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Independent dated report of a CJP-linked gathering with location, speakers and action type.",
+      "method_specific_test": "Provide original dated evidence specifically of “Protest meetings”; a general protest is insufficient."
     },
     {
       "number": 49,
@@ -981,7 +1077,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Independent dated report of a CJP-linked gathering with location, speakers and action type.",
+      "method_specific_test": "Provide original dated evidence specifically of “Camouflaged meetings of protest”; a general protest is insufficient."
     },
     {
       "number": 50,
@@ -992,7 +1090,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Independent dated report of a CJP-linked gathering with location, speakers and action type.",
+      "method_specific_test": "Provide original dated evidence specifically of “Teach-ins”; a general protest is insufficient."
     },
     {
       "number": 51,
@@ -1003,7 +1103,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of a deliberate public gesture of noncooperation rather than a general protest statement.",
+      "method_specific_test": "Provide original dated evidence specifically of “Walk-outs”; a general protest is insufficient."
     },
     {
       "number": 52,
@@ -1014,7 +1116,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of a deliberate public gesture of noncooperation rather than a general protest statement.",
+      "method_specific_test": "Provide original dated evidence specifically of “Silence”; a general protest is insufficient."
     },
     {
       "number": 53,
@@ -1025,7 +1129,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of a deliberate public gesture of noncooperation rather than a general protest statement.",
+      "method_specific_test": "Provide original dated evidence specifically of “Renouncing honor”; a general protest is insufficient."
     },
     {
       "number": 54,
@@ -1036,7 +1142,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of a deliberate public gesture of noncooperation rather than a general protest statement.",
+      "method_specific_test": "Provide original dated evidence specifically of “Turning one’s back”; a general protest is insufficient."
     },
     {
       "number": 55,
@@ -1047,7 +1155,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated organised denial of social contact by an identifiable CJP-linked group.",
+      "method_specific_test": "Provide original dated evidence specifically of “Social boycott”; a general protest is insufficient."
     },
     {
       "number": 56,
@@ -1058,7 +1168,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated organised denial of social contact by an identifiable CJP-linked group.",
+      "method_specific_test": "Provide original dated evidence specifically of “Selective social boycott”; a general protest is insufficient."
     },
     {
       "number": 57,
@@ -1069,7 +1181,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated organised denial of social contact by an identifiable CJP-linked group.",
+      "method_specific_test": "Provide original dated evidence specifically of “Lysistratic nonaction”; a general protest is insufficient."
     },
     {
       "number": 58,
@@ -1080,7 +1194,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated organised denial of social contact by an identifiable CJP-linked group.",
+      "method_specific_test": "Provide original dated evidence specifically of “Excommunication”; a general protest is insufficient."
     },
     {
       "number": 59,
@@ -1091,7 +1207,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated organised denial of social contact by an identifiable CJP-linked group.",
+      "method_specific_test": "Provide original dated evidence specifically of “Interdict”; a general protest is insufficient."
     },
     {
       "number": 60,
@@ -1102,7 +1220,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated public refusal, organisational notice and evidence the noncooperation was carried out.",
+      "method_specific_test": "Provide original dated evidence specifically of “Suspension of social and sports activities”; a general protest is insufficient."
     },
     {
       "number": 61,
@@ -1113,7 +1233,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated public refusal, organisational notice and evidence the noncooperation was carried out.",
+      "method_specific_test": "Provide original dated evidence specifically of “Boycott of social affairs”; a general protest is insufficient."
     },
     {
       "number": 62,
@@ -1124,7 +1246,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated public refusal, organisational notice and evidence the noncooperation was carried out.",
+      "method_specific_test": "Provide original dated evidence specifically of “Student strike”; a general protest is insufficient."
     },
     {
       "number": 63,
@@ -1135,7 +1259,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated public refusal, organisational notice and evidence the noncooperation was carried out.",
+      "method_specific_test": "Provide original dated evidence specifically of “Social disobedience”; a general protest is insufficient."
     },
     {
       "number": 64,
@@ -1146,7 +1272,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated public refusal, organisational notice and evidence the noncooperation was carried out.",
+      "method_specific_test": "Provide original dated evidence specifically of “Withdrawal from social institutions”; a general protest is insufficient."
     },
     {
       "number": 65,
@@ -1157,7 +1285,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Reliable evidence a specific withdrawal tactic was completed or implemented, not a rhetorical proposal.",
+      "method_specific_test": "Provide original dated evidence specifically of “Stay-at-home”; a general protest is insufficient."
     },
     {
       "number": 66,
@@ -1168,7 +1298,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Reliable evidence a specific withdrawal tactic was completed or implemented, not a rhetorical proposal.",
+      "method_specific_test": "Provide original dated evidence specifically of “Total personal noncooperation”; a general protest is insufficient."
     },
     {
       "number": 67,
@@ -1179,7 +1311,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Reliable evidence a specific withdrawal tactic was completed or implemented, not a rhetorical proposal.",
+      "method_specific_test": "Provide original dated evidence specifically of ““Flight” of workers”; a general protest is insufficient."
     },
     {
       "number": 68,
@@ -1190,7 +1324,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Reliable evidence a specific withdrawal tactic was completed or implemented, not a rhetorical proposal.",
+      "method_specific_test": "Provide original dated evidence specifically of “Sanctuary”; a general protest is insufficient."
     },
     {
       "number": 69,
@@ -1201,7 +1337,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Reliable evidence a specific withdrawal tactic was completed or implemented, not a rhetorical proposal.",
+      "method_specific_test": "Provide original dated evidence specifically of “Collective disappearance”; a general protest is insufficient."
     },
     {
       "number": 70,
@@ -1212,7 +1350,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Reliable evidence a specific withdrawal tactic was completed or implemented, not a rhetorical proposal.",
+      "method_specific_test": "Provide original dated evidence specifically of “Protest emigration (hijrat)”; a general protest is insufficient."
     },
     {
       "number": 71,
@@ -1223,7 +1363,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "A dated organised consumer refusal corroborated by participants or contemporaneous reporting.",
+      "method_specific_test": "Provide original dated evidence specifically of “Consumers’ boycott”; a general protest is insufficient."
     },
     {
       "number": 72,
@@ -1234,7 +1376,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "A dated organised consumer refusal corroborated by participants or contemporaneous reporting.",
+      "method_specific_test": "Provide original dated evidence specifically of “Nonconsumption of boycotted goods”; a general protest is insufficient."
     },
     {
       "number": 73,
@@ -1245,7 +1389,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "A dated organised consumer refusal corroborated by participants or contemporaneous reporting.",
+      "method_specific_test": "Provide original dated evidence specifically of “Policy of austerity”; a general protest is insufficient."
     },
     {
       "number": 74,
@@ -1256,7 +1402,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "A dated organised consumer refusal corroborated by participants or contemporaneous reporting.",
+      "method_specific_test": "Provide original dated evidence specifically of “Rent withholding”; a general protest is insufficient."
     },
     {
       "number": 75,
@@ -1267,7 +1415,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "A dated organised consumer refusal corroborated by participants or contemporaneous reporting.",
+      "method_specific_test": "Provide original dated evidence specifically of “Refusal to rent”; a general protest is insufficient."
     },
     {
       "number": 76,
@@ -1278,7 +1428,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "A dated organised consumer refusal corroborated by participants or contemporaneous reporting.",
+      "method_specific_test": "Provide original dated evidence specifically of “National consumers’ boycott”; a general protest is insufficient."
     },
     {
       "number": 77,
@@ -1289,7 +1441,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "A dated organised consumer refusal corroborated by participants or contemporaneous reporting.",
+      "method_specific_test": "Provide original dated evidence specifically of “International consumers’ boycott”; a general protest is insufficient."
     },
     {
       "number": 78,
@@ -1300,7 +1454,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Confirmed collective professional/producer boycott with explicit CJP nexus and participating group.",
+      "method_specific_test": "Provide original dated evidence specifically of “Workmen’s boycott”; a general protest is insufficient."
     },
     {
       "number": 79,
@@ -1311,7 +1467,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Confirmed collective professional/producer boycott with explicit CJP nexus and participating group.",
+      "method_specific_test": "Provide original dated evidence specifically of “Producers’ boycott”; a general protest is insufficient."
     },
     {
       "number": 80,
@@ -1322,7 +1480,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated coordinated distributor/supplier boycott tied to CJP actors.",
+      "method_specific_test": "Provide original dated evidence specifically of “Suppliers’ and handlers’ boycott”; a general protest is insufficient."
     },
     {
       "number": 81,
@@ -1333,7 +1493,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated business-owner action matching the named boycott/lockout, with independent attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Traders’ boycott”; a general protest is insufficient."
     },
     {
       "number": 82,
@@ -1344,7 +1506,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated business-owner action matching the named boycott/lockout, with independent attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Refusal to let or sell property”; a general protest is insufficient."
     },
     {
       "number": 83,
@@ -1355,7 +1519,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated business-owner action matching the named boycott/lockout, with independent attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Lockout”; a general protest is insufficient."
     },
     {
       "number": 84,
@@ -1366,7 +1532,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated business-owner action matching the named boycott/lockout, with independent attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Refusal of industrial assistance”; a general protest is insufficient."
     },
     {
       "number": 85,
@@ -1377,7 +1545,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated business-owner action matching the named boycott/lockout, with independent attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Merchants’ “general strike””; a general protest is insufficient."
     },
     {
       "number": 86,
@@ -1388,7 +1558,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of actual financial noncooperation, preferably contemporaneous financial records.",
+      "method_specific_test": "Provide original dated evidence specifically of “Withdrawal of bank deposits”; a general protest is insufficient."
     },
     {
       "number": 87,
@@ -1399,7 +1571,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of actual financial noncooperation, preferably contemporaneous financial records.",
+      "method_specific_test": "Provide original dated evidence specifically of “Refusal to pay fees, dues, and assessments”; a general protest is insufficient."
     },
     {
       "number": 88,
@@ -1410,7 +1584,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of actual financial noncooperation, preferably contemporaneous financial records.",
+      "method_specific_test": "Provide original dated evidence specifically of “Refusal to pay debts or interest”; a general protest is insufficient."
     },
     {
       "number": 89,
@@ -1421,7 +1597,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of actual financial noncooperation, preferably contemporaneous financial records.",
+      "method_specific_test": "Provide original dated evidence specifically of “Severance of funds and credit”; a general protest is insufficient."
     },
     {
       "number": 90,
@@ -1432,7 +1610,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of actual financial noncooperation, preferably contemporaneous financial records.",
+      "method_specific_test": "Provide original dated evidence specifically of “Revenue refusal”; a general protest is insufficient."
     },
     {
       "number": 91,
@@ -1443,7 +1623,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of actual financial noncooperation, preferably contemporaneous financial records.",
+      "method_specific_test": "Provide original dated evidence specifically of “Refusal of a government’s money”; a general protest is insufficient."
     },
     {
       "number": 92,
@@ -1454,7 +1636,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Official order describing a government-directed embargo or action, with evidence of CJP linkage.",
+      "method_specific_test": "Provide original dated evidence specifically of “Domestic embargo”; a general protest is insufficient."
     },
     {
       "number": 93,
@@ -1465,7 +1649,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Official order describing a government-directed embargo or action, with evidence of CJP linkage.",
+      "method_specific_test": "Provide original dated evidence specifically of “Blacklisting of traders”; a general protest is insufficient."
     },
     {
       "number": 94,
@@ -1476,7 +1662,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Official order describing a government-directed embargo or action, with evidence of CJP linkage.",
+      "method_specific_test": "Provide original dated evidence specifically of “International sellers’ embargo”; a general protest is insufficient."
     },
     {
       "number": 95,
@@ -1487,7 +1675,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Official order describing a government-directed embargo or action, with evidence of CJP linkage.",
+      "method_specific_test": "Provide original dated evidence specifically of “International buyers’ embargo”; a general protest is insufficient."
     },
     {
       "number": 96,
@@ -1498,7 +1688,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Official order describing a government-directed embargo or action, with evidence of CJP linkage.",
+      "method_specific_test": "Provide original dated evidence specifically of “International trade embargo”; a general protest is insufficient."
     },
     {
       "number": 97,
@@ -1509,7 +1701,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verified temporary work stoppage called for specific public demands, not an unrelated demonstration.",
+      "method_specific_test": "Provide original dated evidence specifically of “Protest strike”; a general protest is insufficient."
     },
     {
       "number": 98,
@@ -1520,7 +1714,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verified temporary work stoppage called for specific public demands, not an unrelated demonstration.",
+      "method_specific_test": "Provide original dated evidence specifically of “Quickie walkout (lightning strike)”; a general protest is insufficient."
     },
     {
       "number": 99,
@@ -1531,7 +1727,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verified action by cultivators/workers and contemporaneous participants' statements.",
+      "method_specific_test": "Provide original dated evidence specifically of “Peasant strike”; a general protest is insufficient."
     },
     {
       "number": 100,
@@ -1542,7 +1740,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verified action by cultivators/workers and contemporaneous participants' statements.",
+      "method_specific_test": "Provide original dated evidence specifically of “Farm Workers’ strike”; a general protest is insufficient."
     },
     {
       "number": 101,
@@ -1553,7 +1753,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verified particular occupational group interruption linked to movement demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Refusal of impressed labor”; a general protest is insufficient."
     },
     {
       "number": 102,
@@ -1564,7 +1766,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verified particular occupational group interruption linked to movement demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Prisoners’ strike”; a general protest is insufficient."
     },
     {
       "number": 103,
@@ -1575,7 +1779,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verified particular occupational group interruption linked to movement demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Craft strike”; a general protest is insufficient."
     },
     {
       "number": 104,
@@ -1586,7 +1792,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verified particular occupational group interruption linked to movement demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Professional strike”; a general protest is insufficient."
     },
     {
       "number": 105,
@@ -1597,7 +1805,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Contemporaneous industrial stoppage records, workers' statements and employer corroboration.",
+      "method_specific_test": "Provide original dated evidence specifically of “Establishment strike”; a general protest is insufficient."
     },
     {
       "number": 106,
@@ -1608,7 +1818,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Contemporaneous industrial stoppage records, workers' statements and employer corroboration.",
+      "method_specific_test": "Provide original dated evidence specifically of “Industry strike”; a general protest is insufficient."
     },
     {
       "number": 107,
@@ -1619,7 +1831,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Contemporaneous industrial stoppage records, workers' statements and employer corroboration.",
+      "method_specific_test": "Provide original dated evidence specifically of “Sympathetic strike”; a general protest is insufficient."
     },
     {
       "number": 108,
@@ -1630,7 +1844,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of the exact restricted-strike mechanism actually implemented by participants.",
+      "method_specific_test": "Provide original dated evidence specifically of “Detailed strike”; a general protest is insufficient."
     },
     {
       "number": 109,
@@ -1641,7 +1857,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of the exact restricted-strike mechanism actually implemented by participants.",
+      "method_specific_test": "Provide original dated evidence specifically of “Bumper strike”; a general protest is insufficient."
     },
     {
       "number": 110,
@@ -1652,7 +1870,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of the exact restricted-strike mechanism actually implemented by participants.",
+      "method_specific_test": "Provide original dated evidence specifically of “Slowdown strike”; a general protest is insufficient."
     },
     {
       "number": 111,
@@ -1663,7 +1883,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of the exact restricted-strike mechanism actually implemented by participants.",
+      "method_specific_test": "Provide original dated evidence specifically of “Working-to-rule strike”; a general protest is insufficient."
     },
     {
       "number": 112,
@@ -1674,7 +1896,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of the exact restricted-strike mechanism actually implemented by participants.",
+      "method_specific_test": "Provide original dated evidence specifically of “Reporting “sick” (sick-in)”; a general protest is insufficient."
     },
     {
       "number": 113,
@@ -1685,7 +1909,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of the exact restricted-strike mechanism actually implemented by participants.",
+      "method_specific_test": "Provide original dated evidence specifically of “Strike by resignation”; a general protest is insufficient."
     },
     {
       "number": 114,
@@ -1696,7 +1922,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of the exact restricted-strike mechanism actually implemented by participants.",
+      "method_specific_test": "Provide original dated evidence specifically of “Limited strike”; a general protest is insufficient."
     },
     {
       "number": 115,
@@ -1707,7 +1935,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of the exact restricted-strike mechanism actually implemented by participants.",
+      "method_specific_test": "Provide original dated evidence specifically of “Selective strike”; a general protest is insufficient."
     },
     {
       "number": 116,
@@ -1718,7 +1948,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated independent documentation of stoppages across industries, not only a nationwide protest slogan.",
+      "method_specific_test": "Provide original dated evidence specifically of “Generalized strike”; a general protest is insufficient."
     },
     {
       "number": 117,
@@ -1729,7 +1961,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated independent documentation of stoppages across industries, not only a nationwide protest slogan.",
+      "method_specific_test": "Provide original dated evidence specifically of “General strike”; a general protest is insufficient."
     },
     {
       "number": 118,
@@ -1740,7 +1974,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of actual coordinated work and trade shutdowns plus relevant local dates.",
+      "method_specific_test": "Provide original dated evidence specifically of “Hartal”; a general protest is insufficient."
     },
     {
       "number": 119,
@@ -1751,7 +1987,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence of actual coordinated work and trade shutdowns plus relevant local dates.",
+      "method_specific_test": "Provide original dated evidence specifically of “Economic shutdown”; a general protest is insufficient."
     },
     {
       "number": 120,
@@ -1762,7 +2000,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated speech and observable withdrawal of allegiance, not criticism alone.",
+      "method_specific_test": "Provide original dated evidence specifically of “Withholding or withdrawal of allegiance”; a general protest is insufficient."
     },
     {
       "number": 121,
@@ -1773,7 +2013,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated speech and observable withdrawal of allegiance, not criticism alone.",
+      "method_specific_test": "Provide original dated evidence specifically of “Refusal of public support”; a general protest is insufficient."
     },
     {
       "number": 122,
@@ -1795,7 +2037,9 @@
           "evidence_class": "reported_action"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Authenticated speech and observable withdrawal of allegiance, not criticism alone.",
+      "method_specific_test": "Provide original dated evidence specifically of “Literature and speeches advocating resistance”; a general protest is insufficient."
     },
     {
       "number": 123,
@@ -1806,7 +2050,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated evidence of refusal involving the named state procedure; distinguish lawful challenge and noncompliance.",
+      "method_specific_test": "Provide original dated evidence specifically of “Boycott of legislative bodies”; a general protest is insufficient."
     },
     {
       "number": 124,
@@ -1817,7 +2063,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated evidence of refusal involving the named state procedure; distinguish lawful challenge and noncompliance.",
+      "method_specific_test": "Provide original dated evidence specifically of “Boycott of elections”; a general protest is insufficient."
     },
     {
       "number": 125,
@@ -1828,7 +2076,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated evidence of refusal involving the named state procedure; distinguish lawful challenge and noncompliance.",
+      "method_specific_test": "Provide original dated evidence specifically of “Boycott of government employment and positions”; a general protest is insufficient."
     },
     {
       "number": 126,
@@ -1839,7 +2089,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated evidence of refusal involving the named state procedure; distinguish lawful challenge and noncompliance.",
+      "method_specific_test": "Provide original dated evidence specifically of “Boycott of government depts., agencies, and other bodies”; a general protest is insufficient."
     },
     {
       "number": 127,
@@ -1850,7 +2102,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated evidence of refusal involving the named state procedure; distinguish lawful challenge and noncompliance.",
+      "method_specific_test": "Provide original dated evidence specifically of “Withdrawal from government educational institutions”; a general protest is insufficient."
     },
     {
       "number": 128,
@@ -1861,7 +2115,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated evidence of refusal involving the named state procedure; distinguish lawful challenge and noncompliance.",
+      "method_specific_test": "Provide original dated evidence specifically of “Boycott of government-supported organizations”; a general protest is insufficient."
     },
     {
       "number": 129,
@@ -1872,7 +2128,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated evidence of refusal involving the named state procedure; distinguish lawful challenge and noncompliance.",
+      "method_specific_test": "Provide original dated evidence specifically of “Refusal of assistance to enforcement agents”; a general protest is insufficient."
     },
     {
       "number": 130,
@@ -1883,7 +2141,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated evidence of refusal involving the named state procedure; distinguish lawful challenge and noncompliance.",
+      "method_specific_test": "Provide original dated evidence specifically of “Removal of own signs and placemarks”; a general protest is insufficient."
     },
     {
       "number": 131,
@@ -1894,7 +2154,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated evidence of refusal involving the named state procedure; distinguish lawful challenge and noncompliance.",
+      "method_specific_test": "Provide original dated evidence specifically of “Refusal to accept appointed officials”; a general protest is insufficient."
     },
     {
       "number": 132,
@@ -1905,7 +2167,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Dated evidence of refusal involving the named state procedure; distinguish lawful challenge and noncompliance.",
+      "method_specific_test": "Provide original dated evidence specifically of “Refusal to dissolve existing institutions”; a general protest is insufficient."
     },
     {
       "number": 133,
@@ -1916,7 +2180,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Exact underlying rule/order and event-level evidence of the response. Do not infer illegality from a police accusation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Reluctant and slow compliance”; a general protest is insufficient."
     },
     {
       "number": 134,
@@ -1927,7 +2193,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Exact underlying rule/order and event-level evidence of the response. Do not infer illegality from a police accusation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Nonobedience in absence of direct supervision”; a general protest is insufficient."
     },
     {
       "number": 135,
@@ -1938,7 +2206,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Exact underlying rule/order and event-level evidence of the response. Do not infer illegality from a police accusation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Popular nonobedience”; a general protest is insufficient."
     },
     {
       "number": 136,
@@ -1949,7 +2219,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Exact underlying rule/order and event-level evidence of the response. Do not infer illegality from a police accusation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Disguised disobedience”; a general protest is insufficient."
     },
     {
       "number": 137,
@@ -1971,7 +2243,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Exact underlying rule/order and event-level evidence of the response. Do not infer illegality from a police accusation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Refusal of an assemblage or meeting to disperse”; a general protest is insufficient."
     },
     {
       "number": 138,
@@ -1993,7 +2267,9 @@
           "evidence_class": "announced_intention"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Exact underlying rule/order and event-level evidence of the response. Do not infer illegality from a police accusation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Sitdown”; a general protest is insufficient."
     },
     {
       "number": 139,
@@ -2004,7 +2280,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Exact underlying rule/order and event-level evidence of the response. Do not infer illegality from a police accusation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Noncooperation with conscription and deportation”; a general protest is insufficient."
     },
     {
       "number": 140,
@@ -2015,7 +2293,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Exact underlying rule/order and event-level evidence of the response. Do not infer illegality from a police accusation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Hiding, escape, and false identities”; a general protest is insufficient."
     },
     {
       "number": 141,
@@ -2037,7 +2317,9 @@
           "evidence_class": "announced_intention"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Exact underlying rule/order and event-level evidence of the response. Do not infer illegality from a police accusation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Civil disobedience of “illegitimate” laws”; a general protest is insufficient."
     },
     {
       "number": 142,
@@ -2048,7 +2330,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated evidence that government employees carried out the precise named tactic.",
+      "method_specific_test": "Provide original dated evidence specifically of “Selective refusal of assistance by government aides”; a general protest is insufficient."
     },
     {
       "number": 143,
@@ -2059,7 +2343,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated evidence that government employees carried out the precise named tactic.",
+      "method_specific_test": "Provide original dated evidence specifically of “Blocking of lines of command and information”; a general protest is insufficient."
     },
     {
       "number": 144,
@@ -2070,7 +2356,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated evidence that government employees carried out the precise named tactic.",
+      "method_specific_test": "Provide original dated evidence specifically of “Stalling and obstruction”; a general protest is insufficient."
     },
     {
       "number": 145,
@@ -2081,7 +2369,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated evidence that government employees carried out the precise named tactic.",
+      "method_specific_test": "Provide original dated evidence specifically of “General administrative noncooperation”; a general protest is insufficient."
     },
     {
       "number": 146,
@@ -2092,7 +2382,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated evidence that government employees carried out the precise named tactic.",
+      "method_specific_test": "Provide original dated evidence specifically of “Judicial noncooperation”; a general protest is insufficient."
     },
     {
       "number": 147,
@@ -2103,7 +2395,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated evidence that government employees carried out the precise named tactic.",
+      "method_specific_test": "Provide original dated evidence specifically of “Deliberate inefficiency and selective noncooperation by enforcement agents”; a general protest is insufficient."
     },
     {
       "number": 148,
@@ -2114,7 +2408,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated evidence that government employees carried out the precise named tactic.",
+      "method_specific_test": "Provide original dated evidence specifically of “Mutiny”; a general protest is insufficient."
     },
     {
       "number": 149,
@@ -2125,7 +2421,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Official record of a government actor's formal action linked to a CJP campaign.",
+      "method_specific_test": "Provide original dated evidence specifically of “Quasi-legal evasions and delays”; a general protest is insufficient."
     },
     {
       "number": 150,
@@ -2136,7 +2434,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Official record of a government actor's formal action linked to a CJP campaign.",
+      "method_specific_test": "Provide original dated evidence specifically of “Noncooperation by constituent governmental units”; a general protest is insufficient."
     },
     {
       "number": 151,
@@ -2147,7 +2447,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Formal intergovernmental or diplomatic documentation, not outside-country commentary.",
+      "method_specific_test": "Provide original dated evidence specifically of “Changes in diplomatic and other representations”; a general protest is insufficient."
     },
     {
       "number": 152,
@@ -2158,7 +2460,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Formal intergovernmental or diplomatic documentation, not outside-country commentary.",
+      "method_specific_test": "Provide original dated evidence specifically of “Delay and cancellation of diplomatic events”; a general protest is insufficient."
     },
     {
       "number": 153,
@@ -2169,7 +2473,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Formal intergovernmental or diplomatic documentation, not outside-country commentary.",
+      "method_specific_test": "Provide original dated evidence specifically of “Withholding of diplomatic recognition”; a general protest is insufficient."
     },
     {
       "number": 154,
@@ -2180,7 +2486,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Formal intergovernmental or diplomatic documentation, not outside-country commentary.",
+      "method_specific_test": "Provide original dated evidence specifically of “Severance of diplomatic relations”; a general protest is insufficient."
     },
     {
       "number": 155,
@@ -2191,7 +2499,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Formal intergovernmental or diplomatic documentation, not outside-country commentary.",
+      "method_specific_test": "Provide original dated evidence specifically of “Withdrawal from international organizations”; a general protest is insufficient."
     },
     {
       "number": 156,
@@ -2202,7 +2512,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Formal intergovernmental or diplomatic documentation, not outside-country commentary.",
+      "method_specific_test": "Provide original dated evidence specifically of “Refusal of membership in international bodies”; a general protest is insufficient."
     },
     {
       "number": 157,
@@ -2213,7 +2525,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Formal intergovernmental or diplomatic documentation, not outside-country commentary.",
+      "method_specific_test": "Provide original dated evidence specifically of “Expulsion from international organizations”; a general protest is insufficient."
     },
     {
       "number": 158,
@@ -2224,7 +2538,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Direct verified performance of the named tactic with participant and date; fasting requires dated observation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Self-exposure to the elements”; a general protest is insufficient."
     },
     {
       "number": 159,
@@ -2256,7 +2572,9 @@
           "evidence_class": "announced_intention"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Direct verified performance of the named tactic with participant and date; fasting requires dated observation.",
+      "method_specific_test": "Provide original dated evidence specifically of “The fast”; a general protest is insufficient."
     },
     {
       "number": 160,
@@ -2267,7 +2585,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Direct verified performance of the named tactic with participant and date; fasting requires dated observation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Reverse trial”; a general protest is insufficient."
     },
     {
       "number": 161,
@@ -2278,7 +2598,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Direct verified performance of the named tactic with participant and date; fasting requires dated observation.",
+      "method_specific_test": "Provide original dated evidence specifically of “Nonviolent harassment”; a general protest is insufficient."
     },
     {
       "number": 162,
@@ -2310,7 +2632,9 @@
           "evidence_class": "reported_action"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Unedited footage or eyewitness reporting of the precise physical behaviour, separate from disputed violence.",
+      "method_specific_test": "Provide original dated evidence specifically of “Sit-in”; a general protest is insufficient."
     },
     {
       "number": 163,
@@ -2321,7 +2645,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Unedited footage or eyewitness reporting of the precise physical behaviour, separate from disputed violence.",
+      "method_specific_test": "Provide original dated evidence specifically of “Stand-in”; a general protest is insufficient."
     },
     {
       "number": 164,
@@ -2332,7 +2658,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Unedited footage or eyewitness reporting of the precise physical behaviour, separate from disputed violence.",
+      "method_specific_test": "Provide original dated evidence specifically of “Ride-in”; a general protest is insufficient."
     },
     {
       "number": 165,
@@ -2343,7 +2671,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Unedited footage or eyewitness reporting of the precise physical behaviour, separate from disputed violence.",
+      "method_specific_test": "Provide original dated evidence specifically of “Wade-in”; a general protest is insufficient."
     },
     {
       "number": 166,
@@ -2354,7 +2684,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Unedited footage or eyewitness reporting of the precise physical behaviour, separate from disputed violence.",
+      "method_specific_test": "Provide original dated evidence specifically of “Mill-in”; a general protest is insufficient."
     },
     {
       "number": 167,
@@ -2365,7 +2697,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Unedited footage or eyewitness reporting of the precise physical behaviour, separate from disputed violence.",
+      "method_specific_test": "Provide original dated evidence specifically of “Pray-in”; a general protest is insufficient."
     },
     {
       "number": 168,
@@ -2376,7 +2710,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Unedited footage or eyewitness reporting of the precise physical behaviour, separate from disputed violence.",
+      "method_specific_test": "Provide original dated evidence specifically of “Nonviolent raids”; a general protest is insufficient."
     },
     {
       "number": 169,
@@ -2387,7 +2723,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Unedited footage or eyewitness reporting of the precise physical behaviour, separate from disputed violence.",
+      "method_specific_test": "Provide original dated evidence specifically of “Nonviolent air raids”; a general protest is insufficient."
     },
     {
       "number": 170,
@@ -2398,7 +2736,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Unedited footage or eyewitness reporting of the precise physical behaviour, separate from disputed violence.",
+      "method_specific_test": "Provide original dated evidence specifically of “Nonviolent invasion”; a general protest is insufficient."
     },
     {
       "number": 171,
@@ -2409,7 +2749,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Unedited footage or eyewitness reporting of the precise physical behaviour, separate from disputed violence.",
+      "method_specific_test": "Provide original dated evidence specifically of “Nonviolent interjection”; a general protest is insufficient."
     },
     {
       "number": 172,
@@ -2431,7 +2773,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Unedited footage or eyewitness reporting of the precise physical behaviour, separate from disputed violence.",
+      "method_specific_test": "Provide original dated evidence specifically of “Nonviolent obstruction”; a general protest is insufficient."
     },
     {
       "number": 173,
@@ -2453,7 +2797,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Unedited footage or eyewitness reporting of the precise physical behaviour, separate from disputed violence.",
+      "method_specific_test": "Provide original dated evidence specifically of “Nonviolent occupation”; a general protest is insufficient."
     },
     {
       "number": 174,
@@ -2464,7 +2810,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence participants instituted the specified alternative or public intervention, with actor attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Establishing new social patterns”; a general protest is insufficient."
     },
     {
       "number": 175,
@@ -2475,7 +2823,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence participants instituted the specified alternative or public intervention, with actor attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Overloading of facilities”; a general protest is insufficient."
     },
     {
       "number": 176,
@@ -2486,7 +2836,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence participants instituted the specified alternative or public intervention, with actor attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Stall-in”; a general protest is insufficient."
     },
     {
       "number": 177,
@@ -2497,7 +2849,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence participants instituted the specified alternative or public intervention, with actor attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Speak-in”; a general protest is insufficient."
     },
     {
       "number": 178,
@@ -2508,7 +2862,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence participants instituted the specified alternative or public intervention, with actor attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Guerrilla theater”; a general protest is insufficient."
     },
     {
       "number": 179,
@@ -2519,7 +2875,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Evidence participants instituted the specified alternative or public intervention, with actor attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Alternative social institutions”; a general protest is insufficient."
     },
     {
       "number": 180,
@@ -2541,7 +2899,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Evidence participants instituted the specified alternative or public intervention, with actor attribution.",
+      "method_specific_test": "Provide original dated evidence specifically of “Alternative communication system”; a general protest is insufficient."
     },
     {
       "number": 181,
@@ -2552,7 +2912,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verifiable completion of economic intervention; finance and commercial effects must be distinguished from demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Reverse strike”; a general protest is insufficient."
     },
     {
       "number": 182,
@@ -2563,7 +2925,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verifiable completion of economic intervention; finance and commercial effects must be distinguished from demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Stay-in strike”; a general protest is insufficient."
     },
     {
       "number": 183,
@@ -2574,7 +2938,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verifiable completion of economic intervention; finance and commercial effects must be distinguished from demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Nonviolent land seizure”; a general protest is insufficient."
     },
     {
       "number": 184,
@@ -2585,7 +2951,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verifiable completion of economic intervention; finance and commercial effects must be distinguished from demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Defiance of blockades”; a general protest is insufficient."
     },
     {
       "number": 185,
@@ -2596,7 +2964,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verifiable completion of economic intervention; finance and commercial effects must be distinguished from demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Politically motivated counterfeiting”; a general protest is insufficient."
     },
     {
       "number": 186,
@@ -2607,7 +2977,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verifiable completion of economic intervention; finance and commercial effects must be distinguished from demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Preclusive purchasing”; a general protest is insufficient."
     },
     {
       "number": 187,
@@ -2618,7 +2990,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verifiable completion of economic intervention; finance and commercial effects must be distinguished from demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Seizure of assets”; a general protest is insufficient."
     },
     {
       "number": 188,
@@ -2629,7 +3003,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verifiable completion of economic intervention; finance and commercial effects must be distinguished from demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Dumping”; a general protest is insufficient."
     },
     {
       "number": 189,
@@ -2640,7 +3016,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verifiable completion of economic intervention; finance and commercial effects must be distinguished from demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Selective patronage”; a general protest is insufficient."
     },
     {
       "number": 190,
@@ -2651,7 +3029,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verifiable completion of economic intervention; finance and commercial effects must be distinguished from demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Alternative markets”; a general protest is insufficient."
     },
     {
       "number": 191,
@@ -2662,7 +3042,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verifiable completion of economic intervention; finance and commercial effects must be distinguished from demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Alternative transportation systems”; a general protest is insufficient."
     },
     {
       "number": 192,
@@ -2673,7 +3055,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Verifiable completion of economic intervention; finance and commercial effects must be distinguished from demands.",
+      "method_specific_test": "Provide original dated evidence specifically of “Alternative economic institutions”; a general protest is insufficient."
     },
     {
       "number": 193,
@@ -2684,7 +3068,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated institutional actions or deliberate acts matching the particular Sharp mechanism.",
+      "method_specific_test": "Provide original dated evidence specifically of “Overloading of administrative systems”; a general protest is insufficient."
     },
     {
       "number": 194,
@@ -2695,7 +3081,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated institutional actions or deliberate acts matching the particular Sharp mechanism.",
+      "method_specific_test": "Provide original dated evidence specifically of “Disclosing identities of secret agents”; a general protest is insufficient."
     },
     {
       "number": 195,
@@ -2717,7 +3105,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Authenticated institutional actions or deliberate acts matching the particular Sharp mechanism.",
+      "method_specific_test": "Provide original dated evidence specifically of “Seeking imprisonment”; a general protest is insufficient."
     },
     {
       "number": 196,
@@ -2739,7 +3129,9 @@
           "evidence_class": "interpretive_candidate"
         }
       ],
-      "evidence_note": null
+      "evidence_note": null,
+      "confirmation_test": "Authenticated institutional actions or deliberate acts matching the particular Sharp mechanism.",
+      "method_specific_test": "Provide original dated evidence specifically of “Civil disobedience of “neutral” laws”; a general protest is insufficient."
     },
     {
       "number": 197,
@@ -2750,7 +3142,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated institutional actions or deliberate acts matching the particular Sharp mechanism.",
+      "method_specific_test": "Provide original dated evidence specifically of “Work-on without collaboration”; a general protest is insufficient."
     },
     {
       "number": 198,
@@ -2761,7 +3155,9 @@
       "first_observed_date": null,
       "first_linked_date": null,
       "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use."
+      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
+      "confirmation_test": "Authenticated institutional actions or deliberate acts matching the particular Sharp mechanism.",
+      "method_specific_test": "Provide original dated evidence specifically of “Dual sovereignty and parallel government”; a general protest is insufficient."
     }
   ],
   "notes": [
@@ -2974,5 +3370,11 @@
       "status": "announced_event_unverified",
       "not_assigned_to_method": true
     }
-  ]
+  ],
+  "review_protocol": {
+    "check_each_of_198": true,
+    "source_window": "2026-05-16 to 2026-10-15",
+    "proposition_test": "Method named, physical or public-verbal conduct tested against that exact definition; action before any later date announcement; actor scope established; source provenance; first documented date.",
+    "classification_limit": "This is a limited-source comparison and categorisation exercise, not 198 separately authenticated archival investigations or proof that AEI methods were consciously followed."
+  }
 }
