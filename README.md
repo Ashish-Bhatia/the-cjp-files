@@ -1,20 +1,29 @@
 # The CJP Files
 
-GitHub Pages editorial investigation, published at https://ashish-bhatia.github.io/the-cjp-files/.
+Editorial investigation on GitHub Pages: https://ashish-bhatia.github.io/the-cjp-files/
 
-## 15 October 2026: public-statement research release
+## Research release, 15 October 2026 (IST)
 
-- 39 selected dated public milestones in the main chronology, partial rather than exhaustive coverage.
-- 22 public statements reviewed in the Myth vs Reality investigation, spoken in recorded interviews, reported press interactions, public speeches or press conferences.
-- Earlier 26-item register superseded because it included manifesto-page propositions, online counters, social-only allegations and editor-derived claims outside the revised publication rule.
-- Verbatim quote reproduction avoided in most cards: each card identifies its speaker, date, speech format, original reporting and what would corroborate or contradict it.
-- Direct interview sources are distinguished from secondary articles that quote public remarks. Where complete original recordings or timecodes are unavailable, provenance is marked as a limitation.
-- Research datasets: `research/chronology.json`, `research/claim-reviews.json` and `research/coverage-and-corrections.md`.
+- **45** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
+- **51** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
+- Association register tracks separately reported public participation, former office, prior-party affiliations, issue-focused support and allegations. **Former spokesperson Vijeta Dahiya's July 21 departure is separately documented.**
+- New interview review: September 24 election commission press conference, October 6 civil-disobedience interview, October 8 public speeches, October 12 interview reported October 13, July press conferences and early June/July Dahiya material.
+- Original recording authentication remains incomplete. Article quotes, producer summaries and edited interviews have source-level caveats. Read `research/statement-source-audit.json`.
+- Earlier 26-item manifesto/social/source-mixed collection was superseded and cannot be treated as current under the spoken-claims-only rule.
 
-## Standards
+## Editorial policy
 
-Claims about parties or public figures are not treated as verified merely because someone said them. Public positions are not equated with illegal conduct. Gene Sharp / AEI tactical similarity is not proof of operational instruction. Court orders and government records are background verification, not substitute attributed CJP claims. A media-only live discovery feed was withdrawn from the public site to preserve admission standards.
+Only public *spoken* claims enter the claim-review dataset. Other evidence, such as court orders, statutes, ECI positions and reporter observations, is used for checking context and chronology, not as standalone CJP spoken claims. Social-media-only allegations about foreign financing remain excluded unless later made in an eligible public verbal setting. Any claim of an AEI link, AAP instruction chain, illegal funding or election rigging needs independently corroborated operational evidence. Speakers' denials also are not independent financial audits. Prospective protest announcements must not be logged as completed events.
+
+## Content files
+
+- `index.html`: editorial investigation, public network/association atlas, chronology, source register and Gene Sharp comparison.
+- `myth-vs-reality.html`: 45 cases, with speaker/date/format, source, comparison and missing original evidence.
+- `research/claim-reviews.json`: machine-readable statement reviews.
+- `research/chronology.json`: dated events and provenance.
+- `research/statement-source-audit.json`: source and authentication tiers, research gaps.
+- `research/coverage-and-corrections.md`: scope, gaps and legal caution.
 
 ## Deployment
 
-Static site deployed through GitHub Actions workflow `.github/workflows/deploy.yml`. Updates to `main` trigger publishing. This is an editorial release, not a promise of exhaustive retrospective transcription or autonomous verification.
+Changes pushed to `main` trigger the existing GitHub Pages publishing workflow. No unaudited live news feed directly alters published conclusions.
