@@ -25,13 +25,6 @@
       "url": "https://theprint.in/feature/boston-university-indian-student-cockroach-janta-party/2935156/"
     },
     {
-      "event_date": "5 June 2026",
-      "title": "Then-spokesperson Dahiya interviewed ahead of June protest",
-      "assessment": "A published interview features Vijeta Dahiya explaining the planned education protest. The video provides topic timestamps; specific claims await time-coded transcript verification.",
-      "source": "Shweta Jaya / recorded interview",
-      "url": "https://www.youtube.com/watch?v=Lcnddk_utac"
-    },
-    {
       "event_date": "20 May 2026",
       "title": "Dipke answers questions in India Today interview",
       "assessment": "In an on-camera interview, the founder explains his objection to remarks attributed to the Chief Justice, youth frustration and intended peaceful protest. The unedited judicial hearing is a separate source requirement.",
@@ -51,6 +44,13 @@
       "assessment": "ThePrint published a recording labelled as CJP's New Delhi press conference concerning the proposed 6 June protest. Specific claims from the recording remain excluded until reviewed against a time-coded transcript.",
       "source": "ThePrint / press conference video",
       "url": "https://www.youtube.com/watch?v=FKKxpzyOM9Y"
+    },
+    {
+      "event_date": "5 June 2026",
+      "title": "Then-spokesperson Dahiya interviewed ahead of June protest",
+      "assessment": "A published interview features Vijeta Dahiya explaining the planned education protest. The video provides topic timestamps; specific claims await time-coded transcript verification.",
+      "source": "Shweta Jaya / recorded interview",
+      "url": "https://www.youtube.com/watch?v=Lcnddk_utac"
     },
     {
       "event_date": "6 June 2026",
@@ -130,20 +130,6 @@
       "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
     },
     {
-      "event_date": "21 July 2026",
-      "title": "CJP removes Vijeta Dahiya from spokesperson role",
-      "assessment": "Indian Express reports Dahiya's removal after a July 20 controversy. The shift is a dated organisational event and should not be mistaken for continued leadership or proof about disputed video sequences.",
-      "source": "Indian Express / contemporaneous reporting",
-      "url": "https://indianexpress.com/article/cities/delhi/cockroach-janta-party-vijeta-dahiya-spokesperson-burger-viral-video-10796877/"
-    },
-    {
-      "event_date": "22 July 2026",
-      "title": "Dahiya disputes removal and discusses movement links in interview",
-      "assessment": "In a named interview he describes the dismissal as surprising, contests accusations about his whereabouts and says he supports the cause without remaining a formal member.",
-      "source": "Indian Express / direct interview",
-      "url": "https://indianexpress.com/article/india/vijeta-dahiya-interview-cjp-ouster-burger-video-abhijeet-dipke-premanand-10798804/"
-    },
-    {
       "event_date": "20 July 2026",
       "title": "Sansad Chalo march and clashes",
       "assessment": "CJP-linked march, public-order operations, injuries and reported clashes. Police and protesters offer competing accounts; casualty and turnout figures are not independently reconciled.",
@@ -158,11 +144,25 @@
       "url": "https://indianexpress.com/article/india/sonam-wangchuk-hunger-strike-cjp-centre-sansad-chalo-march-today-updates-10794799/"
     },
     {
+      "event_date": "21 July 2026",
+      "title": "CJP removes Vijeta Dahiya from spokesperson role",
+      "assessment": "Indian Express reports Dahiya's removal after a July 20 controversy. The shift is a dated organisational event and should not be mistaken for continued leadership or proof about disputed video sequences.",
+      "source": "Indian Express / contemporaneous reporting",
+      "url": "https://indianexpress.com/article/cities/delhi/cockroach-janta-party-vijeta-dahiya-spokesperson-burger-viral-video-10796877/"
+    },
+    {
       "event_date": "21–24 July 2026",
       "title": "Government talks and shifting protest demands",
       "assessment": "The movement presses for the education minister’s resignation, FIR relief and assistance for affected students. Reported talks do not confirm implementation.",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/india/india-youth-protest-leaders-hold-talks-with-government-protests-will-continue-2026-07-24/"
+    },
+    {
+      "event_date": "22 July 2026",
+      "title": "Dahiya disputes removal and discusses movement links in interview",
+      "assessment": "In a named interview he describes the dismissal as surprising, contests accusations about his whereabouts and says he supports the cause without remaining a formal member.",
+      "source": "Indian Express / direct interview",
+      "url": "https://indianexpress.com/article/india/vijeta-dahiya-interview-cjp-ouster-burger-video-abhijeet-dipke-premanand-10798804/"
     },
     {
       "event_date": "23–24 July 2026",
@@ -179,18 +179,18 @@
       "url": "https://www.presidentofindia.gov.in/press_releases/press-communique-35"
     },
     {
-      "event_date": "27 July 2026",
-      "title": "CJP press conference demands July FIR implementation",
-      "assessment": "NDTV clips document a public demand for promised case withdrawals and an appeal for legal aid. The later Supreme Court order had defined terms and exceptions.",
-      "source": "NDTV / recorded press conference excerpts",
-      "url": "https://www.ndtv.com/video/cjp-press-conference-cjp-warns-of-fresh-protest-if-govt-fails-to-withdraw-firs-against-protesters-1134075"
-    },
-    {
       "event_date": "25 July 2026",
       "title": "Ranka and Das detail plans in NDTV interview",
       "assessment": "Das describes an immediate grassroots agenda; Ranka declines to rule out his own eventual political career and describes the terms he understood from government negotiations. The subsequent written court order controls legal scope.",
       "source": "NDTV / interview",
       "url": "https://www.ndtv.com/india-news/dharmendra-pradhan-cockroach-janta-party-will-they-join-full-time-politics-what-cjp-leaders-told-ndtv-11821905"
+    },
+    {
+      "event_date": "27 July 2026",
+      "title": "CJP press conference demands July FIR implementation",
+      "assessment": "NDTV clips document a public demand for promised case withdrawals and an appeal for legal aid. The later Supreme Court order had defined terms and exceptions.",
+      "source": "NDTV / recorded press conference excerpts",
+      "url": "https://www.ndtv.com/video/cjp-press-conference-cjp-warns-of-fresh-protest-if-govt-fails-to-withdraw-firs-against-protesters-1134075"
     },
     {
       "event_date": "28 July 2026",
