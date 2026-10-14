@@ -59,3 +59,14 @@ Publication cutoff: 15 October 2026 IST. The chronology remains selected coverag
 ### Additional photographic corroboration, 15 October 2026
 
 EPA photographer Mihir Singh documented a CJP supporter at a Jantar Mantar **candlelight memorial vigil on 22 June 2026**, archival image 47333784, distributed by Lusa. The positive match register now includes Sharp **#24 symbolic lights** and **#34 vigils**; **#43 political mourning** remains possible because its distinct intent overlaps with the memorial vigil. An unverified signature petition on a domain claiming CJP authenticity is treated as a **possible** #6 lead, not authenticated group petition or signed-person count. Press reporting of a planned May 24 Bengaluru human chain and police refusal cannot be counted as a completed method. Updated classification: 15 documented, 16 possible, 1 announced, 166 not established. Event chronology: 53 entries, with new May 23 permission dispute and June 22 vigil.
+
+
+## Follow-on spoken-statement review, 15 October 2026
+
+- Expanded claim review from 45 to 63 attributable spoken propositions. The newly examined occasions are **3 June** (first press conference), **20–21 July** (planned march and reversal), **6 August** (organisation and membership press conference), **11 October** (post-detention Press Club briefing), and **14 October** (Shinde's reported press interaction).
+- Added 5 individually positioned milestones, bringing dated chronology to 58. 23 August's reported CJP written organisational release has deliberately **not** been made into a spoken claim. Claims of a future march or visit must not count as an occurrence.
+- 11 October alleged device cloning and potential evidence planting are precisely labelled **suspicions**; no digital-forensic result or judicial finding establishes them. Likewise a denial of fundraising is not an audited financial fact.
+- The 20 July late-evening march intention and 21 July cancellation are preserved as separately dated public remarks. Reading them together shows a recorded change of plan; neither establishes dishonesty, a completed second Parliament march, or a permanent end to protests.
+- 6 August personnel roster is press-confirmed. Statements that CJP is not currently fundraising and has no immediate intention to become an electoral party are time-bound public assertions, not statements about future activity or financial history.
+- All **198** methods remain classified: 15 documented, 16 possible, 1 announced, 166 not established. Press activity on these dates corroborates additional repetitions of **#1 Public Speeches**, not the identification of a new tactic. The previously issued, falsifiable **#18 flag-display repeat** forecast for 16 October remains unchanged and unconfirmed as of this cutoff.
+- Primary original audio/video and timecodes remain outstanding for many media quotations. All new cases link the specific contemporaneous public reporting.
