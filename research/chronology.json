@@ -1,7 +1,7 @@
 {
   "release": "2026-10-15",
   "scope": "Dated public events and attributable public statements. Events may be evidenced by official records and reported observation; the separate Myth vs Reality claim register admits only statements made in interviews, public speeches, press conferences and press interactions. Not exhaustive.",
-  "event_count": 51,
+  "event_count": 53,
   "events": [
     {
       "event_date": "15 May 2026",
@@ -37,6 +37,13 @@
       "assessment": "Indian Express examines withheld accounts, website access restrictions and CJP’s changing public identity. Attribution and legal rationale require original orders.",
       "source": "Indian Express",
       "url": "https://indianexpress.com/article/explained/cockroach-janta-party-founder-motive-bjp-congress-details-10705858/"
+    },
+    {
+      "event_date": "23 May 2026",
+      "title": "Bengaluru human-chain plan and permission refusal",
+      "assessment": "Press reporting says police refused permission for a proposed 24 May Bengaluru human chain associated with the CJP name. No independent record of a completed human chain has been located; planned action is not counted as occurrence.",
+      "source": "Indian Express / police press account",
+      "url": "https://indianexpress.com/article/cities/bangalore/cjps-human-chain-protest-denied-as-bengaluru-police-cite-traffic-concerns-10703988/"
     },
     {
       "event_date": "3 June 2026",
@@ -86,6 +93,13 @@
       "assessment": "Coverage describes persistent but still limited physical turnout. Crowd figures are press estimates and not audited totals.",
       "source": "Indian Express",
       "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
+    },
+    {
+      "event_date": "22 June 2026",
+      "title": "Candlelight vigil photographed at Jantar Mantar",
+      "assessment": "EPA/Mihir Singh image and caption independently document a CJP supporter at a candlelight memorial vigil. Classified under Sharp #24 (symbolic lights) and #34 (vigils); the separate political mourning #43 category remains interpretive.",
+      "source": "EPA photo via Lusa (agency photo ID 47333784)",
+      "url": "https://www.lusa.pt/foto?from=%2Fbrasil&imageid=47333784"
     },
     {
       "event_date": "28 June 2026",
