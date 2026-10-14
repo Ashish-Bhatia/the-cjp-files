@@ -32,3 +32,14 @@ The prior 26-case register is superseded by **22 specifically sourced public-sta
 8. Preserve GitHub history for all corrections; request a dated source link, exact claim ID and contrary proof for amendment.
 
 Publication cutoff: 15 October 2026 IST. The chronology remains selected coverage, not a record of every public event or speech.
+
+
+## Supplementary findings, 15 October (later session)
+
+- Reviewed the September 24 public press conference as *several separate propositions*: resignation demand, proposed roll reversion, election freeze, document custody, vote-share causal allegations, alleged welfare consequences and alleged political direction of the CEC. Original ministerial or ECI records are missing for the serious accusations. The Election Commission's acknowledgment of recorded objections and its assertion of unanimous decisions must appear together.
+- Reviewed October 6 Ranka interview: planned civil disobedience differs from proof any later act occurred or breached law. Added 12 October venue denotification and the reported judicial challenges as legal context, not a ruling.
+- Reviewed October 8 public speeches by Dhruv Rathee and Prakash Raj. Rathee's denial of his own regime-change purpose is not an audited group-wide fact. Raj's accusation about political control of the CEC remains attributed.
+- Reviewed Ranka's edited interview on the night of 12 October (published October 13), distinguishing detention account, claimed 100-150 office-bearers, bond interpretation and statements about opposition relationships. None validates an organisational roster or determines the legal meaning of the undertaking.
+- Reconstructed Vijeta Dahiya's appointment-era interview, July 21 reported removal and July 22 independent newspaper interview. He is a **former spokesperson**, and later remarks cannot be presented as official CJP positions. The June 5 recorded interview has chapter metadata only, so no extracted claims were published without actual spoken-language verification.
+- Published-claim origins continue to **exclude allegations first made exclusively in tweets/X posts or on unauthenticated CJP-themed websites**, including allegations of foreign funds made only via social posting. It is acceptable to record their existence as unaccepted leads in private research, but not adopt them as allegations on the public site.
+- New total: **45** statement cases and **51** selected timeline milestones. No claim of exhaustive speeches, perfect attendance logs or financial verification is made.
