@@ -29,7 +29,9 @@
     "Reconcile state-by-state SIR electoral roll data before making eligible-voter exclusion claims",
     "Cross-check claimed 100–150 coordinators against authenticated organisational records",
     "Obtain written state welfare-scheme circulars allegedly conditioning benefits on SIR rolls",
-    "Obtain original CJP/AAP/AEI operational instruction or funding evidence before claiming any link"
+    "Obtain original CJP/AAP/AEI operational instruction or funding evidence before claiming any link",
+    "Obtain June 5 Vijeta Dahiya full Q&A transcript and record what speaker attributed to CJP vs his personal position.",
+    "Authenticate July 21 personnel change and separate Dahiya's later personal speech from organisational statements."
   ],
   "source_catalogue": [
     {
@@ -67,6 +69,25 @@
       "date": "2026-07-27",
       "format": "publisher-hosted short press video",
       "recording_authenticated": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Lcnddk_utac",
+      "date": "2026-06-05",
+      "format": "recorded interview with chapter descriptions",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://indianexpress.com/article/india/vijeta-dahiya-interview-cjp-ouster-burger-video-abhijeet-dipke-premanand-10798804/",
+      "date": "2026-07-22",
+      "format": "interview with former spokesperson",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.indiatoday.in/india/video/abhijeet-dipke-exclusive-cjp-chief-july-20-police-brutality-behest-amit-shah-turning-point-delhi-protests-2960905-2026-07-31",
+      "date": "2026-07-31",
+      "format": "publisher-hosted video interview summary",
+      "recording_authenticated": false
     }
-  ]
+  ],
+  "release_note": "A dated leadership departure was reconstructed; post-removal personal remarks are not attributed to the movement."
 }
