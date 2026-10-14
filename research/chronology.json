@@ -1,0 +1,231 @@
+{
+  "release": "2026-10-15",
+  "scope": "public milestones May-October 2026; partial, not exhaustive",
+  "event_count": 32,
+  "events": [
+    {
+      "event_date": "15 May 2026",
+      "title": "Remarks in Supreme Court hearing",
+      "assessment": "Reporting traces the movement’s origin to comments attributed to Chief Justice Surya Kant. The context and his subsequent clarification matter; protest slogans should not substitute for the full exchange.",
+      "source": "ThePrint / Indian Express",
+      "url": "https://theprint.in/feature/boston-university-indian-student-cockroach-janta-party/2935156/"
+    },
+    {
+      "event_date": "16 May 2026",
+      "title": "Satirical CJP movement launches online",
+      "assessment": "Abhijeet Dipke’s online post and subsequent CJP initiative begin circulating. Media reports the launch; no claim of formal electoral-party registration is made.",
+      "source": "Reuters / ThePrint",
+      "url": "https://theprint.in/feature/boston-university-indian-student-cockroach-janta-party/2935156/"
+    },
+    {
+      "event_date": "19 May 2026",
+      "title": "Founder gives early public interview",
+      "assessment": "ThePrint profiles the satirical initiative and Dipke’s stated concern that younger citizens feel disconnected from politics.",
+      "source": "ThePrint",
+      "url": "https://theprint.in/feature/boston-university-indian-student-cockroach-janta-party/2935156/"
+    },
+    {
+      "event_date": "21–26 May 2026",
+      "title": "Platform and website restrictions contested",
+      "assessment": "Indian Express examines withheld accounts, website access restrictions and CJP’s changing public identity. Attribution and legal rationale require original orders.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/explained/cockroach-janta-party-founder-motive-bjp-congress-details-10705858/"
+    },
+    {
+      "event_date": "6 June 2026",
+      "title": "First reported Jantar Mantar mobilisation",
+      "assessment": "Students, exam aspirants and CJP supporters gather in Delhi; organisers demand accountability for examination failures.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
+    },
+    {
+      "event_date": "7–19 June 2026",
+      "title": "Periodic sit-ins and digital campaigning",
+      "assessment": "The movement shifts from online satire to repeated public organising. The available chronology is a press reconstruction, not a complete daily attendance log.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
+    },
+    {
+      "event_date": "20 June 2026",
+      "title": "Extended Jantar Mantar sit-in begins",
+      "assessment": "Reported return for a sustained sit-in over examinations and ministerial accountability.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
+    },
+    {
+      "event_date": "21 June 2026",
+      "title": "Call to NEET aspirants",
+      "assessment": "Dipke appeals to exam aspirants to join the agitation after their examination obligations.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
+    },
+    {
+      "event_date": "22–27 June 2026",
+      "title": "Protest maintained, early attendance reported",
+      "assessment": "Coverage describes persistent but still limited physical turnout. Crowd figures are press estimates and not audited totals.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
+    },
+    {
+      "event_date": "28 June 2026",
+      "title": "Sonam Wangchuk begins hunger strike",
+      "assessment": "Wangchuk joins demonstrators with students associated with AISA. His involvement is documented support, not proof of a single organisation controlling all participants.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
+    },
+    {
+      "event_date": "30 June 2026",
+      "title": "Invitation extended across political parties",
+      "assessment": "ThePrint quotes Dipke inviting all parties while rejecting electoral ambitions. A public invitation is distinct from a formal party alliance.",
+      "source": "ThePrint",
+      "url": "https://theprint.in/politics/cockroach-janta-party-opens-the-floor-to-all-political-parties-maintains-it-has-no-electoral-ambitions/2974019/"
+    },
+    {
+      "event_date": "1–17 July 2026",
+      "title": "Opposition and civil-society solidarity grows",
+      "assessment": "Public figures visit or endorse parts of the agitation; formal organisational support varies among parties.",
+      "source": "Indian Express / ThePrint",
+      "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
+    },
+    {
+      "event_date": "15 July 2026",
+      "title": "Congress organisational position examined",
+      "assessment": "ThePrint reports Congress figures expressing solidarity while the party withheld a formal movement endorsement at that point.",
+      "source": "ThePrint",
+      "url": "https://theprint.in/politics/why-congress-is-wary-of-supporting-the-cockroach-janta-party/2987495/"
+    },
+    {
+      "event_date": "18 July 2026",
+      "title": "Wangchuk moved to hospital",
+      "assessment": "Police intervention at the protest site and Wangchuk’s hospital transfer are reported; Dipke says he will continue the fast.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
+    },
+    {
+      "event_date": "19 July 2026",
+      "title": "Large turnout before parliament march",
+      "assessment": "Crowds begin gathering for the planned Sansad Chalo mobilisation the following day. Estimates remain source-dependent.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
+    },
+    {
+      "event_date": "20 July 2026",
+      "title": "Sansad Chalo march and clashes",
+      "assessment": "CJP-linked march, public-order operations, injuries and reported clashes. Police and protesters offer competing accounts; casualty and turnout figures are not independently reconciled.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/sonam-wangchuk-hunger-strike-cjp-centre-sansad-chalo-march-today-updates-10794799/"
+    },
+    {
+      "event_date": "20 July 2026",
+      "title": "CJP representatives meet J P Nadda",
+      "assessment": "Saurav Das and Ashutosh Ranka are reported to have met the Union minister during the protest. This is a public negotiating contact.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/india/sonam-wangchuk-hunger-strike-cjp-centre-sansad-chalo-march-today-updates-10794799/"
+    },
+    {
+      "event_date": "21–24 July 2026",
+      "title": "Government talks and shifting protest demands",
+      "assessment": "The movement presses for the education minister’s resignation, FIR relief and assistance for affected students. Reported talks do not confirm implementation.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/india-youth-protest-leaders-hold-talks-with-government-protests-will-continue-2026-07-24/"
+    },
+    {
+      "event_date": "23–24 July 2026",
+      "title": "Wangchuk ends extended hunger strike",
+      "assessment": "Coverage reports the end of his fast amid negotiations. The timing should be distinguished from later claims about who secured concessions.",
+      "source": "Indian Express / Reuters",
+      "url": "https://www.reuters.com/world/india/india-youth-protest-leaders-hold-talks-with-government-protests-will-continue-2026-07-24/"
+    },
+    {
+      "event_date": "25 July 2026",
+      "title": "Ministerial resignation officially accepted",
+      "assessment": "The President’s communique confirms Dharmendra Pradhan’s resignation and Pralhad Joshi’s additional Education charge. Whether CJP was the sole or determining cause is a separate causal assessment.",
+      "source": "President of India",
+      "url": "https://www.presidentofindia.gov.in/press_releases/press-communique-35"
+    },
+    {
+      "event_date": "28 July 2026",
+      "title": "Supreme Court gives interim protest-related relief",
+      "assessment": "Reporting describes protection for some students arrested in July demonstrations. The September written order is required for later and broader claims.",
+      "source": "India Today",
+      "url": "https://indiankanoon.org/doc/36753714/"
+    },
+    {
+      "event_date": "9 August 2026",
+      "title": "12-member working team publicly profiled",
+      "assessment": "Indian Express reports the CJP office-bearers after a Maharashtra meeting and records its continued stated intention not to form a registered political party.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/engineer-lawyer-ca-12-members-lead-cockroach-janta-party-10824749/"
+    },
+    {
+      "event_date": "13 August 2026",
+      "title": "Past AAP associations reported",
+      "assessment": "ThePrint identifies six CJP core members with former AAP ties or public support. Dipke and the AAP spokesperson deny a current organisational link; no command or funding relationship is established.",
+      "source": "ThePrint",
+      "url": "https://theprint.in/politics/half-of-cjp-core-cockroaches-have-aap-in-their-past/3012573/"
+    },
+    {
+      "event_date": "1 September 2026",
+      "title": "Supreme Court records mutual settlement",
+      "assessment": "A dated court order closes July protest FIRs within specified terms and exceptions, orders a compensation framework, and records Saurav Das withdrawing a proposed 5 September march.",
+      "source": "Supreme Court order",
+      "url": "https://indiankanoon.org/doc/36753714/"
+    },
+    {
+      "event_date": "5 September 2026",
+      "title": "Proposed march withdrawn, per court record",
+      "assessment": "Do not record the march as having occurred merely because older publicity announced it. The 1 September order captures the withdrawal.",
+      "source": "Supreme Court order",
+      "url": "https://indiankanoon.org/doc/36753714/"
+    },
+    {
+      "event_date": "5 October 2026",
+      "title": "New October mobilisation announced",
+      "assessment": "Saurav Das is reported demanding protests beginning 10 October; alleged plans to arrest organisers are his attributed statement, not an established government plan.",
+      "source": "Times of India",
+      "url": "https://www.reuters.com/world/india/delhi-sealed-off-ahead-youth-protest-against-indian-election-chief-2026-10-10/"
+    },
+    {
+      "event_date": "9 October 2026",
+      "title": "Public-order restrictions scrutinised",
+      "assessment": "Reports describe a Supreme Court hearing on extensive Delhi travel restrictions before planned CJP demonstrations. Reported judicial remarks must not be overstated as a final liability finding.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/legal-news/supreme-court-delhi-metro-closure-for-ec-cjp-protest-10914010/"
+    },
+    {
+      "event_date": "10 October 2026",
+      "title": "Delhi protest restrictions and detentions",
+      "assessment": "Reuters reports large-scale preventive measures, transport disruption and arrests before a CJP-backed rally targeting the CEC. Police figures and protest figures differ.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/delhi-sealed-off-ahead-youth-protest-against-indian-election-chief-2026-10-10/"
+    },
+    {
+      "event_date": "11 October 2026",
+      "title": "Further demonstrations after releases",
+      "assessment": "Reuters reports continued action, court activity and competing accounts of treatment of demonstrators, journalists and lawyers.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/indian-capital-braces-second-day-protests-against-poll-chief-2026-10-11/"
+    },
+    {
+      "event_date": "13 October 2026",
+      "title": "CJP organisers enter disputed protest site",
+      "assessment": "Coverage describes Ashutosh Ranka and Saurav Das arriving at Jantar Mantar despite restrictions. Participants dispute the police account of their conduct.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/cjp-ashutosh-ranka-saurav-das-and-ajinkya-shinde-preventive-arrest-jantar-mantar-protest-10920696/"
+    },
+    {
+      "event_date": "14 October 2026",
+      "title": "Five-day custody ordered",
+      "assessment": "Reuters and Indian Express report a magistrate ordering custody for Ranka and Das. This is a procedural court action, not a conviction.",
+      "source": "Reuters / Indian Express",
+      "url": "https://www.reuters.com/world/indias-cockroach-movement-leaders-detained-jail-five-days-founder-says-2026-10-14/"
+    },
+    {
+      "event_date": "14 October 2026",
+      "title": "Election-roll dispute remains unresolved",
+      "assessment": "Reuters details allegations of large-scale exclusion and the election authority’s denial of partisan bias. A final-voter disenfranchisement total has not been audited here.",
+      "source": "Reuters / ECI",
+      "url": "https://www.reuters.com/world/india/what-is-fuelling-indias-protests-over-changes-voter-lists-2026-10-13/"
+    }
+  ]
+}
