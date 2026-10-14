@@ -1,7 +1,7 @@
 {
   "release": "2026-10-15",
-  "scope": "public milestones May-October 2026; partial, not exhaustive",
-  "event_count": 32,
+  "scope": "Dated public events and attributable public statements. Events may be evidenced by official records and reported observation; the separate Myth vs Reality claim register admits only statements made in interviews, public speeches, press conferences and press interactions. Not exhaustive.",
+  "event_count": 39,
   "events": [
     {
       "event_date": "15 May 2026",
@@ -25,11 +25,25 @@
       "url": "https://theprint.in/feature/boston-university-indian-student-cockroach-janta-party/2935156/"
     },
     {
+      "event_date": "20 May 2026",
+      "title": "Dipke answers questions in India Today interview",
+      "assessment": "In an on-camera interview, the founder explains his objection to remarks attributed to the Chief Justice, youth frustration and intended peaceful protest. The unedited judicial hearing is a separate source requirement.",
+      "source": "India Today / interview",
+      "url": "https://www.indiatoday.in/india/video/meet-the-man-behind-the-cockroach-janta-party-2914598-2026-05-20"
+    },
+    {
       "event_date": "21–26 May 2026",
       "title": "Platform and website restrictions contested",
       "assessment": "Indian Express examines withheld accounts, website access restrictions and CJP’s changing public identity. Attribution and legal rationale require original orders.",
       "source": "Indian Express",
       "url": "https://indianexpress.com/article/explained/cockroach-janta-party-founder-motive-bjp-congress-details-10705858/"
+    },
+    {
+      "event_date": "3 June 2026",
+      "title": "CJP public press conference aired",
+      "assessment": "ThePrint published a recording labelled as CJP's New Delhi press conference concerning the proposed 6 June protest. Specific claims from the recording remain excluded until reviewed against a time-coded transcript.",
+      "source": "ThePrint / press conference video",
+      "url": "https://www.youtube.com/watch?v=FKKxpzyOM9Y"
     },
     {
       "event_date": "6 June 2026",
@@ -144,11 +158,25 @@
       "url": "https://www.presidentofindia.gov.in/press_releases/press-communique-35"
     },
     {
+      "event_date": "25 July 2026",
+      "title": "Ranka and Das detail plans in NDTV interview",
+      "assessment": "Das describes an immediate grassroots agenda; Ranka declines to rule out his own eventual political career and describes the terms he understood from government negotiations. The subsequent written court order controls legal scope.",
+      "source": "NDTV / interview",
+      "url": "https://www.ndtv.com/india-news/dharmendra-pradhan-cockroach-janta-party-will-they-join-full-time-politics-what-cjp-leaders-told-ndtv-11821905"
+    },
+    {
       "event_date": "28 July 2026",
       "title": "Supreme Court gives interim protest-related relief",
       "assessment": "Reporting describes protection for some students arrested in July demonstrations. The September written order is required for later and broader claims.",
       "source": "India Today",
       "url": "https://indiankanoon.org/doc/36753714/"
+    },
+    {
+      "event_date": "31 July 2026",
+      "title": "Dipke sets out organisational intentions in Aaj Tak Q&A",
+      "assessment": "The founder publicly discusses protest finance, political-party support, the paper-leak law and a 'response group' rather than immediate electoral entry. Statements remain the speaker's accounts unless separately verified.",
+      "source": "Aaj Tak / Q&A interview",
+      "url": "https://www.aajtak.in/india/maharashtra/story/cockroach-janta-party-abhijeet-deepke-exclusive-interview-paper-leak-protest-modi-govt-neet-ntc-agkp-dskc-2612426-2026-07-31"
     },
     {
       "event_date": "9 August 2026",
@@ -193,6 +221,13 @@
       "url": "https://indianexpress.com/article/legal-news/supreme-court-delhi-metro-closure-for-ec-cjp-protest-10914010/"
     },
     {
+      "event_date": "9 October 2026",
+      "title": "Dipke addresses Loksamvad and outlines October protest",
+      "assessment": "During a public event reported by The Indian Express, Dipke argues that transport restrictions are disproportionate, repeats the 13-crore roll figure and rejects an immediate plan to register a political party.",
+      "source": "Indian Express / Loksamvad public remarks",
+      "url": "https://indianexpress.com/article/cities/delhi/cjp-abhijit-dipke-slams-delhi-clampdown-10914691/"
+    },
+    {
       "event_date": "10 October 2026",
       "title": "Delhi protest restrictions and detentions",
       "assessment": "Reuters reports large-scale preventive measures, transport disruption and arrests before a CJP-backed rally targeting the CEC. Police figures and protest figures differ.",
@@ -222,10 +257,24 @@
     },
     {
       "event_date": "14 October 2026",
+      "title": "Nagpur press interaction: independence and court allegations",
+      "assessment": "Dipke tells reporters CJP is an independent pressure group, says he had no specific discussion with Rahul Gandhi, disputes policing explanations, and criticises courts without identifying particular party-symbol cases.",
+      "source": "Indian Express / press interaction",
+      "url": "https://indianexpress.com/article/cities/mumbai/supreme-court-bengal-remarks-narendra-modi-contest-next-election-cjp-abhijeet-dipke-cec-10921250/"
+    },
+    {
+      "event_date": "14 October 2026",
       "title": "Election-roll dispute remains unresolved",
       "assessment": "Reuters details allegations of large-scale exclusion and the election authority’s denial of partisan bias. A final-voter disenfranchisement total has not been audited here.",
       "source": "Reuters / ECI",
       "url": "https://www.reuters.com/world/india/what-is-fuelling-indias-protests-over-changes-voter-lists-2026-10-13/"
+    },
+    {
+      "event_date": "14 October 2026",
+      "title": "Delhi CM Gupta publicly alleges CJP–AAP alignment",
+      "assessment": "At a Delhi press conference, Rekha Gupta calls CJP an AAP 'B party'. This is a reported public allegation, not independent evidence of a financing or instruction chain.",
+      "source": "Indian Express / press conference",
+      "url": "https://indianexpress.com/article/cities/delhi/cjp-acting-like-aaps-b-party-delhi-cm-rekha-gupta-10921189/"
     }
   ]
 }
