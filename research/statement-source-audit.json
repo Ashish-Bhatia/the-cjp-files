@@ -1,0 +1,72 @@
+{
+  "release": "2026-10-15",
+  "rules": {
+    "allowed_origins": [
+      "speech",
+      "press_conference",
+      "press_byte_or_public_media_interaction",
+      "interview"
+    ],
+    "non_origins": [
+      "standalone social posts",
+      "anonymous allegations",
+      "website manifestos",
+      "unsourced summaries",
+      "protest attendance without spoken claim"
+    ],
+    "verification_evidence": "court orders, electoral rolls, government notifications, independent reporting and original video may assess an eligible spoken claim but cannot themselves introduce a claim card"
+  },
+  "source_levels": {
+    "original_unedited_transcript": "not completed for the 41-item register",
+    "edited_interview": "named Q&A or edited newspaper conversation",
+    "recorded_short_clip": "published media clip with publisher summary, speaker may be unidentified",
+    "reported_spoken_remarks": "reporter-attributed public speech or press interaction, full audio may not be verified"
+  },
+  "open_questions": [
+    "Authenticate and timestamp raw September 24 press conference recording, including audience Q&A",
+    "Retrieve original October 12 venue notification and October 9 court order, and follow both challenges",
+    "Obtain signed peace bonds and magistrate orders from October 10-14",
+    "Reconcile state-by-state SIR electoral roll data before making eligible-voter exclusion claims",
+    "Cross-check claimed 100–150 coordinators against authenticated organisational records",
+    "Obtain written state welfare-scheme circulars allegedly conditioning benefits on SIR rolls",
+    "Obtain original CJP/AAP/AEI operational instruction or funding evidence before claiming any link"
+  ],
+  "source_catalogue": [
+    {
+      "url": "https://www.indiatoday.in/india/story/gyanesh-kumar-resignation-cjp-protests-poll-freeze-abhijeet-dipke-jantar-mantar-cec-election-commission-itspc-3001904-2026-09-24",
+      "date": "2026-09-24",
+      "format": "reporter-attributed press conference",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://indianexpress.com/article/india/cjp-ashutosh-ranka-indian-express-interview-october-10-jantar-mantar-protest-10909075/",
+      "date": "2026-10-06",
+      "format": "named interview",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/bangalore/dhruv-rathee-prakash-raj-cjp-protest-cec-gyanesh-kumar-sir-10912225/",
+      "date": "2026-10-08",
+      "format": "reporter-attributed live speeches",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.hindustantimes.com/india-news/held-detailed-review-will-return-with-new-strategy-cjp-ashutosh-ranka-amid-anti-ec-stir-ht-interview-101791854087840.html",
+      "date": "2026-10-12",
+      "format": "edited Q&A published October 13",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.ndtv.com/video/cjp-press-conference-cjp-warns-of-fresh-protest-if-govt-fails-to-withdraw-firs-against-protesters-1134075",
+      "date": "2026-07-27",
+      "format": "publisher-hosted short press video",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.ndtv.com/video/cjp-press-conference-cjp-seeks-legal-aid-for-arrested-protesters-urges-lawyers-to-step-in-1134074",
+      "date": "2026-07-27",
+      "format": "publisher-hosted short press video",
+      "recording_authenticated": false
+    }
+  ]
+}
