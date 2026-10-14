@@ -171,7 +171,8 @@
           "detail": "Published press-conference video provides a dated public speaking event; no inference of formal AEI reference.",
           "source_url": "https://www.youtube.com/watch?v=FKKxpzyOM9Y",
           "actor_scope": "CJP speaker(s), individual identification pending",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         }
       ],
       "evidence_note": null
@@ -203,7 +204,8 @@
           "detail": "An organisation-facing press statement is documented, but the formal declaration intended by Sharp's category needs more precise evidence.",
           "source_url": "https://www.indiatoday.in/india/story/gyanesh-kumar-resignation-cjp-protests-poll-freeze-abhijeet-dipke-jantar-mantar-cec-election-commission-itspc-3001904-2026-09-24",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "interpretive_candidate"
         }
       ],
       "evidence_note": null
@@ -235,7 +237,8 @@
           "detail": "Named representatives announced demands and further public action. Political allegations remain unproven.",
           "source_url": "https://www.indiatoday.in/india/story/gyanesh-kumar-resignation-cjp-protests-poll-freeze-abhijeet-dipke-jantar-mantar-cec-election-commission-itspc-3001904-2026-09-24",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "announced_future_action"
         }
       ],
       "evidence_note": null
@@ -267,7 +270,8 @@
           "detail": "Reported founding of satirical movement; early slogan/symbol use follows. Founding media coverage, not proof of Sharp influence.",
           "source_url": "https://theprint.in/feature/boston-university-indian-student-cockroach-janta-party/2935156/",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         },
         {
           "date": "2026-06-06",
@@ -276,7 +280,8 @@
           "detail": "Contemporaneous retrospective describes slogans in public protest.",
           "source_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/unforgettable-bytes-slogans-and-placards-how-cjp-won-before-it-won-2956481-2026-07-26",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         }
       ],
       "evidence_note": null
@@ -297,7 +302,8 @@
           "detail": "India Today photo feature documents signs at CJP demonstrations, reports supporters on site by June 6.",
           "source_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/unforgettable-bytes-slogans-and-placards-how-cjp-won-before-it-won-2956481-2026-07-26",
           "actor_scope": "Movement demonstrators",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         }
       ],
       "evidence_note": null
@@ -340,7 +346,8 @@
           "detail": "A TV interview happened, but an interview alone does not establish a movement-directed broadcasting strategy qualifying under Sharp #11.",
           "source_url": "https://www.indiatoday.in/india/video/meet-the-man-behind-the-cockroach-janta-party-2914598-2026-05-20",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "interpretive_candidate"
         }
       ],
       "evidence_note": null
@@ -372,7 +379,8 @@
           "detail": "Das and Ranka met Union minister Nadda and handed a representation; this is a documented deputation, not proof of another relationship.",
           "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         }
       ],
       "evidence_note": null
@@ -404,7 +412,8 @@
           "detail": "Das and Ranka met ministers regarding protest demands; counted as group lobbying, not proof of achieved concessions.",
           "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         }
       ],
       "evidence_note": null
@@ -447,7 +456,8 @@
           "detail": "Reported CJP organisers displayed the tricolour while protesting. Police allege additional conduct; custody is not conviction.",
           "source_url": "https://indianexpress.com/article/cities/delhi/cjp-ashutosh-ranka-saurav-das-and-ajinkya-shinde-preventive-arrest-jantar-mantar-protest-10920696/",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         },
         {
           "date": "2026-10-16",
@@ -456,7 +466,8 @@
           "detail": "This is a future mobilisation lead, excluded from the confirmed event chronology until independently verified.",
           "source_url": "https://indianexpress.com/article/cities/delhi/tiranga-cjp-sir-gyanesh-kumar-connaught-place-abhijeet-dipke-10921688/lite/",
           "actor_scope": "Prospective CJP call, not occurred",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "announced_future_action"
         }
       ],
       "evidence_note": null
@@ -477,7 +488,8 @@
           "detail": "India Today retrospectively describes cockroach-masked protesters by 6 June.",
           "source_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/unforgettable-bytes-slogans-and-placards-how-cjp-won-before-it-won-2956481-2026-07-26",
           "actor_scope": "CJP-associated demonstrators",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         }
       ],
       "evidence_note": null
@@ -509,7 +521,8 @@
           "detail": "India Today describes objects intended for officers. Delivery is not independently established, so not classified as completed symbolic delivery.",
           "source_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/unforgettable-bytes-slogans-and-placards-how-cjp-won-before-it-won-2956481-2026-07-26",
           "actor_scope": "Some protesters, not proven CJP instructions",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "interpretive_candidate"
         }
       ],
       "evidence_note": null
@@ -585,7 +598,8 @@
           "detail": "A satirical movement name is clear; Sharp's category more specifically concerns deliberate renaming/sign changes as a protest action. Insufficient for a firm match.",
           "source_url": "https://theprint.in/feature/boston-university-indian-student-cockroach-janta-party/2935156/",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "interpretive_candidate"
         }
       ],
       "evidence_note": null
@@ -683,7 +697,8 @@
           "detail": "Humour was used, but original evidence of organised skits or practical pranks has not been verified.",
           "source_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/unforgettable-bytes-slogans-and-placards-how-cjp-won-before-it-won-2956481-2026-07-26",
           "actor_scope": "Independent protesters; no verified instruction",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "interpretive_candidate"
         }
       ],
       "evidence_note": null
@@ -704,7 +719,8 @@
           "detail": "Media feature mentions parody raps and edited clips; not enough to verify a discrete CJP-organised performance.",
           "source_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/unforgettable-bytes-slogans-and-placards-how-cjp-won-before-it-won-2956481-2026-07-26",
           "actor_scope": "Mixed audience contributions; authorship unverified",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "interpretive_candidate"
         }
       ],
       "evidence_note": null
@@ -736,7 +752,8 @@
           "detail": "Contemporaneous chronology describes the march toward Parliament, major participation and clashes; peaceful and disputed acts must be distinguished.",
           "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         },
         {
           "date": "2026-10-16",
@@ -745,7 +762,8 @@
           "detail": "Future, unverified. A repeat of an existing observed method would not imply the next newly adopted number.",
           "source_url": "https://indianexpress.com/article/cities/delhi/tiranga-cjp-sir-gyanesh-kumar-connaught-place-abhijeet-dipke-10921688/lite/",
           "actor_scope": "Prospective call, not occurred",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "announced_future_action"
         }
       ],
       "evidence_note": null
@@ -854,7 +872,8 @@
           "detail": "Reported first CJP-linked public gathering of students and examination aspirants.",
           "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         },
         {
           "date": "2026-10-10",
@@ -863,7 +882,8 @@
           "detail": "CJP-linked gathering planned amid major restrictions; allied flash actions must not be treated as CJP organisational command.",
           "source_url": "https://indianexpress.com/article/cities/delhi/cjp-protest-in-delhi-flash-demonstrations-scattered-jantar-mantar-fortress-dilli-haat-safdarjung-flyover-connaught-place-sfi-lathicharge-10915925/",
           "actor_scope": "CJP and distinct allied groups, roles separated",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         }
       ],
       "evidence_note": null
@@ -884,7 +904,8 @@
           "detail": "Sharp differentiates protest meetings from public assemblies; no separate convened meeting record supports double-coding.",
           "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "interpretive_candidate"
         }
       ],
       "evidence_note": null
@@ -1708,7 +1729,8 @@
           "detail": "Ranka stated an intention to persist with public civil disobedience against restrictions; this is speech, not evidence later acts occurred.",
           "source_url": "https://indianexpress.com/article/india/cjp-ashutosh-ranka-indian-express-interview-october-10-jantar-mantar-protest-10909075/",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         }
       ],
       "evidence_note": null
@@ -1883,7 +1905,8 @@
           "detail": "No authenticated dispersal order and documented collective refusal to disperse were reviewed.",
           "source_url": "https://indianexpress.com/article/cities/delhi/cjp-ashutosh-ranka-saurav-das-and-ajinkya-shinde-preventive-arrest-jantar-mantar-protest-10920696/",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "interpretive_candidate"
         }
       ],
       "evidence_note": null
@@ -1904,7 +1927,8 @@
           "detail": "Ranka described an intention; no separately authenticated completed sitdown of that type on October 10.",
           "source_url": "https://indianexpress.com/article/india/cjp-ashutosh-ranka-indian-express-interview-october-10-jantar-mantar-protest-10909075/",
           "actor_scope": "Proposed, not observed",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "announced_intention"
         }
       ],
       "evidence_note": null
@@ -1947,7 +1971,8 @@
           "detail": "His declared plan is recorded. The legality of any eventual action and its placement under Sharp's specific type are contested.",
           "source_url": "https://indianexpress.com/article/india/cjp-ashutosh-ranka-indian-express-interview-october-10-jantar-mantar-protest-10909075/",
           "actor_scope": "Announced intention, not certified action",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "announced_intention"
         }
       ],
       "evidence_note": null
@@ -2155,7 +2180,8 @@
           "detail": "Wangchuk and six AISA students began fasting in solidarity, not evidence CJP directly ordered them.",
           "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
           "actor_scope": "Allied participants, separately organised",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         },
         {
           "date": "2026-07-18",
@@ -2164,7 +2190,8 @@
           "detail": "The chronology records the founder's announcement; completion and duration need independent verification.",
           "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
           "actor_scope": "CJP founder's publicly announced plan",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "announced_intention"
         }
       ],
       "evidence_note": null
@@ -2207,7 +2234,8 @@
           "detail": "First reported interval begins June 7; exact first sit-in day within the interval is not independently verified.",
           "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
           "actor_scope": "CJP-led participants",
-          "date_precision": "interval_start"
+          "date_precision": "interval_start",
+          "evidence_class": "reported_action"
         },
         {
           "date": "2026-06-20",
@@ -2216,7 +2244,8 @@
           "detail": "Chronology explicitly reports sustained Jantar Mantar sit-in.",
           "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         }
       ],
       "evidence_note": null
@@ -2336,7 +2365,8 @@
           "detail": "Police allege interference with officers; no authenticated full order or neutral video confirms intent, conduct, or nonviolence classification.",
           "source_url": "https://timesofindia.indiatimes.com/india/obstructed-cops-social-media-instigation-delhi-police-on-why-cjp-leaders-were-sent-to-tihar-jail/articleshow/134933173.cms",
           "actor_scope": "Contested allegation",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "interpretive_candidate"
         }
       ],
       "evidence_note": null
@@ -2357,7 +2387,8 @@
           "detail": "Press chronology uses 'occupy' for Jantar Mantar and surrounding streets, but ordinary protest presence is not necessarily Sharp's formal physical occupation category.",
           "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
           "actor_scope": "CJP participants and allies",
-          "date_precision": "interval_start"
+          "date_precision": "interval_start",
+          "evidence_class": "interpretive_candidate"
         }
       ],
       "evidence_note": null
@@ -2444,7 +2475,8 @@
           "detail": "A social-media presence is not enough to establish an alternative communication system under Sharp's method.",
           "source_url": "https://theprint.in/feature/boston-university-indian-student-cockroach-janta-party/2935156/",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "interpretive_candidate"
         }
       ],
       "evidence_note": null
@@ -2619,7 +2651,8 @@
           "detail": "Accepting risk of custody does not establish that imprisonment was deliberately sought as a tactic.",
           "source_url": "https://timesofindia.indiatimes.com/city/delhi/even-if-i-go-to-jail-protest-must-continue-cjps-abhijeet-dipke-ahead-of-october-10-march/articleshow/134839971.cms",
           "actor_scope": "CJP-directed/reported",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "interpretive_candidate"
         }
       ],
       "evidence_note": null
@@ -2640,7 +2673,8 @@
           "detail": "Police assert breach of peace bond/venue rules. Whether the case fits Sharp #196 and any violation is a court question, not an editorial determination.",
           "source_url": "https://indianexpress.com/article/cities/delhi/cjp-ashutosh-ranka-saurav-das-and-ajinkya-shinde-preventive-arrest-jantar-mantar-protest-10920696/",
           "actor_scope": "Contested reported conduct",
-          "date_precision": "day"
+          "date_precision": "day",
+          "evidence_class": "interpretive_candidate"
         }
       ],
       "evidence_note": null
@@ -2675,5 +2709,174 @@
     "No evidence in reviewed sources verifies an AEI–CJP operational or financial link.",
     "A future public call may be used to inform a forecast, but is not admitted to the spoken-claims registry without an eligible source.",
     "Initial review used contemporary reporting and published images, not a complete timestamped recording archive."
-  ]
+  ],
+  "completeness_rule": "Every canonical number 1–198 appears once. 'Not established' entries have an explicit negative search result limited to the reviewed source base, not a proof of non-occurrence. Future dates excluded from observed chronology.",
+  "method_events": [
+    {
+      "date": "2026-05-16",
+      "method": 7,
+      "name": "Slogans, caricatures, and symbols",
+      "event": "Satirical cockroach name and imagery adopted",
+      "explanation": "Reported founding of satirical movement; early slogan/symbol use follows. Founding media coverage, not proof of Sharp influence.",
+      "source_url": "https://theprint.in/feature/boston-university-indian-student-cockroach-janta-party/2935156/",
+      "actor_scope": "CJP-directed/reported",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-06-03",
+      "method": 1,
+      "name": "Public Speeches",
+      "event": "Public CJP press-conference remarks",
+      "explanation": "Published press-conference video provides a dated public speaking event; no inference of formal AEI reference.",
+      "source_url": "https://www.youtube.com/watch?v=FKKxpzyOM9Y",
+      "actor_scope": "CJP speaker(s), individual identification pending",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-06-06",
+      "method": 7,
+      "name": "Slogans, caricatures, and symbols",
+      "event": "Protest slogans and placards",
+      "explanation": "Contemporaneous retrospective describes slogans in public protest.",
+      "source_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/unforgettable-bytes-slogans-and-placards-how-cjp-won-before-it-won-2956481-2026-07-26",
+      "actor_scope": "CJP-directed/reported",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-06-06",
+      "method": 8,
+      "name": "Banners, posters, and displayed communications",
+      "event": "Displayed placards and posters at Jantar Mantar",
+      "explanation": "India Today photo feature documents signs at CJP demonstrations, reports supporters on site by June 6.",
+      "source_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/unforgettable-bytes-slogans-and-placards-how-cjp-won-before-it-won-2956481-2026-07-26",
+      "actor_scope": "Movement demonstrators",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-06-06",
+      "method": 19,
+      "name": "Wearing of symbols",
+      "event": "Cockroach masks worn at first Jantar Mantar protest",
+      "explanation": "India Today retrospectively describes cockroach-masked protesters by 6 June.",
+      "source_url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/unforgettable-bytes-slogans-and-placards-how-cjp-won-before-it-won-2956481-2026-07-26",
+      "actor_scope": "CJP-associated demonstrators",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-06-06",
+      "method": 47,
+      "name": "Assemblies of protest or support",
+      "event": "Jantar Mantar protest assembly",
+      "explanation": "Reported first CJP-linked public gathering of students and examination aspirants.",
+      "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
+      "actor_scope": "CJP-directed/reported",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-06-07",
+      "method": 162,
+      "name": "Sit-in",
+      "event": "Periodic Jantar Mantar sit-ins reported, June 7–19",
+      "explanation": "First reported interval begins June 7; exact first sit-in day within the interval is not independently verified.",
+      "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
+      "actor_scope": "CJP-led participants",
+      "date_precision": "interval_start",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-06-20",
+      "method": 162,
+      "name": "Sit-in",
+      "event": "Extended dharna starts",
+      "explanation": "Chronology explicitly reports sustained Jantar Mantar sit-in.",
+      "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
+      "actor_scope": "CJP-directed/reported",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-06-28",
+      "method": 159,
+      "name": "The fast",
+      "event": "Hunger strike by Wangchuk and AISA students at CJP protest",
+      "explanation": "Wangchuk and six AISA students began fasting in solidarity, not evidence CJP directly ordered them.",
+      "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
+      "actor_scope": "Allied participants, separately organised",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-07-20",
+      "method": 13,
+      "name": "Deputations",
+      "event": "CJP delegation meets J P Nadda",
+      "explanation": "Das and Ranka met Union minister Nadda and handed a representation; this is a documented deputation, not proof of another relationship.",
+      "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
+      "actor_scope": "CJP-directed/reported",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-07-20",
+      "method": 38,
+      "name": "Marches",
+      "event": "Sansad Chalo march",
+      "explanation": "Contemporaneous chronology describes the march toward Parliament, major participation and clashes; peaceful and disputed acts must be distinguished.",
+      "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
+      "actor_scope": "CJP-directed/reported",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-07-24",
+      "method": 15,
+      "name": "Group lobbying",
+      "event": "Government-level negotiating delegation",
+      "explanation": "Das and Ranka met ministers regarding protest demands; counted as group lobbying, not proof of achieved concessions.",
+      "source_url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/",
+      "actor_scope": "CJP-directed/reported",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-10-06",
+      "method": 122,
+      "name": "Literature and speeches advocating resistance",
+      "event": "Public interview advocating continued civil resistance",
+      "explanation": "Ranka stated an intention to persist with public civil disobedience against restrictions; this is speech, not evidence later acts occurred.",
+      "source_url": "https://indianexpress.com/article/india/cjp-ashutosh-ranka-indian-express-interview-october-10-jantar-mantar-protest-10909075/",
+      "actor_scope": "CJP-directed/reported",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-10-10",
+      "method": 47,
+      "name": "Assemblies of protest or support",
+      "event": "October protest-related assemblies",
+      "explanation": "CJP-linked gathering planned amid major restrictions; allied flash actions must not be treated as CJP organisational command.",
+      "source_url": "https://indianexpress.com/article/cities/delhi/cjp-protest-in-delhi-flash-demonstrations-scattered-jantar-mantar-fortress-dilli-haat-safdarjung-flyover-connaught-place-sfi-lathicharge-10915925/",
+      "actor_scope": "CJP and distinct allied groups, roles separated",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-10-13",
+      "method": 18,
+      "name": "Displays of flags and symbolic colors",
+      "event": "National flags displayed at Jantar Mantar",
+      "explanation": "Reported CJP organisers displayed the tricolour while protesting. Police allege additional conduct; custody is not conviction.",
+      "source_url": "https://indianexpress.com/article/cities/delhi/cjp-ashutosh-ranka-saurav-das-and-ajinkya-shinde-preventive-arrest-jantar-mantar-protest-10920696/",
+      "actor_scope": "CJP-directed/reported",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    }
+  ],
+  "method_event_count": 15
 }
