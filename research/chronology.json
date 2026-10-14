@@ -1,7 +1,7 @@
 {
   "release": "2026-10-15",
-  "scope": "Dated public events and attributable public statements. Events may be evidenced by official records and reported observation; the separate Myth vs Reality claim register admits only statements made in interviews, public speeches, press conferences and press interactions. Not exhaustive.",
-  "event_count": 58,
+  "scope": "Dated public events, attributable public statements and separately labelled contextual primary/court/media evidence to 15 October 2026; not exhaustive. Social posts can enter chronology only as contextual reported events, never as eligible spoken claim cards.",
+  "event_count": 68,
   "events": [
     {
       "event_date": "15 May 2026",
@@ -200,6 +200,13 @@
       "url": "https://www.reuters.com/world/india/india-youth-protest-leaders-hold-talks-with-government-protests-will-continue-2026-07-24/"
     },
     {
+      "event_date": "24 July 2026",
+      "title": "Foreign ministry spokesperson declines to assess funding question",
+      "assessment": "At a public press briefing, Randhir Jaiswal said he had no information on allegations of foreign financing to share. The statement is not proof of either financing or no financing.",
+      "source": "MEA briefing, reported by Mint",
+      "url": "https://www.livemint.com/news/india/no-information-mea-on-claims-of-foreign-funding-behind-cjp-protest-at-jantar-mantar-sonam-wangchuk-dharmendra-pradhan/amp-11784910006353.html"
+    },
+    {
       "event_date": "25 July 2026",
       "title": "Ministerial resignation officially accepted",
       "assessment": "The President’s communique confirms Dharmendra Pradhan’s resignation and Pralhad Joshi’s additional Education charge. Whether CJP was the sole or determining cause is a separate causal assessment.",
@@ -212,6 +219,13 @@
       "assessment": "Das describes an immediate grassroots agenda; Ranka declines to rule out his own eventual political career and describes the terms he understood from government negotiations. The subsequent written court order controls legal scope.",
       "source": "NDTV / interview",
       "url": "https://www.ndtv.com/india-news/dharmendra-pradhan-cockroach-janta-party-will-they-join-full-time-politics-what-cjp-leaders-told-ndtv-11821905"
+    },
+    {
+      "event_date": "26 July 2026",
+      "title": "MEA fact-check rebuts exaggerated exoneration attributed to its spokesperson",
+      "assessment": "The foreign ministry's fact-check unit called a viral account inaccurate for turning the July 24 statement into a declaration that CJP received no foreign funds. The correction is a written official intervention, not a new spoken CJP claim.",
+      "source": "Livemint / MEA clarification",
+      "url": "https://www.livemint.com/news/india/mea-fact-checks-viral-post-claiming-no-foreign-funding-for-cjp-as-misleading-heres-the-truth-11785073657441.html"
     },
     {
       "event_date": "27 July 2026",
@@ -326,6 +340,20 @@
       "url": "https://www.reuters.com/world/india/delhi-sealed-off-ahead-youth-protest-against-indian-election-chief-2026-10-10/"
     },
     {
+      "event_date": "10 October 2026",
+      "title": "Nitin Nabin alleges an external destabilisation plot",
+      "assessment": "At a Delhi BJP press conference, Nabin alleged that groups involving the opposition and CJP acted at the behest of unnamed foreign forces. The publisher reports no publicly supplied documentation establishing direction or financing.",
+      "source": "Times of India / filmed press conference",
+      "url": "https://timesofindia.indiatimes.com/videos/news/anarchist-competition-bjp-chief-hits-out-at-rahul-kejriwals-cjp-over-instability-plot/videoshow/134850427.cms"
+    },
+    {
+      "event_date": "10 October 2026",
+      "title": "Saket court declines Ratna Singh's police-FIR application on procedural grounds",
+      "assessment": "A magistrate dismissed Singh's application concerning alleged restraint, citing defects in affidavit, officer identification and jurisdiction. This is not a finding that confinement did or did not happen, or that police conduct was lawful.",
+      "source": "LiveLaw / Saket court reporting",
+      "url": "https://www.livelaw.in/amp/top-stories/delhi-court-cjp-leader-ratna-singh-fir-against-cops-over-illegal-detention-554074"
+    },
+    {
       "event_date": "11 October 2026",
       "title": "Further demonstrations after releases",
       "assessment": "Reuters reports continued action, court activity and competing accounts of treatment of demonstrators, journalists and lawyers.",
@@ -340,6 +368,20 @@
       "url": "https://indianexpress.com/article/cities/delhi/cjp-leaders-ashutosh-ranka-saurav-das-police-detention-phone-seizure-allegations-10916764/lite/"
     },
     {
+      "event_date": "11 October 2026",
+      "title": "Ratna Singh describes nine-hour detention at CJP press conference",
+      "assessment": "Legal-affairs head Singh says she was held in her vehicle and was told officers had orders from above. The News Minute identifies the speaker; another report appears to misattribute the account to Ashutosh Ranka. Police logs remain outstanding.",
+      "source": "The News Minute / Press Club interview",
+      "url": "https://www.thenewsminute.com/news/protests-to-continue-till-gyanesh-kumar-resigns-cjp-leaders-after-release-from-custody"
+    },
+    {
+      "event_date": "11 October 2026",
+      "title": "Bangla Sahib events prompt disputed policing and sanctity allegations",
+      "assessment": "At a CJP press conference Das alleges police entered Bangla Sahib with batons and removed sheltering protesters. Separate DSGMC claims concern AAP-linked participants. Both sets of allegations remain disputed; actor identities and command chains should not be conflated.",
+      "source": "The Tribune / DSGMC reporting",
+      "url": "https://www.tribuneindia.com/news/delhi/cjp-leaders-allege-illegal-detention-phone-seizure-and-custodial-violence-vow-to-continue-protests/"
+    },
+    {
       "event_date": "12 October 2026",
       "title": "Delhi Police denotifies Jantar Mantar as protest venue",
       "assessment": "An October 12 police notification names Ramlila Ground, Burari Ground and CBD Ground as alternatives. Subsequent petitions dispute the change; a challenge is not a judicial invalidation.",
@@ -352,6 +394,13 @@
       "assessment": "In a Hindustan Times edited Q&A, Ranka disputes police interpretations of peace bonds and describes custody, a strategy review, and opposition relationships. Original bond and arrest records remain outstanding.",
       "source": "Hindustan Times / direct interview",
       "url": "https://www.hindustantimes.com/india-news/held-detailed-review-will-return-with-new-strategy-cjp-ashutosh-ranka-amid-anti-ec-stir-ht-interview-101791854087840.html"
+    },
+    {
+      "event_date": "12 October 2026",
+      "title": "Dhruv Rathee explicitly disavows CJP organisational membership",
+      "assessment": "In a published filmed public statement, Rathee says he is not joining or formally affiliated with CJP. Public protest participation must not be mislabelled as party office, funding or instruction.",
+      "source": "Economic Times / filmed public statement",
+      "url": "https://economictimes.indiatimes.com/news/india/not-affiliated-with-cjp-youtuber-dhruv-rathee-denies-any-link-to-cockroach-janta-party/videoshow/134883463.cms"
     },
     {
       "event_date": "13 October 2026",
@@ -408,6 +457,27 @@
       "assessment": "Press reporting attributes a public call for a 16 October flag demonstration to Dipke. The announcement is not evidence that the future gathering occurred.",
       "source": "Jansatta / publicly reported statement",
       "url": "https://www.jansatta.com/national/cjp-protest-abhijeet-dipke-announces-a-protest-at-connaught-place-central-park-on-october-16-at-5-pm/4745653/"
+    },
+    {
+      "event_date": "14 October 2026",
+      "title": "Moitra describes solidarity without merged protest timetables",
+      "assessment": "In an India Today interview, TMC MP Mahua Moitra backs protest rights while describing distinct opposition mobilisation schedules; shared demands do not establish a centralised CJP leadership chain.",
+      "source": "India Today / video interview",
+      "url": "https://www.indiatoday.in/india/video/obviously-the-buck-doesnt-stop-with-ganesh-kumar-mahua-moitra-ytvd-3017434-2026-10-14"
+    },
+    {
+      "event_date": "14 October 2026",
+      "title": "CJP West Zone coordinator Rohit Patel appears in televised protest debate",
+      "assessment": "India Today identifies CJP West Zone coordinator Rohit Patel alongside SFI representative Aishi Ghosh, Congress spokesperson Rahul Singh and BJP's Ajay Alok. Joint television appearance is not evidence of organisational merger.",
+      "source": "India Today / televised debate",
+      "url": "https://www.indiatoday.in/india/video/priti-dr-ajay-alok-aishi-ghosh-rohit-patel-debate-protests-jantar-mantar-row-ytvd-3017464-2026-10-14"
+    },
+    {
+      "event_date": "14 October 2026",
+      "title": "American singer publishes uncorroborated donor accusation",
+      "assessment": "Mary Millben alleges US donor support for CJP on X, according to reporting. No authenticated donor names, transfers, FCRA filings or AEI instructions are supplied. The origin is a written social post, EXCLUDED from spoken-claim register.",
+      "source": "Times of India / coverage of written X post",
+      "url": "https://timesofindia.indiatimes.com/india/abhijieet-dipke-cjp-funded-by-us-donors-singer-mary-millben-backs-pm-modi-pushes-for-counter-movement/articleshow/134934795.cms"
     }
   ]
 }
