@@ -1,19 +1,20 @@
 # The CJP Files
 
-GitHub Pages investigative research website. Main editorial investigation in `index.html`, linked independent claim investigation in `myth-vs-reality.html`.
+GitHub Pages editorial investigation, published at https://ashish-bhatia.github.io/the-cjp-files/.
 
-## Editorial release: 15 October 2026
+## 15 October 2026: public-statement research release
 
-- 32 source-attributed public milestones in the May–October chronology; partial coverage, not an exhaustive event history.
-- 26 case-by-case Myth vs Reality analyses, with source link, counter-evidence and what remains to be tested.
-- Searchable association atlas, Gene Sharp comparative framework, evidence source library and transparent non-numeric hypothesis monitor.
-- Machine-readable audit datasets in `research/chronology.json` and `research/claim-reviews.json`.
-- Research gaps, correction criteria and publication rules in `research/coverage-and-corrections.md`.
+- 39 selected dated public milestones in the main chronology, partial rather than exhaustive coverage.
+- 22 public statements reviewed in the Myth vs Reality investigation, spoken in recorded interviews, reported press interactions, public speeches or press conferences.
+- Earlier 26-item register superseded because it included manifesto-page propositions, online counters, social-only allegations and editor-derived claims outside the revised publication rule.
+- Verbatim quote reproduction avoided in most cards: each card identifies its speaker, date, speech format, original reporting and what would corroborate or contradict it.
+- Direct interview sources are distinguished from secondary articles that quote public remarks. Where complete original recordings or timecodes are unavailable, provenance is marked as a limitation.
+- Research datasets: `research/chronology.json`, `research/claim-reviews.json` and `research/coverage-and-corrections.md`.
+
+## Standards
+
+Claims about parties or public figures are not treated as verified merely because someone said them. Public positions are not equated with illegal conduct. Gene Sharp / AEI tactical similarity is not proof of operational instruction. Court orders and government records are background verification, not substitute attributed CJP claims. A media-only live discovery feed was withdrawn from the public site to preserve admission standards.
 
 ## Deployment
 
-GitHub Pages is configured using `.github/workflows/deploy.yml`; pushes to `main` trigger publication at `https://ashish-bhatia.github.io/the-cjp-files/`. No database or server job exists. The live external search on the homepage supplies leads, not automatically fact-checked site updates.
-
-## Standard
-
-Political criticism is not unlawful conspiracy evidence. Protest-method similarity is not evidence of AEI guidance. Avoid blanket declarations based on aggregate election statistics, and distinguish actual judicial orders from media descriptions and self-asserted websites. The page is not legal advice.
+Static site deployed through GitHub Actions workflow `.github/workflows/deploy.yml`. Updates to `main` trigger publishing. This is an editorial release, not a promise of exhaustive retrospective transcription or autonomous verification.
