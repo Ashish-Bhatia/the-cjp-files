@@ -34,7 +34,11 @@
     "Authenticate July 21 personnel change and separate Dahiya's later personal speech from organisational statements.",
     "Reconcile late-20-July on-stage march pledge with 21-July press conference reversal using timestamped originals, and avoid treating either promise as a completed march.",
     "Obtain the October 11 Press Club recording, police seizure memos and independent device-forensic findings before making any technical claim.",
-    "Independently audit August 6 non-fundraising statement against dated bank records and statutory filings, rather than treating a spoken denial as proof."
+    "Independently audit August 6 non-fundraising statement against dated bank records and statutory filings, rather than treating a spoken denial as proof.",
+    "Obtain and independently inspect the full July 24 MEA briefing and the July 26 official correction; do not translate 'no information to share' into a cleared foreign-funding audit.",
+    "Obtain the October 10 Saket Court Ratna Singh order and compare procedural rejection with merits allegations; correct mistaken attribution of nine-hour detention in a Tribune paragraph by cross-checking The News Minute's expressly identified speaker.",
+    "Authenticate original Bangla Sahib CCTV and record separately the DSGMC complaint, police explanation and any specific CJP participant conduct. Do not label AAP-linked persons as CJP under assumed common command.",
+    "Review the 14 October India Today debate unedited to attribute every statement to Ajay Alok, Rohit Patel, Aishi Ghosh or Rahul Singh individually, not by shared editorial summary."
   ],
   "source_catalogue": [
     {
@@ -126,7 +130,55 @@
       "date": "2026-10-14",
       "format": "Reuters-reported spoken press interaction",
       "recording_authenticated": false
+    },
+    {
+      "url": "https://www.livemint.com/news/india/no-information-mea-on-claims-of-foreign-funding-behind-cjp-protest-at-jantar-mantar-sonam-wangchuk-dharmendra-pradhan/amp-11784910006353.html",
+      "date": "2026-07-24",
+      "format": "MEA foreign funding question in official press briefing",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/videos/news/anarchist-competition-bjp-chief-hits-out-at-rahul-kejriwals-cjp-over-instability-plot/videoshow/134850427.cms",
+      "date": "2026-10-10",
+      "format": "reported and published press conference video, Nitin Nabin",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.tribuneindia.com/news/delhi/cjp-leaders-allege-illegal-detention-phone-seizure-and-custodial-violence-vow-to-continue-protests/",
+      "date": "2026-10-11",
+      "format": "press conference summary including contested gurdwara and custody allegations",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.thenewsminute.com/news/protests-to-continue-till-gyanesh-kumar-resigns-cjp-leaders-after-release-from-custody",
+      "date": "2026-10-11",
+      "format": "attributable press remarks by Ratna Singh correcting reporter attribution",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/news/india/not-affiliated-with-cjp-youtuber-dhruv-rathee-denies-any-link-to-cockroach-janta-party/videoshow/134883463.cms",
+      "date": "2026-10-12",
+      "format": "filmed Rathee public statement of no membership",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/mumbai/supreme-court-bengal-remarks-narendra-modi-contest-next-election-cjp-abhijeet-dipke-cec-10921250/",
+      "date": "2026-10-14",
+      "format": "Dipke public reporter interaction in Nagpur",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.indiatoday.in/india/video/obviously-the-buck-doesnt-stop-with-ganesh-kumar-mahua-moitra-ytvd-3017434-2026-10-14",
+      "date": "2026-10-14",
+      "format": "Mahua Moitra filmed television interview",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.indiatoday.in/india/video/priti-dr-ajay-alok-aishi-ghosh-rohit-patel-debate-protests-jantar-mantar-row-ytvd-3017464-2026-10-14",
+      "date": "2026-10-14",
+      "format": "Ajay Alok televised public debate; Rohit Patel named attendee",
+      "recording_authenticated": false
     }
   ],
-  "release_note": "Additional 18 reviews from public spoken remarks as of 15 October 2026. Previous statement-only source standard retained. Written-only 23 August organisational statement excluded as a new claim origin."
+  "release_note": "15 October supplemental round: 11 statement reviews added, 10 contextual chronology events; 8 origin-source records added, media-source original raw recordings mostly unauthenticated. Written X allegations remain context only."
 }
