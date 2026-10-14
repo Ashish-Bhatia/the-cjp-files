@@ -4,8 +4,8 @@ Editorial investigation on GitHub Pages: https://ashish-bhatia.github.io/the-cjp
 
 ## Research release, 15 October 2026 (IST)
 
-- **45** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
-- **53** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
+- **63** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
+- **58** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
 - Association register tracks separately reported public participation, former office, prior-party affiliations, issue-focused support and allegations. **Former spokesperson Vijeta Dahiya's July 21 departure is separately documented.**
 - New interview review: September 24 election commission press conference, October 6 civil-disobedience interview, October 8 public speeches, October 12 interview reported October 13, July press conferences and early June/July Dahiya material.
 - Original recording authentication remains incomplete. Article quotes, producer summaries and edited interviews have source-level caveats. Read `research/statement-source-audit.json`.
@@ -22,10 +22,17 @@ Only public *spoken* claims enter the claim-review dataset. Other evidence, such
 - Next forecast as of **15 October 2026**: Sharp **#18, displays of flags and symbolic colours**, a possible repeat based on the publicly reported 16 October gathering. It is neither a newly documented action nor a prediction of which unused method will appear next.
 - Original 198-method list: https://www.aeinstein.org/198-methods-of-nonviolent-action. Method similarity does not prove AEI influence, direction or funding.
 
+## Further investigation, 15 October 2026
+
+- Added 18 eligible spoken-statement reviews from the June, July, August and October events. The same accounts have been incorporated into the website's searchable Myth vs Reality register.
+- Timeline expanded to 58 dated milestones, with 20–21 July changed plans shown in original sequence.
+- The 198-method classification remains 15 documented, 16 possible, 1 announced and 166 not established. New public appearances repeat method #1. The 16 October #18 forecast is conditional and not yet confirmed.
+- Phone-tampering suspicions, claimed non-fundraising and opposition-party connections remain unproved without forensic, audited or governance records.
+
 ## Content files
 
 - `index.html`: editorial investigation, public network/association atlas, chronology, source register and Gene Sharp comparison.
-- `myth-vs-reality.html`: 45 cases, with speaker/date/format, source, comparison and missing original evidence.
+- `myth-vs-reality.html`: 63 cases, with speaker/date/format, source, comparison and missing original evidence.
 - `research/claim-reviews.json`: machine-readable statement reviews.
 - `research/chronology.json`: dated events and provenance.
 - `research/statement-source-audit.json`: source and authentication tiers, research gaps.
