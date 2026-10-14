@@ -1,7 +1,7 @@
 {
   "release": "2026-10-15",
   "scope": "Dated public events and attributable public statements. Events may be evidenced by official records and reported observation; the separate Myth vs Reality claim register admits only statements made in interviews, public speeches, press conferences and press interactions. Not exhaustive.",
-  "event_count": 39,
+  "event_count": 47,
   "events": [
     {
       "event_date": "15 May 2026",
@@ -158,6 +158,13 @@
       "url": "https://www.presidentofindia.gov.in/press_releases/press-communique-35"
     },
     {
+      "event_date": "27 July 2026",
+      "title": "CJP press conference demands July FIR implementation",
+      "assessment": "NDTV clips document a public demand for promised case withdrawals and an appeal for legal aid. The later Supreme Court order had defined terms and exceptions.",
+      "source": "NDTV / recorded press conference excerpts",
+      "url": "https://www.ndtv.com/video/cjp-press-conference-cjp-warns-of-fresh-protest-if-govt-fails-to-withdraw-firs-against-protesters-1134075"
+    },
+    {
       "event_date": "25 July 2026",
       "title": "Ranka and Das detail plans in NDTV interview",
       "assessment": "Das describes an immediate grassroots agenda; Ranka declines to rule out his own eventual political career and describes the terms he understood from government negotiations. The subsequent written court order controls legal scope.",
@@ -207,11 +214,32 @@
       "url": "https://indiankanoon.org/doc/36753714/"
     },
     {
+      "event_date": "24 September 2026",
+      "title": "CJP turns to election authority in Delhi press conference",
+      "assessment": "Dipke, Das and Ranka announce demands concerning the CEC, election postponement, restoration of roll status and scrutiny of SIR files. Their allegations of wrongdoing are attributed, not proven.",
+      "source": "India Today / press conference",
+      "url": "https://www.indiatoday.in/india/story/gyanesh-kumar-resignation-cjp-protests-poll-freeze-abhijeet-dipke-jantar-mantar-cec-election-commission-itspc-3001904-2026-09-24"
+    },
+    {
       "event_date": "5 October 2026",
       "title": "New October mobilisation announced",
       "assessment": "Saurav Das is reported demanding protests beginning 10 October; alleged plans to arrest organisers are his attributed statement, not an established government plan.",
       "source": "Times of India",
       "url": "https://www.reuters.com/world/india/delhi-sealed-off-ahead-youth-protest-against-indian-election-chief-2026-10-10/"
+    },
+    {
+      "event_date": "6 October 2026",
+      "title": "Ranka previews civil disobedience and Jantar Mantar action",
+      "assessment": "In an Indian Express interview, Ranka states that participants intend to sit wherever stopped and links further police force to demands for Home Minister's resignation.",
+      "source": "Indian Express / direct interview",
+      "url": "https://indianexpress.com/article/india/cjp-ashutosh-ranka-indian-express-interview-october-10-jantar-mantar-protest-10909075/"
+    },
+    {
+      "event_date": "8 October 2026",
+      "title": "Bengaluru speeches clarify distinct positions",
+      "assessment": "At a CJP-associated Freedom Park protest, Dhruv Rathee publicly denies regime-change intent for himself; Prakash Raj alleges election-official direction by ministers. Both statements remain separately attributed.",
+      "source": "Indian Express / reported public speeches",
+      "url": "https://indianexpress.com/article/cities/bangalore/dhruv-rathee-prakash-raj-cjp-protest-cec-gyanesh-kumar-sir-10912225/"
     },
     {
       "event_date": "9 October 2026",
@@ -242,6 +270,20 @@
       "url": "https://www.reuters.com/world/asia-pacific/indian-capital-braces-second-day-protests-against-poll-chief-2026-10-11/"
     },
     {
+      "event_date": "12 October 2026",
+      "title": "Delhi Police denotifies Jantar Mantar as protest venue",
+      "assessment": "An October 12 police notification names Ramlila Ground, Burari Ground and CBD Ground as alternatives. Subsequent petitions dispute the change; a challenge is not a judicial invalidation.",
+      "source": "Indian Express / public-law reporting",
+      "url": "https://indianexpress.com/article/legal-news/jantar-mantar-denotified-protest-site-delhi-police-supreme-court-high-court-10921999/"
+    },
+    {
+      "event_date": "12 October 2026 (reported 13 October)",
+      "title": "Ranka interviewed after October protests and detentions",
+      "assessment": "In a Hindustan Times edited Q&A, Ranka disputes police interpretations of peace bonds and describes custody, a strategy review, and opposition relationships. Original bond and arrest records remain outstanding.",
+      "source": "Hindustan Times / direct interview",
+      "url": "https://www.hindustantimes.com/india-news/held-detailed-review-will-return-with-new-strategy-cjp-ashutosh-ranka-amid-anti-ec-stir-ht-interview-101791854087840.html"
+    },
+    {
       "event_date": "13 October 2026",
       "title": "CJP organisers enter disputed protest site",
       "assessment": "Coverage describes Ashutosh Ranka and Saurav Das arriving at Jantar Mantar despite restrictions. Participants dispute the police account of their conduct.",
@@ -264,6 +306,13 @@
     },
     {
       "event_date": "14 October 2026",
+      "title": "Denotification challenged in two courts",
+      "assessment": "Supreme Court and Delhi High Court petitions challenge the October 12 change of protest site. Reporting identifies an open dispute, not a final ruling on legality.",
+      "source": "Indian Express / legal reporting",
+      "url": "https://indianexpress.com/article/legal-news/jantar-mantar-denotified-protest-site-delhi-police-supreme-court-high-court-10921999/"
+    },
+    {
+      "event_date": "14 October 2026",
       "title": "Election-roll dispute remains unresolved",
       "assessment": "Reuters details allegations of large-scale exclusion and the election authority’s denial of partisan bias. A final-voter disenfranchisement total has not been audited here.",
       "source": "Reuters / ECI",
@@ -275,6 +324,13 @@
       "assessment": "At a Delhi press conference, Rekha Gupta calls CJP an AAP 'B party'. This is a reported public allegation, not independent evidence of a financing or instruction chain.",
       "source": "Indian Express / press conference",
       "url": "https://indianexpress.com/article/cities/delhi/cjp-acting-like-aaps-b-party-delhi-cm-rekha-gupta-10921189/"
+    },
+    {
+      "event_date": "14 October 2026",
+      "title": "Dipke announces planned 16 October Connaught Place gathering",
+      "assessment": "Press reporting attributes a public call for a 16 October flag demonstration to Dipke. The announcement is not evidence that the future gathering occurred.",
+      "source": "Jansatta / publicly reported statement",
+      "url": "https://www.jansatta.com/national/cjp-protest-abhijeet-dipke-announces-a-protest-at-connaught-place-central-park-on-october-16-at-5-pm/4745653/"
     }
   ]
 }
