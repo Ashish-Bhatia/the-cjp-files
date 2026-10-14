@@ -24,7 +24,7 @@
     "method_name": "Displays of flags and symbolic colors",
     "prediction_type": "repeat_of_previously_documented_method",
     "description": "The next publicly reported CJP-linked action is more likely to repeat a flag display than introduce a reliably identifiable unused Sharp method, conditional on the reported October 16 gathering taking place.",
-    "basis": "CJP organisers visibly displayed the tricolour on October 13. News reporting on October 14 describes a call for a tricolour gathering on October 16. The latter is a mobilisation report, not a verified completed act and not a newly admitted spoken CJP claim.",
+    "basis": "CJP organisers visibly displayed the tricolour on October 13. News reporting on October 14 describes a call for a tricolour gathering on October 16. The latter is a mobilisation report, not a verified completed act and not a newly admitted spoken CJP claim. The 15 October source review corroborates the planned 16 October tricolour action, not its execution; forecast is still open.",
     "source_urls": [
       "https://indianexpress.com/article/cities/delhi/cjp-ashutosh-ranka-saurav-das-and-ajinkya-shinde-preventive-arrest-jantar-mantar-protest-10920696/",
       "https://indianexpress.com/article/cities/delhi/tiranga-cjp-sir-gyanesh-kumar-connaught-place-abhijeet-dipke-10921688/lite/"
@@ -219,6 +219,26 @@
           "detail": "CJP speakers discussed phone seizures, possible tampering, police conduct and continuing demonstrations. Technical allegations require separate evidence.",
           "source_url": "https://indianexpress.com/article/cities/delhi/cjp-leaders-ashutosh-ranka-saurav-das-police-detention-phone-seizure-allegations-10916764/lite/",
           "actor_scope": "CJP spokespeople",
+          "date_precision": "day",
+          "evidence_class": "reported_public_speech"
+        },
+        {
+          "date": "2026-10-14",
+          "first_reported_date": "2026-10-14",
+          "occurrence": "CJP founder's Nagpur press interaction",
+          "detail": "Indian Express account of Dipke speaking to reporters about group independence, protest legitimacy and disputing police claims.",
+          "source_url": "https://indianexpress.com/article/cities/mumbai/supreme-court-bengal-remarks-narendra-modi-contest-next-election-cjp-abhijeet-dipke-cec-10921250/",
+          "actor_scope": "CJP founder",
+          "date_precision": "day",
+          "evidence_class": "reported_public_speech"
+        },
+        {
+          "date": "2026-10-14",
+          "first_reported_date": "2026-10-14",
+          "occurrence": "CJP West Zone coordinator appears on televised panel",
+          "detail": "India Today identifies Rohit Patel as a CJP West Zone coordinator participating alongside representatives of unrelated political groups; no joint command implied.",
+          "source_url": "https://www.indiatoday.in/india/video/priti-dr-ajay-alok-aishi-ghosh-rohit-patel-debate-protests-jantar-mantar-row-ytvd-3017464-2026-10-14",
+          "actor_scope": "CJP regional coordinator, publicly identified",
           "date_precision": "day",
           "evidence_class": "reported_public_speech"
         }
@@ -3199,7 +3219,9 @@
     "Initial review used contemporary reporting and published images, not a complete timestamped recording archive.",
     "New agency photo dated June 22 documents candlelight vigil. Site counters for petitions remain provenance leads, not accepted CJP organisational records.",
     "A denied May 24 human-chain plan is recorded as an unconfirmed event lead only.",
-    "15 October follow-on audit: press statements added as repeats of already documented method #1. No new method is established merely by announcing plans, claiming funding independence or alleging misconduct. All 198 classifications and the 16 October #18 repeat forecast remain unchanged."
+    "15 October follow-on audit: press statements added as repeats of already documented method #1. No new method is established merely by announcing plans, claiming funding independence or alleging misconduct. All 198 classifications and the 16 October #18 repeat forecast remain unchanged.",
+    "15 October additional interview/press review documents repetitions of #1 Public Speeches (Dipke's Nagpur reporter interaction and Patel's televised panel). No new method is established by those appearances; 15 documented/16 possible/1 announced/166 not established stays unchanged.",
+    "Claims from the 24 July foreign ministry briefing and 10 October BJP conference are official/opponent speech records, not CJP-directed #1 method instances. Ratna Singh's 11 October speaking occurred at an already logged CJP press conference. Reported social-media funding claims are not a Gene Sharp action and do not establish AEI contact."
   ],
   "completeness_rule": "Every canonical number 1–198 appears once. 'Not established' entries have an explicit negative search result limited to the reviewed source base, not a proof of non-occurrence. Future dates excluded from observed chronology.",
   "method_events": [
@@ -3389,9 +3411,31 @@
       "actor_scope": "CJP-directed/reported",
       "date_precision": "day",
       "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-10-14",
+      "method": 1,
+      "name": "Public Speeches",
+      "event": "CJP founder's Nagpur press interaction",
+      "explanation": "Indian Express account of Dipke speaking to reporters about group independence, protest legitimacy and disputing police claims.",
+      "source_url": "https://indianexpress.com/article/cities/mumbai/supreme-court-bengal-remarks-narendra-modi-contest-next-election-cjp-abhijeet-dipke-cec-10921250/",
+      "actor_scope": "CJP founder",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-10-14",
+      "method": 1,
+      "name": "Public Speeches",
+      "event": "CJP West Zone coordinator appears on televised panel",
+      "explanation": "India Today identifies Rohit Patel as a CJP West Zone coordinator participating alongside representatives of unrelated political groups; no joint command implied.",
+      "source_url": "https://www.indiatoday.in/india/video/priti-dr-ajay-alok-aishi-ghosh-rohit-patel-debate-protests-jantar-mantar-row-ytvd-3017464-2026-10-14",
+      "actor_scope": "CJP regional coordinator, publicly identified",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
     }
   ],
-  "method_event_count": 17,
+  "method_event_count": 19,
   "coverage_leads": [
     {
       "date": "2026-05-23",
