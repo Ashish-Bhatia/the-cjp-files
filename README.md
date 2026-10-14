@@ -4,8 +4,8 @@ Editorial investigation on GitHub Pages: https://ashish-bhatia.github.io/the-cjp
 
 ## Research release, 15 October 2026 (IST)
 
-- **63** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
-- **58** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
+- **74** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
+- **68** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
 - Association register tracks separately reported public participation, former office, prior-party affiliations, issue-focused support and allegations. **Former spokesperson Vijeta Dahiya's July 21 departure is separately documented.**
 - New interview review: September 24 election commission press conference, October 6 civil-disobedience interview, October 8 public speeches, October 12 interview reported October 13, July press conferences and early June/July Dahiya material.
 - Original recording authentication remains incomplete. Article quotes, producer summaries and edited interviews have source-level caveats. Read `research/statement-source-audit.json`.
@@ -26,15 +26,25 @@ Only public *spoken* claims enter the claim-review dataset. Other evidence, such
 
 - Added 18 eligible spoken-statement reviews from the June, July, August and October events. The same accounts have been incorporated into the website's searchable Myth vs Reality register.
 - Timeline expanded to 58 dated milestones, with 20–21 July changed plans shown in original sequence.
-- The 198-method classification remains 15 documented, 16 possible, 1 announced and 166 not established. New public appearances repeat method #1. The 16 October #18 forecast is conditional and not yet confirmed.
+- The 198-method classification remains 15 documented, 16 possible, 1 announced and 166 not established. Two October 14 interviews/panels are repeats of #1, not new methods. New public appearances repeat method #1. The 16 October #18 forecast is conditional and not yet confirmed.
 - Phone-tampering suspicions, claimed non-fundraising and opposition-party connections remain unproved without forensic, audited or governance records.
+
+## October 15 late evidence pass
+
+- Added **11 more eligible public spoken propositions**, bringing the claim register to **74**, and **10 dated context/statement milestones**, bringing the chronology to **68**.
+- Corrections: MEA spokesperson Randhir Jaiswal said he had **no information to share** about funding allegations, **not** that foreign funding was absent; the ministry's subsequent correction was written. Ratna Singh, **not Ashutosh Ranka**, gave the reported first-person account of her nine-hour confinement according to a separately attributed report.
+- CJP's reported legal-team role is corroborated, the 10 October Saket court ruling is treated as a **procedural** rejection, and Dhruv Rathee's express disavowal of CJP organisational affiliation is added. India Today identified Rohit Patel as a West Zone coordinator. Media appearances with SFI, Congress or TMC do not establish a shared instruction chain.
+- Written-only Mary Millben financing allegation is retained in contextual research **only**, not made a speech claim or accepted as fact.
+- Method event occurrences increased to **19**, solely by logging two repeats of #1 Public Speeches. The full classification and **conditional repeat #18 for October 16** forecast remain unchanged.
+- Read [the new investigation supplement](research/investigation-supplement-2026-10-15.md).
 
 ## Content files
 
 - `index.html`: editorial investigation, public network/association atlas, chronology, source register and Gene Sharp comparison.
-- `myth-vs-reality.html`: 63 cases, with speaker/date/format, source, comparison and missing original evidence.
+- `myth-vs-reality.html`: 74 cases, with speaker/date/format, source, comparison and missing original evidence.
 - `research/claim-reviews.json`: machine-readable statement reviews.
-- `research/chronology.json`: dated events and provenance.
+- `research/chronology.json`: 68 dated events and provenance.
+- `research/investigation-supplement-2026-10-15.md`: new MEA briefing fact-check, individual association corrections, reported police and protest accounts, contested Gurdwara incident, court procedural findings, 11 more spoken propositions.
 - `research/statement-source-audit.json`: source and authentication tiers, research gaps.
 - `research/coverage-and-corrections.md`: scope, gaps and legal caution.
 
