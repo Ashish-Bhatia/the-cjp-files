@@ -1,7 +1,7 @@
 {
   "release": "2026-10-15",
   "scope": "Dated public events and attributable public statements. Events may be evidenced by official records and reported observation; the separate Myth vs Reality claim register admits only statements made in interviews, public speeches, press conferences and press interactions. Not exhaustive.",
-  "event_count": 47,
+  "event_count": 51,
   "events": [
     {
       "event_date": "15 May 2026",
@@ -23,6 +23,13 @@
       "assessment": "ThePrint profiles the satirical initiative and Dipke’s stated concern that younger citizens feel disconnected from politics.",
       "source": "ThePrint",
       "url": "https://theprint.in/feature/boston-university-indian-student-cockroach-janta-party/2935156/"
+    },
+    {
+      "event_date": "5 June 2026",
+      "title": "Then-spokesperson Dahiya interviewed ahead of June protest",
+      "assessment": "A published interview features Vijeta Dahiya explaining the planned education protest. The video provides topic timestamps; specific claims await time-coded transcript verification.",
+      "source": "Shweta Jaya / recorded interview",
+      "url": "https://www.youtube.com/watch?v=Lcnddk_utac"
     },
     {
       "event_date": "20 May 2026",
@@ -123,6 +130,20 @@
       "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
     },
     {
+      "event_date": "21 July 2026",
+      "title": "CJP removes Vijeta Dahiya from spokesperson role",
+      "assessment": "Indian Express reports Dahiya's removal after a July 20 controversy. The shift is a dated organisational event and should not be mistaken for continued leadership or proof about disputed video sequences.",
+      "source": "Indian Express / contemporaneous reporting",
+      "url": "https://indianexpress.com/article/cities/delhi/cockroach-janta-party-vijeta-dahiya-spokesperson-burger-viral-video-10796877/"
+    },
+    {
+      "event_date": "22 July 2026",
+      "title": "Dahiya disputes removal and discusses movement links in interview",
+      "assessment": "In a named interview he describes the dismissal as surprising, contests accusations about his whereabouts and says he supports the cause without remaining a formal member.",
+      "source": "Indian Express / direct interview",
+      "url": "https://indianexpress.com/article/india/vijeta-dahiya-interview-cjp-ouster-burger-video-abhijeet-dipke-premanand-10798804/"
+    },
+    {
       "event_date": "20 July 2026",
       "title": "Sansad Chalo march and clashes",
       "assessment": "CJP-linked march, public-order operations, injuries and reported clashes. Police and protesters offer competing accounts; casualty and turnout figures are not independently reconciled.",
@@ -177,6 +198,13 @@
       "assessment": "Reporting describes protection for some students arrested in July demonstrations. The September written order is required for later and broader claims.",
       "source": "India Today",
       "url": "https://indiankanoon.org/doc/36753714/"
+    },
+    {
+      "event_date": "31 July 2026",
+      "title": "Dipke gives on-camera India Today interview",
+      "assessment": "The founder rejects political proxy and foreign-backing allegations, discusses July 20 police actions and describes future grassroots organising. These are his reported positions, not independently audited funding claims.",
+      "source": "India Today / published video interview",
+      "url": "https://www.indiatoday.in/india/video/abhijeet-dipke-exclusive-cjp-chief-july-20-police-brutality-behest-amit-shah-turning-point-delhi-protests-2960905-2026-07-31"
     },
     {
       "event_date": "31 July 2026",
