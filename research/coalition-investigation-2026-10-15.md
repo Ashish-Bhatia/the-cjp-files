@@ -23,17 +23,32 @@ This investigation separates six evidentiary categories: publicly expressed supp
 - **13 October / reported 15 October 2026 · Prashant Bhushan / Congress / CJP:** Reported attempt to connect Congress and CJP. Indian Express and Hindustan Times cite people familiar with attempts to invite Dipke through Bhushan to Rahul Gandhi's political gathering. The accounts remain reported attempted outreach, not an accepted invitation, a published written mandate, CJP membership of Congress or proof of a covert instruction chain. Source [E11](https://indianexpress.com/article/india/cockroach-janta-party-cjp-congress-abhijeet-dipke-rahul-gandhi-high-tea-10922245/). Status: Alleged intermediary activity; Third-party sourcing, not a public oral statement by Bhushan; kept out of spoken-claim register.
 - **15 October 2026 · Yogendra Yadav:** Coordination is advocated, not retroactively proved. Yadav told The Federal that preceding protests were largely spontaneous and advocated future deliberate synchronisation without one flag or central command. He distinguished Congress, INDIA parties, other parties including AAP, CJP, youth organisations and unaffiliated citizens as different strands. Source [E12](https://thefederal.com/category/news/rahul-gandhi-anti-sir-protests-yogendra-yadav-interview-259591). Status: Extended Q&A interview; Edited published Q&A; testimony about absent prior calls is not a communications audit.
 
+## Historical context: Yadav, Bhushan and AAP, 2015–2016
+
+- **4 March 2015:** Founding AAP leaders Yadav and Bhushan removed from AAP Political Affairs Committee amid public internal conflict, according to contemporaneous reporting: https://economictimes.indiatimes.com/news/politics-and-nation/yogendra-yadav-prashant-bhushan-out-of-aaps-pac-arvind-kejriwals-resignation-rejected/articleshow/46458786.cms
+- **28 March 2015:** AAP National Council removed them from the National Executive. Report: https://indianexpress.com/article/cities/delhi/live-aaps-national-council-meeting-set-to-begin-amid-high-police-presence/
+- **20 April 2015:** AAP disciplinary committee expelled Yadav and Bhushan from the party. The party's contemporaneous notice: https://timesofindia.indiatimes.com/india/aaps-news-release-on-expulsion-of-rebels/articleshow/46993281.cms. The competing faction's allegations must be attributed, not adopted.
+- **2 October 2016:** Yadav and Bhushan launched Swaraj India, separate from AAP, after Swaraj Abhiyan. https://indianexpress.com/article/india/india-news-india/prashant-bhushan-yogendra-yadav-now-form-new-swaraj-india-party-3061467/
+- This chronology establishes **historical leadership followed by organisational separation**. It neither establishes nor rules out a fresh 2026 AAP contact and must not be used to attribute AAP's 2026 decisions to Yadav or Bhushan.
+
+## New contemporaneous public oral evidence: 11 October 2026
+
+- Bhushan addressed an APCR public conference in Kolkata. The Indian Express published his call for legal accountability for alleged abuses by police and public officials and his allegations that appointments had compromised institutions. PC-093 and PC-094 quote/paraphrase this public speech with provenance limits. Criminal accusations are not adopted as findings, and speaking at APCR's event is not evidence APCR manages CJP. Source: https://indianexpress.com/article/cities/kolkata/prashant-bhushan-injustice-official-accountability-cjp-protest-10916783/
+
 ## Organisation-specific findings
 
 ### Yogendra Yadav
 - The 21 May Satya Hindi interview video is an attributable public-interview lead, but its full transcript and timecoded original wording were not authenticated and it does not add a spoken claim.
 - Reported march participation with Bhushan, Neha Bora and Dipankar Bhattacharya on 10 October is relevant physical action.
+- His former AAP leadership and April 2015 expulsion, followed by involvement in separate Swaraj formations, are documented; this does not place him inside AAP in 2026.
 - The 15 October edited The Federal interview attributes to him a prospective coordination proposal. He distinctly rejects treating separate campaigns as a single centralized-command body.
 - His assertions that earlier actions developed without planning and that many attendees were non-party volunteers are participant observations, not comprehensive call-record or attendance audits.
 
 ### Prashant Bhushan
 - Reuters' 28 May recorded soundbites establish encouragement to organise a careful offline movement. The rhetoric resembles broad nonviolent-mobilisation advice but is not a documented AEI or CJP chain of command.
+- His founding AAP association ended in the documented April 2015 expulsion, followed by a separate Swaraj Abhiyan/Swaraj India history.
 - A 4 August reported talk expresses support and qualitative optimism.
+- On 11 October in Kolkata, Bhushan made further public remarks on institutional capture, police accountability and protest, reviewed as PC-093–094.
 - The 13 October attempted Congress invitation via Bhushan is anonymously sourced reporting published 15 October. It is not an eligible original spoken Bhushan claim; no written invitation, acceptance or mandate is established.
 
 ### Left and other student organisations
@@ -68,7 +83,7 @@ This investigation separates six evidentiary categories: publicly expressed supp
 ## Open evidence requests
 1. Full unedited 7 October Press Club briefing, official organisers' media invitations, working agreements, attendee credentials and stage footage.
 2. 31 July/1 August CPI office footage of Saurav Das in full, with original recording metadata.
-3. Original and unedited Reuters Bhushan recording, August Bengaluru speech, 15 October Federal interview and 21 May Satya Hindi Yadav interview.
+3. Original and unedited Reuters Bhushan recording, 11 October Kolkata APCR speech, August Bengaluru speech, 15 October Federal interview and 21 May Satya Hindi Yadav interview.
 4. AAP/CJP authorised campaign expenses, procurement, volunteer rosters and payroll or officer appointments where legally and publicly available.
 5. The alleged 13 October Congress invitation records and verifiable response.
 6. Definitive documents or notices for police restrictions and detentions; do not make guilt inferences from custody.
