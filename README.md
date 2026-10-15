@@ -4,8 +4,8 @@ Editorial investigation on GitHub Pages: https://ashish-bhatia.github.io/the-cjp
 
 ## Research release, 15 October 2026 (IST)
 
-- **74** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
-- **68** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
+- **78** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
+- **74** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
 - Association register tracks separately reported public participation, former office, prior-party affiliations, issue-focused support and allegations. **Former spokesperson Vijeta Dahiya's July 21 departure is separately documented.**
 - New interview review: September 24 election commission press conference, October 6 civil-disobedience interview, October 8 public speeches, October 12 interview reported October 13, July press conferences and early June/July Dahiya material.
 - Original recording authentication remains incomplete. Article quotes, producer summaries and edited interviews have source-level caveats. Read `research/statement-source-audit.json`.
@@ -42,8 +42,9 @@ Only public *spoken* claims enter the claim-review dataset. Other evidence, such
 
 - `index.html`: editorial investigation, public network/association atlas, chronology, source register and Gene Sharp comparison.
 - `myth-vs-reality.html`: 74 cases, with speaker/date/format, source, comparison and missing original evidence.
-- `research/claim-reviews.json`: machine-readable statement reviews.
-- `research/chronology.json`: 68 dated events and provenance.
+- `research/claim-reviews.json`: 78 machine-readable speaker-attributable statement reviews.
+- `research/chronology.json`: 74 dated events and provenance.
+- `research/investigation-update-2026-10-15-midday.md`: further dated update on alleged Congress outreach, Goa, preventive custody accounts, sworn police/home-ministry positions and 16 October hearing.
 - `research/investigation-supplement-2026-10-15.md`: new MEA briefing fact-check, individual association corrections, reported police and protest accounts, contested Gurdwara incident, court procedural findings, 11 more spoken propositions.
 - `research/statement-source-audit.json`: source and authentication tiers, research gaps.
 - `research/coverage-and-corrections.md`: scope, gaps and legal caution.
@@ -51,3 +52,11 @@ Only public *spoken* claims enter the claim-review dataset. Other evidence, such
 ## Deployment
 
 Changes pushed to `main` trigger the existing GitHub Pages publishing workflow. No unaudited live news feed directly alters published conclusions.
+
+## 15 October midday evidence update
+
+- Spoken-claim register: **78** (new PC-075–078, Rahul Gandhi's 12 October public press conference; Shinde and advocate Hela's 14 October press comments).
+- Chronology: **74** (new 9 and 11 October Goa permit/custody events, 12 October Gandhi press conference, 13 October reported invitation approach, reported 14 October official affidavits and 15 October High Court listing).
+- 198-method classifications **unchanged** (15 documented / 16 possible / 1 announced / 166 not established); event log **20** due to repeat #1. Original 16 October repeat-#18 forecast remains open.
+- The Congress invitation is *reported attempted outreach*, not a verified formal alliance, accepted invitation or evidence of operational funding. The police and Home Secretary affidavits are arguments submitted to court, not final judgments.
+- See [15 October midday investigative update](research/investigation-update-2026-10-15-midday.md).
