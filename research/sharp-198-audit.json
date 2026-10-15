@@ -3,7 +3,7 @@
   "time_zone": "Asia/Kolkata",
   "taxonomy_source": "https://www.aeinstein.org/198-methods-of-nonviolent-action",
   "taxonomy_note": "Names and numbering follow the AEI's publicly published list of Gene Sharp's 198 methods. Category headings condensed; no assertion of CJP receiving direction or training.",
-  "scope": "Movement-directed and publicly reported CJP-linked actions 16 May–15 October 2026, with allied acts explicitly tagged. Not comprehensive footage review.",
+  "scope": "Movement-directed and publicly reported CJP-linked actions 16 May–15 October 2026, with allied acts explicitly tagged. Revised 15 Oct to log joint press conference as a repeat of #1, not a new method.",
   "method_count": 198,
   "status_definitions": {
     "documented": "Dated reporting supports the physical or verbal act and a reasonable narrow fit to this Sharp category; not proof of AEI adoption.",
@@ -3392,6 +3392,17 @@
       "evidence_class": "reported_action"
     },
     {
+      "date": "2026-10-07",
+      "method": 1,
+      "name": "Public Speeches",
+      "event": "Joint CJP–AISA–AISF–SFI press conference in New Delhi",
+      "explanation": "Public remarks by CJP co-convener Saurav Das and AISA president Neha Bora at a joint press briefing. ASAP (AAP student wing) also reported present. Repeat of previously documented #1; demonstrates open issue-specific coordination, not AEI direction.",
+      "source_url": "https://www.freepressjournal.in/india/cjp-student-groups-call-for-nationwide-mobilisation-ahead-of-october-10-protest-against-cec-gyanesh-kumar-video",
+      "actor_scope": "CJP speaker; independent allied student speakers recorded separately",
+      "date_precision": "day",
+      "evidence_class": "reported_public_press_conference"
+    },
+    {
       "date": "2026-10-10",
       "method": 47,
       "name": "Assemblies of protest or support",
@@ -3447,7 +3458,7 @@
       "evidence_class": "reported_action"
     }
   ],
-  "method_event_count": 20,
+  "method_event_count": 21,
   "coverage_leads": [
     {
       "date": "2026-05-23",
@@ -3470,6 +3481,7 @@
     "check_each_of_198": true,
     "source_window": "2026-05-16 to 2026-10-15",
     "proposition_test": "Method named, physical or public-verbal conduct tested against that exact definition; action before any later date announcement; actor scope established; source provenance; first documented date.",
-    "classification_limit": "This is a limited-source comparison and categorisation exercise, not 198 separately authenticated archival investigations or proof that AEI methods were consciously followed."
+    "classification_limit": "This is a limited-source comparison and categorisation exercise, not 198 separately authenticated archival investigations or proof that AEI methods were consciously followed.",
+    "scope_expansion": "CJP-AISA-AISF-SFI and ASAP public press conference 7 Oct; separate allies' interviews and claims are NOT automatically coded as acts of CJP. The July CPI-office remark has an uncertain original date, so not added to occurrence ledger."
   }
 }
