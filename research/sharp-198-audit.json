@@ -3,7 +3,7 @@
   "time_zone": "Asia/Kolkata",
   "taxonomy_source": "https://www.aeinstein.org/198-methods-of-nonviolent-action",
   "taxonomy_note": "Names and numbering follow the AEI's publicly published list of Gene Sharp's 198 methods. Category headings condensed; no assertion of CJP receiving direction or training.",
-  "scope": "Movement-directed and publicly reported CJP-linked actions 16 May–15 October 2026, with allied acts explicitly tagged. Revised 15 Oct to log joint press conference as a repeat of #1, not a new method. Evening addendum: the 15 October Press Club CJP–AISA event with SFI, AISF and named public figures repeats method #1; no novel method is established.",
+  "scope": "Movement-directed and publicly reported CJP-linked actions 16 May–15 October 2026, with allied acts explicitly tagged. Revised 15 Oct to log joint press conference as a repeat of #1, not a new method. Evening addendum: the 15 October Press Club CJP–AISA event with SFI, AISF and named public figures repeats method #1; no novel method is established. 20:48 IST addendum: Yadav interview account tested against all numbered categories without a new confirmation; proposed 16 October event not logged as complete.",
   "method_count": 198,
   "status_definitions": {
     "documented": "Dated reporting supports the physical or verbal act and a reasonable narrow fit to this Sharp category; not proof of AEI adoption.",
@@ -24,17 +24,19 @@
     "method_name": "Displays of flags and symbolic colors",
     "prediction_type": "repeat_of_previously_documented_method",
     "description": "The next publicly reported CJP-linked action is more likely to repeat a flag display than introduce a reliably identifiable unused Sharp method, conditional on the reported October 16 gathering taking place.",
-    "basis": "CJP organisers visibly displayed the tricolour on October 13. News reporting on October 14 describes a call for a tricolour gathering on October 16. The latter is a mobilisation report, not a verified completed act and not a newly admitted spoken CJP claim. The 15 October source review corroborates the planned 16 October tricolour action, not its execution; forecast is still open. The joint 15 October Press Club briefing explicitly repeated the call for public flag display on 16 October, strengthening the forecast's public-announcement basis but not confirming its occurrence.",
+    "basis": "CJP organisers visibly displayed the tricolour on October 13. News reporting on October 14 describes a call for a tricolour gathering on October 16. The latter is a mobilisation report, not a verified completed act and not a newly admitted spoken CJP claim. The 15 October source review corroborates the planned 16 October tricolour action, not its execution; forecast is still open. The joint 15 October Press Club briefing explicitly repeated the call for public flag display on 16 October, strengthening the forecast's public-announcement basis but not confirming its occurrence. Later 15 October ThePrint coverage gives an announced 5 pm local start for the proposed Central Park gathering; that is a forecast verification window, not a documented event.",
     "source_urls": [
       "https://indianexpress.com/article/cities/delhi/cjp-ashutosh-ranka-saurav-das-and-ajinkya-shinde-preventive-arrest-jantar-mantar-protest-10920696/",
       "https://indianexpress.com/article/cities/delhi/tiranga-cjp-sir-gyanesh-kumar-connaught-place-abhijeet-dipke-10921688/lite/",
-      "https://indianexpress.com/article/cities/delhi/cjp-abhijeet-dipke-aisa-neha-bora-connaught-place-protest-electoral-roll-sir-gyanesh-kumar-10923289/"
+      "https://indianexpress.com/article/cities/delhi/cjp-abhijeet-dipke-aisa-neha-bora-connaught-place-protest-electoral-roll-sir-gyanesh-kumar-10923289/",
+      "https://theprint.in/politics/at-dipke-neha-bora-sibal-press-conference-regime-change-gyanesh-modi-silent-erasure-in-sir/3072888/"
     ],
     "not_a_new_method": true,
     "confidence": "conditional/uncalibrated",
-    "validation_rule": "After October 16, check dated independent reports and visual evidence; mark confirmed, not observed, or unresolved. Do not automatically count a planned event as completed.",
+    "validation_rule": "After 17:00 IST on 16 October, independently corroborate whether participants assembled and displayed flags. Confirm #18 only on demonstrated displays, or consider #47 if a gathering without flag display is verified. If no observation, mark unresolved or failed. Do not automatically count announcements.",
     "alternative": "Method #47 Assemblies of protest or support, if people gather but flag-display evidence is absent.",
-    "next_novel_method_prediction": "Not identified: no robust evidence supports predicting which previously unseen numbered method would be adopted next."
+    "next_novel_method_prediction": "Not identified: no robust evidence supports predicting which previously unseen numbered method would be adopted next.",
+    "target_time_local": "17:00"
   },
   "first_documented_occurrences": [
     {
@@ -3224,7 +3226,8 @@
     "15 October additional interview/press review documents repetitions of #1 Public Speeches (Dipke's Nagpur reporter interaction and Patel's televised panel). No new method is established by those appearances; 15 documented/16 possible/1 announced/166 not established stays unchanged.",
     "Claims from the 24 July foreign ministry briefing and 10 October BJP conference are official/opponent speech records, not CJP-directed #1 method instances. Ratna Singh's 11 October speaking occurred at an already logged CJP press conference. Reported social-media funding claims are not a Gene Sharp action and do not establish AEI contact.",
     "15 Oct midday pass: one further Oct 14 CJP public reporter interaction repeats #1. Goa affiliate report is a coverage lead, not evidence of an additional previously unseen Sharp method; no method-status or forecast change.",
-    "15 October evening: second photographed CJP–AISA joint briefing, now alongside identified SFI and AISF participants, is logged as a repeat of #1. Method classifications remain 15/16/1/166. Metro shutdown claim checked against DMRC affidavit; 16 October #18 conditional forecast open."
+    "15 October evening: second photographed CJP–AISA joint briefing, now alongside identified SFI and AISF participants, is logged as a repeat of #1. Method classifications remain 15/16/1/166. Metro shutdown claim checked against DMRC affidavit; 16 October #18 conditional forecast open.",
+    "15 October 20:48 IST: Yadav's 13 October edited interview adds a retrospective participant account, without a verifiable new CJP-directed method. Full 198 statuses and 22 action occurrences unchanged. Forecast #18 now notes the reported 17:00 event window; not yet observed."
   ],
   "completeness_rule": "Every canonical number 1–198 appears once. 'Not established' entries have an explicit negative search result limited to the reviewed source base, not a proof of non-occurrence. Future dates excluded from observed chronology.",
   "method_events": [
@@ -3487,6 +3490,14 @@
       "description": "Goa CJP-affiliated demonstrators reportedly gathered and seven were detained in Panaji despite permit denial. Recorded as locally allied action pending authentication of organisational relationship and exact assembly conditions. It is not grounds to mark a previously unseen method documented.",
       "source_url": "https://www.jansatta.com/national/goa-police-denied-permission-for-cockroach-janata-party-protest-citing-support-for-umar-khalid-as-reason/4743755/",
       "status": "affiliate_scope_unresolved",
+      "not_assigned_to_method": true
+    },
+    {
+      "date": "2026-10-13",
+      "event_date": "2026-10-10",
+      "description": "In a 13 October published edited interview, Yadav says unnamed students displaced a barricade during a march he joined with Bhushan and Bora. Missing raw field video, individual actor attribution and CJP-authorisation evidence prohibit classifying a fresh CJP-directed Sharp method.",
+      "source_url": "https://www.newyorker.com/news/q-and-a/is-this-the-beginning-of-the-end-of-indian-democracy",
+      "status": "participant_interview_behavior_unverified",
       "not_assigned_to_method": true
     }
   ],
