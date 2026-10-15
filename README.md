@@ -4,12 +4,21 @@ Editorial investigation on GitHub Pages: https://ashish-bhatia.github.io/the-cjp
 
 ## Research release, 15 October 2026 (IST)
 
-- **104** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
-- **90** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
+- **112** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
+- **93** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
 - Association register tracks separately reported public participation, former office, prior-party affiliations, issue-focused support and allegations. **Former spokesperson Vijeta Dahiya's July 21 departure is separately documented.**
 - New interview review: September 24 election commission press conference, October 6 civil-disobedience interview, October 8 public speeches, October 12 interview reported October 13, July press conferences and early June/July Dahiya material.
 - Original recording authentication remains incomplete. Article quotes, producer summaries and edited interviews have source-level caveats. Read `research/statement-source-audit.json`.
 - Earlier 26-item manifesto/social/source-mixed collection was superseded and cannot be treated as current under the spoken-claims-only rule.
+
+## 15 October, 20:48 IST source-check extension
+
+- Public spoken-claim register now **112** eligible reviews, after eight attributed propositions from Yogendra Yadav's edited *New Yorker* Q&A (published 13 October). These distinguish allegations about SIR, his first-person police/protest account, prior AAP work and polling-free popularity estimates.
+- Source-linked chronology now **93** dated entries, including the 13 October published interview, 15 October Election Commission special summary revision timetable and the Union Home Ministry's clarification concerning court-affidavit apologies.
+- The reported ECI timetable sets **12 November** for draft rolls, **11 December** for claims/objections and **4 January 2027** for final rolls. These are future empirical checkpoints, not completed results or proof of eligibility.
+- The entire **198**-method audit remains **15 documented / 16 possible / 1 announced / 166 not established**, with **22 dated event occurrences**. Next conditional forecast: repeat **#18 flag display** if the proposed **16 October, 17:00 IST** protest occurs and flags are independently observed; #47 is an alternative if only assembly is verified. Yadav's 10 October retrospective account is a lead, not an assigned new method.
+- No new evidence in this pass establishes an AEI training/finance link or a central AAP–CJP–Congress–Left instruction chain. Published oral advocacy, historical AAP links, and visible coalition events retain separate labels.
+- Read [the 20:48 investigative addendum](research/investigation-2026-10-15-night.md). Earlier dated sections are retained as change history.
 
 ## 15 October evening verification update
 
@@ -57,6 +66,7 @@ Only public *spoken* claims enter the claim-review dataset. Other evidence, such
 - `research/investigation-update-2026-10-15-midday.md`: further dated update on alleged Congress outreach, Goa, preventive custody accounts, sworn police/home-ministry positions and 16 October hearing.
 - `research/investigation-supplement-2026-10-15.md`: new MEA briefing fact-check, individual association corrections, reported police and protest accounts, contested Gurdwara incident, court procedural findings, 11 more spoken propositions.
 - `research/statement-source-audit.json`: source and authentication tiers, research gaps.
+- `research/investigation-2026-10-15-night.md`: the 20:48 IST extension, Yadav interview, ECI timetable, legal caveats and prospective method forecast.
 - `research/coverage-and-corrections.md`: scope, gaps and legal caution.
 
 ## Deployment
