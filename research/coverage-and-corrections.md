@@ -81,3 +81,10 @@ EPA photographer Mihir Singh documented a CJP supporter at a Jantar Mantar **can
 - Dhruv Rathee's filmed disavowal of CJP affiliation is recorded. Mahua Moitra's support in a televised interview is characterised as political solidarity, not membership. Rohit Patel is separately identified on a panel as a CJP West Zone coordinator. No AEI link is inferred.
 - Mary Millben's October 14 claim of US donors was published as a written X post, not an eligible speech claim, and no independent donor trail or AEI correspondence is supplied. It is contextual only.
 - Two separately reported October 14 appearances repeat Sharp #1 Public Speeches. **19** chronological method-event instances, **198** classifications, and **15 documented, 16 possible, 1 announced, 166 not established** remain consistent. Next-method forecast is a **conditional repeat of #18 on October 16**, never recorded as an event before independent verification.
+
+
+## Midday 15 October additions
+
+Four new eligible oral-statement propositions, PC-075–078, were checked against separately reported political outreach and police/legal context. The new count is **78**. The selected chronology has **74** milestones. The 198-method register remains 15 documented, 16 possible, 1 announced, 166 not established; one additional repeat of #1 creates **20** occurrence entries. These are source-based coverage counts, not evidence of exhaustive archival authentication. The original 16 October #18 prediction remains unchanged.
+
+New safeguards: distinguish Gandhi's rhetorical assertion of one protest from actual joint governance, mark the 13 October invitation as a reported attempt and not acceptance, separate Goa affiliate actions from national coordination, distinguish police allegations from custody findings, and read the 9–10 October cellular internet shutdown details as affidavit assertions pending original orders. The October 15 High Court decision to hear a petition is not a judicial ban of October 16. See [the midday investigation report](investigation-update-2026-10-15-midday.md).
