@@ -1,7 +1,7 @@
 {
   "release": "2026-10-15",
-  "scope": "Dated public events, attributable public statements and separately labelled contextual primary/court/media evidence to 15 October 2026; not exhaustive. Social posts can enter chronology only as contextual reported events, never as eligible spoken claim cards.",
-  "event_count": 68,
+  "scope": "Dated public events, attributable public statements and separately labelled contextual primary/court/media evidence to 15 October 2026; not exhaustive. Social posts can enter chronology only as contextual reported events, never as eligible spoken claim cards. Midday 15 October pass adds Goa, cross-party outreach and court filings; the press source dates sometimes postdate events.",
+  "event_count": 74,
   "events": [
     {
       "event_date": "15 May 2026",
@@ -333,6 +333,13 @@
       "url": "https://indianexpress.com/article/cities/delhi/cjp-abhijit-dipke-slams-delhi-clampdown-10914691/"
     },
     {
+      "event_date": "9 October 2026",
+      "title": "Goa authorities refuse permission for an 11 October gathering",
+      "assessment": "Report citing the North Goa district order says organisers applied on 7 October and permission was declined on 9 October. A previous protester's unrelated placard was among police-cited concerns; that does not prove a CJP position about the named individuals on it.",
+      "source": "Jansatta / Indian Express report of Goa order",
+      "url": "https://www.jansatta.com/national/goa-police-denied-permission-for-cockroach-janata-party-protest-citing-support-for-umar-khalid-as-reason/4743755/"
+    },
+    {
       "event_date": "10 October 2026",
       "title": "Delhi protest restrictions and detentions",
       "assessment": "Reuters reports large-scale preventive measures, transport disruption and arrests before a CJP-backed rally targeting the CEC. Police figures and protest figures differ.",
@@ -382,6 +389,13 @@
       "url": "https://www.tribuneindia.com/news/delhi/cjp-leaders-allege-illegal-detention-phone-seizure-and-custodial-violence-vow-to-continue-protests/"
     },
     {
+      "event_date": "11 October 2026",
+      "title": "Goa CJP-linked protest and seven detentions",
+      "assessment": "Coverage says seven demonstrators were detained at Panaji's Azad Maidan despite denial of permission; a court reportedly directed their release that night. The Goa affiliate's participants are not automatically proved to act on national CJP instructions. Obtain the order and verified organiser identity.",
+      "source": "Jansatta / Goa habeas reporting",
+      "url": "https://www.jansatta.com/national/goa-police-denied-permission-for-cockroach-janata-party-protest-citing-support-for-umar-khalid-as-reason/4743755/"
+    },
+    {
       "event_date": "12 October 2026",
       "title": "Delhi Police denotifies Jantar Mantar as protest venue",
       "assessment": "An October 12 police notification names Ramlila Ground, Burari Ground and CBD Ground as alternatives. Subsequent petitions dispute the change; a challenge is not a judicial invalidation.",
@@ -403,11 +417,25 @@
       "url": "https://economictimes.indiatimes.com/news/india/not-affiliated-with-cjp-youtuber-dhruv-rathee-denies-any-link-to-cockroach-janta-party/videoshow/134883463.cms"
     },
     {
+      "event_date": "12 October 2026",
+      "title": "Rahul Gandhi describes parallel protests as one cause",
+      "assessment": "At a public press conference, Gandhi said separate demonstrations shared an anti-CEC objective and alleged top-level pressure on the commissioner. The allegations have not been independently proved; the shared cause is not evidence of a combined operational hierarchy.",
+      "source": "Indian Express / public press conference",
+      "url": "https://indianexpress.com/article/india/rahul-gandhi-delhi-protest-cec-gyanesh-kumar-resignation-pm-modi-amit-shah-10917883/"
+    },
+    {
       "event_date": "13 October 2026",
       "title": "CJP organisers enter disputed protest site",
       "assessment": "Coverage describes Ashutosh Ranka and Saurav Das arriving at Jantar Mantar despite restrictions. Participants dispute the police account of their conduct.",
       "source": "Indian Express",
       "url": "https://indianexpress.com/article/cities/delhi/cjp-ashutosh-ranka-saurav-das-and-ajinkya-shinde-preventive-arrest-jantar-mantar-protest-10920696/"
+    },
+    {
+      "event_date": "13 October 2026 (reported 15 October)",
+      "title": "Congress reportedly attempts invitation to CJP leader",
+      "assessment": "Indian Express cites unnamed Congress and intermediary sources describing an attempted invitation via Prashant Bhushan to Rahul Gandhi's high tea. The report does not establish Dipke attended, accepted, entered any agreement or took instructions; reported contact should not be upgraded to a structural alliance.",
+      "source": "Indian Express / sourced political reporting",
+      "url": "https://indianexpress.com/article/india/cockroach-janta-party-cjp-congress-abhijeet-dipke-rahul-gandhi-high-tea-10922245/lite/"
     },
     {
       "event_date": "14 October 2026",
@@ -478,6 +506,20 @@
       "assessment": "Mary Millben alleges US donor support for CJP on X, according to reporting. No authenticated donor names, transfers, FCRA filings or AEI instructions are supplied. The origin is a written social post, EXCLUDED from spoken-claim register.",
       "source": "Times of India / coverage of written X post",
       "url": "https://timesofindia.indiatimes.com/india/abhijieet-dipke-cjp-funded-by-us-donors-singer-mary-millben-backs-pm-modi-pushes-for-counter-movement/articleshow/134934795.cms"
+    },
+    {
+      "event_date": "14 October 2026 (reported 15 October)",
+      "title": "Delhi Police and Union Home Secretary set out court affidavits",
+      "assessment": "Anurag Kumar's affidavit alleges past protest restrictions were breached and says detainees were held in temporary centres. Home Secretary Govind Mohan apologises to the Supreme Court while defending a 9–10 October cellular-internet suspension within four kilometres of Raisina Hill. These are submitted government positions, not the court's rulings.",
+      "source": "Indian Express / reporting on filed affidavits",
+      "url": "https://indianexpress.com/article/legal-news/delhi-police-apology-cjp-protest-curbs-action-intelligence-inputs-cockroach-janta-party-10922427/"
+    },
+    {
+      "event_date": "15 October 2026",
+      "title": "Delhi High Court agrees to hear challenge to planned 16 October protest",
+      "assessment": "Court reportedly agrees to hear a petition seeking to prevent the announced Connaught Place action. Listing or agreeing to hear a petition does not mean a ban has been issued; preserve the 16 October gathering as future and unverified.",
+      "source": "Indian Express / court listing report",
+      "url": "https://indianexpress.com/article/legal-news/delhi-high-court-refuses-listing-journalists-plea-delhi-cop-acp-vivek-bhagat-sexual-assault-10922598/"
     }
   ]
 }
