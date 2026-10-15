@@ -3,7 +3,7 @@
   "claim_scope": "Only publicly attributable speeches, press conferences, press interactions/bytes, public interview appearances and Q&A interviews. Other material may test assertions but is not a source of new claims.",
   "original_media_limitation": "No full unedited recording has been compared with a complete timestamped transcript for every card. Published edited Q&A, media quotes of spoken remarks and published press conference summaries are marked accordingly. Attribution does not authenticate allegations.",
   "removed_from_prior_release": "Earlier 26-item register included website manifesto assertions, online counters, social-media-only claims, generic media narratives and editor-derived propositions. Those are removed from this public-claim review under the new source restriction.",
-  "count": 92,
+  "count": 94,
   "claims": [
     {
       "id": "PC-001",
@@ -1844,7 +1844,47 @@
       "full_recording_transcript_reviewed": false,
       "timecode": null,
       "verification_limit": "Published clip, edited Q&A or reported speech; raw complete original not independently authenticated"
+    },
+    {
+      "id": "PC-093",
+      "speaker": "Prashant Bhushan",
+      "record_date": "11 October 2026",
+      "format": "Speech at APCR public conference in Kolkata",
+      "category": "Law & policing",
+      "public_statement_paraphrase": "Bhushan argued that officials responsible for unlawful cases, demolitions or other abuses should face legal accountability, not only action against isolated cases.",
+      "assessment": "Indian Express directly attributes the normative call to Bhushan at an APCR conference. The specific examples of wrongdoing he invoked are allegations to examine individually; an argument for punishment is not proof any named person committed a crime.",
+      "outstanding": "Original full event recording, identity and evidence for particular incidents and legal findings about individual officials.",
+      "evidence_status": "Attributable public legal-advocacy statement, not findings of guilt",
+      "statement_source_url": "https://indianexpress.com/article/cities/kolkata/prashant-bhushan-injustice-official-accountability-cjp-protest-10916783/",
+      "context_source_url": null,
+      "language": "English (editorial paraphrase)",
+      "reviewed_at": "2026-10-15",
+      "publication_state": "published_source_limited",
+      "origin_type": "reported_public_conference_speech",
+      "full_recording_transcript_reviewed": false,
+      "timecode": null,
+      "verification_limit": "Selected reporter-attributed public speech remarks, full original event footage not independently authenticated"
+    },
+    {
+      "id": "PC-094",
+      "speaker": "Prashant Bhushan",
+      "record_date": "11 October 2026",
+      "format": "Speech at APCR public conference in Kolkata",
+      "category": "Political associations",
+      "public_statement_paraphrase": "Bhushan alleged that senior institutions were compromised by the ruling party and argued that public protest over electoral changes was necessary when institutions failed to act.",
+      "assessment": "Indian Express reports remarks about state institutions and police responses during October anti-CEC demonstrations. These are Bhushan's political and constitutional allegations, not an adjudicated finding about appointments, officials' motives or election manipulation.",
+      "outstanding": "The complete event recording, particular appointment records, documented official conduct, ECI response and applicable court rulings.",
+      "evidence_status": "Attributable political allegations; underlying claims disputed or unproven",
+      "statement_source_url": "https://indianexpress.com/article/cities/kolkata/prashant-bhushan-injustice-official-accountability-cjp-protest-10916783/",
+      "context_source_url": null,
+      "language": "English (editorial paraphrase)",
+      "reviewed_at": "2026-10-15",
+      "publication_state": "published_source_limited",
+      "origin_type": "reported_public_conference_speech",
+      "full_recording_transcript_reviewed": false,
+      "timecode": null,
+      "verification_limit": "Selected reporter-attributed public speech remarks, full original event footage not independently authenticated"
     }
   ],
-  "release_note": "15 October afternoon scope expansion: added 14 eligible attributable oral propositions from Bhushan, Yadav, Dipke, Mann, Sanjeev Jha, Kejriwal, Neha Bora and Saurav Das. Written allegations and reported alleged intermediary contacts remain context only. No underlying original full-length transcripts authenticated for every item."
+  "release_note": "15 October afternoon scope expansion: added 14 eligible attributable oral propositions from Bhushan, Yadav, Dipke, Mann, Sanjeev Jha, Kejriwal, Neha Bora and Saurav Das. Written allegations and reported alleged intermediary contacts remain context only. No underlying original full-length transcripts authenticated for every item. Late pass PC-093–094: Prashant Bhushan's 11 October Kolkata APCR public conference remarks, legal-accountability advocacy and contested institutional-capture allegation."
 }
