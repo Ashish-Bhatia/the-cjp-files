@@ -38,7 +38,11 @@
     "Obtain and independently inspect the full July 24 MEA briefing and the July 26 official correction; do not translate 'no information to share' into a cleared foreign-funding audit.",
     "Obtain the October 10 Saket Court Ratna Singh order and compare procedural rejection with merits allegations; correct mistaken attribution of nine-hour detention in a Tribune paragraph by cross-checking The News Minute's expressly identified speaker.",
     "Authenticate original Bangla Sahib CCTV and record separately the DSGMC complaint, police explanation and any specific CJP participant conduct. Do not label AAP-linked persons as CJP under assumed common command.",
-    "Review the 14 October India Today debate unedited to attribute every statement to Ajay Alok, Rohit Patel, Aishi Ghosh or Rahul Singh individually, not by shared editorial summary."
+    "Review the 14 October India Today debate unedited to attribute every statement to Ajay Alok, Rohit Patel, Aishi Ghosh or Rahul Singh individually, not by shared editorial summary.",
+    "Authenticate the October 9 North Goa permit order and October 11 habeas release order, and identify the local organisation; do not infer national CJP command or a view endorsed by all protesters from one individual's placard.",
+    "Authenticate the October 12 Gandhi press conference, clarify source-based reports of attempted October 13 Congress invitation, and distinguish outreach from acceptance and operational coordination.",
+    "Obtain October 14 court affidavits by Delhi Police Commissioner and Union Home Secretary, underlying Raisina Hill mobile internet notification, and Supreme Court resolution of the alleged contempt; affidavits are assertions, not findings.",
+    "Obtain the Delhi High Court October 15 application, any interim order and next listing on the October 16 protest; a granted hearing is not a stay."
   ],
   "source_catalogue": [
     {
@@ -177,6 +181,18 @@
       "url": "https://www.indiatoday.in/india/video/priti-dr-ajay-alok-aishi-ghosh-rohit-patel-debate-protests-jantar-mantar-row-ytvd-3017464-2026-10-14",
       "date": "2026-10-14",
       "format": "Ajay Alok televised public debate; Rohit Patel named attendee",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://indianexpress.com/article/india/rahul-gandhi-delhi-protest-cec-gyanesh-kumar-resignation-pm-modi-amit-shah-10917883/",
+      "date": "2026-10-12",
+      "format": "named public press conference, Rahul Gandhi",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.siasat.com/cjp-arrest-delhi-police-cec-protests-3557644/",
+      "date": "2026-10-14",
+      "format": "reporter interactions with PTI filmed excerpts, Shinde and Hela",
       "recording_authenticated": false
     }
   ],
