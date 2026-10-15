@@ -90,3 +90,10 @@ This investigation separates six evidentiary categories: publicly expressed supp
 7. For AEI claims, dated training agreements, instructions, funding records or authenticated contacts. None has been established by source similarity.
 
 No publication of private addresses, phone numbers, unsupported donor accusations, or allegations of criminal conduct absent verified evidence.
+
+
+## 15 October late update: Yadav's separate 13 October New Yorker interview
+
+The [13 October published edited telephone Q&A](https://www.newyorker.com/news/q-and-a/is-this-the-beginning-of-the-end-of-indian-democracy) offers another attributable account distinct from the 15 October Federal interview already in E12. Yadav described joining Neha Bora and Prashant Bhushan in a 10 October march, asserted that police detained him and said unnamed students shifted one barricade. Independently verify the route, police detention record and footage before describing any individual participant's conduct, let alone CJP-authorised conduct. He also recalled his old AAP role and expulsion, and advocated connecting youth energy to mainstream political processes. These are statements and historical context, not evidence of current AAP instruction or a centrally managed multi-party organisation.
+
+Eight new spoken-proposition evaluations PC-105–112 separate his claimed cross-party participation, SIR administrative claims, estimates, serious allegations about particular communities, personal protest testimony and unpolled opinions. [See the detailed source-check extension](investigation-2026-10-15-night.md). The latest source changes no conclusion about funding or direction by AEI, AAP, Congress, the Left, Bhushan or Yadav.
