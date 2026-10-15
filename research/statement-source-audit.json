@@ -17,7 +17,7 @@
     "verification_evidence": "court orders, electoral rolls, government notifications, independent reporting and original video may assess an eligible spoken claim but cannot themselves introduce a claim card"
   },
   "source_levels": {
-    "original_unedited_transcript": "Not completed for the 92-item register",
+    "original_unedited_transcript": "Not completed for the 94-item register",
     "edited_interview": "named Q&A or edited newspaper conversation",
     "recorded_short_clip": "published media clip with publisher summary, speaker may be unidentified",
     "reported_spoken_remarks": "reporter-attributed public speech or press interaction, full audio may not be verified"
@@ -46,7 +46,8 @@
     "Authenticate Yogendra Yadav's 15 October Federal interview from full programme footage; edited print excerpts are available.",
     "Obtain full May 28 Reuters Bhushan rushes, August university talk recording, October 7 joint press-conference footage and attendee list.",
     "Authenticate timing and entire recording of Saurav Das thanking AISF/SFI at CPI headquarters, reported 1 August.",
-    "Independently verify any post-7 October formal coalition governance or party-to-CJP operational financing, without inferring from co-presence."
+    "Independently verify any post-7 October formal coalition governance or party-to-CJP operational financing, without inferring from co-presence.",
+    "Get the full unedited 11 October APCR Kolkata event recording to attribute Bhushan's exact spoken statements and context."
   ],
   "source_catalogue": [
     {
@@ -228,7 +229,13 @@
       "date": "2026-08-01",
       "format": "reported clip excerpt of CPI office speech; original date uncertain",
       "recording_authenticated": false
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/kolkata/prashant-bhushan-injustice-official-accountability-cjp-protest-10916783/",
+      "date": "2026-10-11",
+      "format": "reporter-attributed public APCR conference remarks",
+      "recording_authenticated": false
     }
   ],
-  "release_note": "15 October afternoon: 14 additional eligible public oral statements (edited interviews, reported press remarks and Reuters filmed soundbites). Specific reported earlier CPI-office speech date and unedited context outstanding."
+  "release_note": "15 October afternoon: 14 additional eligible public oral statements (edited interviews, reported press remarks and Reuters filmed soundbites). Specific reported earlier CPI-office speech date and unedited context outstanding. Late pass: two source-limited Kolkata conference public claims by Prashant Bhushan, PC-093 and PC-094; 94 total."
 }
