@@ -3221,7 +3221,8 @@
     "A denied May 24 human-chain plan is recorded as an unconfirmed event lead only.",
     "15 October follow-on audit: press statements added as repeats of already documented method #1. No new method is established merely by announcing plans, claiming funding independence or alleging misconduct. All 198 classifications and the 16 October #18 repeat forecast remain unchanged.",
     "15 October additional interview/press review documents repetitions of #1 Public Speeches (Dipke's Nagpur reporter interaction and Patel's televised panel). No new method is established by those appearances; 15 documented/16 possible/1 announced/166 not established stays unchanged.",
-    "Claims from the 24 July foreign ministry briefing and 10 October BJP conference are official/opponent speech records, not CJP-directed #1 method instances. Ratna Singh's 11 October speaking occurred at an already logged CJP press conference. Reported social-media funding claims are not a Gene Sharp action and do not establish AEI contact."
+    "Claims from the 24 July foreign ministry briefing and 10 October BJP conference are official/opponent speech records, not CJP-directed #1 method instances. Ratna Singh's 11 October speaking occurred at an already logged CJP press conference. Reported social-media funding claims are not a Gene Sharp action and do not establish AEI contact.",
+    "15 Oct midday pass: one further Oct 14 CJP public reporter interaction repeats #1. Goa affiliate report is a coverage lead, not evidence of an additional previously unseen Sharp method; no method-status or forecast change."
   ],
   "completeness_rule": "Every canonical number 1–198 appears once. 'Not established' entries have an explicit negative search result limited to the reviewed source base, not a proof of non-occurrence. Future dates excluded from observed chronology.",
   "method_events": [
@@ -3433,9 +3434,20 @@
       "actor_scope": "CJP regional coordinator, publicly identified",
       "date_precision": "day",
       "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-10-14",
+      "method": 1,
+      "name": "Public Speeches",
+      "event": "Ajinkya Shinde gives public remarks after bond and custody decision",
+      "explanation": "PTI-linked public reporter interaction is another recorded spoken protest statement by a CJP officeholder. It repeats method #1 and does not identify a new tactic or resolve competing custody accounts.",
+      "source_url": "https://www.siasat.com/cjp-arrest-delhi-police-cec-protests-3557644/",
+      "actor_scope": "CJP organisation-in-charge, publicly identified",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
     }
   ],
-  "method_event_count": 19,
+  "method_event_count": 20,
   "coverage_leads": [
     {
       "date": "2026-05-23",
@@ -3443,6 +3455,14 @@
       "description": "Reported plan for Bengaluru human-chain protest, denied permission by police. No independent confirmation that event occurred, so not classified as documented action.",
       "source_url": "https://indianexpress.com/article/cities/bangalore/cjps-human-chain-protest-denied-as-bengaluru-police-cite-traffic-concerns-10703988/",
       "status": "announced_event_unverified",
+      "not_assigned_to_method": true
+    },
+    {
+      "date": "2026-10-11",
+      "event_date": "2026-10-11",
+      "description": "Goa CJP-affiliated demonstrators reportedly gathered and seven were detained in Panaji despite permit denial. Recorded as locally allied action pending authentication of organisational relationship and exact assembly conditions. It is not grounds to mark a previously unseen method documented.",
+      "source_url": "https://www.jansatta.com/national/goa-police-denied-permission-for-cockroach-janata-party-protest-citing-support-for-umar-khalid-as-reason/4743755/",
+      "status": "affiliate_scope_unresolved",
       "not_assigned_to_method": true
     }
   ],
