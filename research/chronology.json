@@ -1,7 +1,7 @@
 {
   "release": "2026-10-15",
-  "scope": "Dated public events, attributable public statements and separately labelled contextual primary/court/media evidence to 15 October 2026; not exhaustive. Social posts can enter chronology only as contextual reported events, never as eligible spoken claim cards. Midday 15 October pass adds Goa, cross-party outreach and court filings; the press source dates sometimes postdate events.",
-  "event_count": 74,
+  "scope": "Dated public events, attributable public statements and separately labelled contextual primary/court/media evidence to 15 October 2026; not exhaustive. Social posts can enter chronology only as contextual reported events, never as eligible spoken claim cards. Midday 15 October pass adds Goa, cross-party outreach and court filings; the press source dates sometimes postdate events. Afternoon pass adds 12 dated association/mobilisation records; approximate media report dates are marked; future actions are not logged as completed.",
+  "event_count": 86,
   "events": [
     {
       "event_date": "15 May 2026",
@@ -32,6 +32,13 @@
       "url": "https://www.indiatoday.in/india/video/meet-the-man-behind-the-cockroach-janta-party-2914598-2026-05-20"
     },
     {
+      "event_date": "23 May 2026",
+      "title": "Bengaluru human-chain plan and permission refusal",
+      "assessment": "Press reporting says police refused permission for a proposed 24 May Bengaluru human chain associated with the CJP name. No independent record of a completed human chain has been located; planned action is not counted as occurrence.",
+      "source": "Indian Express / police press account",
+      "url": "https://indianexpress.com/article/cities/bangalore/cjps-human-chain-protest-denied-as-bengaluru-police-cite-traffic-concerns-10703988/"
+    },
+    {
       "event_date": "21–26 May 2026",
       "title": "Platform and website restrictions contested",
       "assessment": "Indian Express examines withheld accounts, website access restrictions and CJP’s changing public identity. Attribution and legal rationale require original orders.",
@@ -39,11 +46,11 @@
       "url": "https://indianexpress.com/article/explained/cockroach-janta-party-founder-motive-bjp-congress-details-10705858/"
     },
     {
-      "event_date": "23 May 2026",
-      "title": "Bengaluru human-chain plan and permission refusal",
-      "assessment": "Press reporting says police refused permission for a proposed 24 May Bengaluru human chain associated with the CJP name. No independent record of a completed human chain has been located; planned action is not counted as occurrence.",
-      "source": "Indian Express / police press account",
-      "url": "https://indianexpress.com/article/cities/bangalore/cjps-human-chain-protest-denied-as-bengaluru-police-cite-traffic-concerns-10703988/"
+      "event_date": "28 May 2026",
+      "title": "Bhushan publicly analyses CJP and urges careful street mobilisation",
+      "assessment": "Reuters recorded a direct interview: he attributed CJP growth to youth discontent and urged careful offline organisation. Advice is not proof of an organisational directive.",
+      "source": "Reuters recorded interview",
+      "url": "https://www.reutersconnect.com/item/indias-gen-z-cockroach-party-channels-youth-anger-but-faces-offline-hurdles/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBNDcwNjMwMDUyMDI2UlAx/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0xWQTAwNDQ3MDYzMDA1MjAyNlJQMQ"
     },
     {
       "event_date": "3 June 2026",
@@ -67,6 +74,13 @@
       "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
     },
     {
+      "event_date": "11 June 2026",
+      "title": "Dipke addresses historical AAP work in interview",
+      "assessment": "The Week Q&A records Dipke acknowledging a prior AAP role while denying current organisational ties as of June. Treat his denial as testimony, not an audited fact.",
+      "source": "The Week / interview",
+      "url": "https://www.theweek.in/magazine/theweek/current/2026/06/11/we-exist-to-create-a-political-cost-for-ignoring-younger-generation-cjp-founder-abhijeet-dipke.html"
+    },
+    {
       "event_date": "7–19 June 2026",
       "title": "Periodic sit-ins and digital campaigning",
       "assessment": "The movement shifts from online satire to repeated public organising. The available chronology is a press reconstruction, not a complete daily attendance log.",
@@ -88,18 +102,18 @@
       "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
     },
     {
-      "event_date": "22–27 June 2026",
-      "title": "Protest maintained, early attendance reported",
-      "assessment": "Coverage describes persistent but still limited physical turnout. Crowd figures are press estimates and not audited totals.",
-      "source": "Indian Express",
-      "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
-    },
-    {
       "event_date": "22 June 2026",
       "title": "Candlelight vigil photographed at Jantar Mantar",
       "assessment": "EPA/Mihir Singh image and caption independently document a CJP supporter at a candlelight memorial vigil. Classified under Sharp #24 (symbolic lights) and #34 (vigils); the separate political mourning #43 category remains interpretive.",
       "source": "EPA photo via Lusa (agency photo ID 47333784)",
       "url": "https://www.lusa.pt/foto?from=%2Fbrasil&imageid=47333784"
+    },
+    {
+      "event_date": "22–27 June 2026",
+      "title": "Protest maintained, early attendance reported",
+      "assessment": "Coverage describes persistent but still limited physical turnout. Crowd figures are press estimates and not audited totals.",
+      "source": "Indian Express",
+      "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
     },
     {
       "event_date": "28 June 2026",
@@ -116,18 +130,18 @@
       "url": "https://theprint.in/politics/cockroach-janta-party-opens-the-floor-to-all-political-parties-maintains-it-has-no-electoral-ambitions/2974019/"
     },
     {
-      "event_date": "1–17 July 2026",
-      "title": "Opposition and civil-society solidarity grows",
-      "assessment": "Public figures visit or endorse parts of the agitation; formal organisational support varies among parties.",
-      "source": "Indian Express / ThePrint",
-      "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
-    },
-    {
       "event_date": "15 July 2026",
       "title": "Congress organisational position examined",
       "assessment": "ThePrint reports Congress figures expressing solidarity while the party withheld a formal movement endorsement at that point.",
       "source": "ThePrint",
       "url": "https://theprint.in/politics/why-congress-is-wary-of-supporting-the-cockroach-janta-party/2987495/"
+    },
+    {
+      "event_date": "1–17 July 2026",
+      "title": "Opposition and civil-society solidarity grows",
+      "assessment": "Public figures visit or endorse parts of the agitation; formal organisational support varies among parties.",
+      "source": "Indian Express / ThePrint",
+      "url": "https://indianexpress.com/article/cities/delhi/the-jantar-mantar-protests-that-forced-dharmendra-pradhan-to-resign-timeline-10803208/lite/"
     },
     {
       "event_date": "18 July 2026",
@@ -165,6 +179,13 @@
       "url": "https://www.indiatoday.in/india/story/cjp-protest-abhijeet-dipke-march-to-parliament-today-will-continue-delhi-jantar-mantar-2952421-2026-07-21"
     },
     {
+      "event_date": "20 July 2026",
+      "title": "AISF student book-stall dispute at CJP protest",
+      "assessment": "PUCL Delhi's 21 July organisational statement alleges a police action against an AISF book stall at Jantar Mantar on 20 July. The independent police account and unedited footage are outstanding.",
+      "source": "PUCL Delhi / rights-group statement",
+      "url": "https://pucl.org/manage-press-stateme/pucl-delhi-condemns-assault-on-students-and-attack-on-book-stall-at-the-cockroach-janta-party-cjp-protest-site-jantar-mantar/"
+    },
+    {
       "event_date": "21 July 2026",
       "title": "CJP publicly cancels further Parliament march citing injuries",
       "assessment": "At a news conference Dipke says CJP will not repeat the Parliament march after injuries. The decision modifies his earlier expressed plan rather than terminating every future CJP protest.",
@@ -179,18 +200,25 @@
       "url": "https://indianexpress.com/article/cities/delhi/cockroach-janta-party-vijeta-dahiya-spokesperson-burger-viral-video-10796877/"
     },
     {
-      "event_date": "21–24 July 2026",
-      "title": "Government talks and shifting protest demands",
-      "assessment": "The movement presses for the education minister’s resignation, FIR relief and assistance for affected students. Reported talks do not confirm implementation.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/india/india-youth-protest-leaders-hold-talks-with-government-protests-will-continue-2026-07-24/"
-    },
-    {
       "event_date": "22 July 2026",
       "title": "Dahiya disputes removal and discusses movement links in interview",
       "assessment": "In a named interview he describes the dismissal as surprising, contests accusations about his whereabouts and says he supports the cause without remaining a formal member.",
       "source": "Indian Express / direct interview",
       "url": "https://indianexpress.com/article/india/vijeta-dahiya-interview-cjp-ouster-burger-video-abhijeet-dipke-premanand-10798804/"
+    },
+    {
+      "event_date": "22 July 2026",
+      "title": "SFI and DYFI solidarity protests in Chennai",
+      "assessment": "Published rights documentation summarises Chennai arrests of SFI and DYFI protesters supporting the CJP-linked NEET campaign. An allied solidarity protest does not imply direct CJP oversight.",
+      "source": "FORUM-ASIA / rights documentation",
+      "url": "https://asianhrds.forum-asia.org/en/library/?q=%28order%3Adesc%2Csort%3AcreationDate%2CtreatAs%3Anumber%29"
+    },
+    {
+      "event_date": "21–24 July 2026",
+      "title": "Government talks and shifting protest demands",
+      "assessment": "The movement presses for the education minister’s resignation, FIR relief and assistance for affected students. Reported talks do not confirm implementation.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/india-youth-protest-leaders-hold-talks-with-government-protests-will-continue-2026-07-24/"
     },
     {
       "event_date": "23–24 July 2026",
@@ -256,6 +284,20 @@
       "url": "https://www.aajtak.in/india/maharashtra/story/cockroach-janta-party-abhijeet-deepke-exclusive-interview-paper-leak-protest-modi-govt-neet-ntc-agkp-dskc-2612426-2026-07-31"
     },
     {
+      "event_date": "1 August 2026 (reporting date; remark earlier)",
+      "title": "Das is reported thanking AISF and SFI at CPI office",
+      "assessment": "Organiser published a short quotation attributed to CJP's Saurav Das crediting student groups for help with protest organisation. Exact date and full recording of the remarks remain unverified; the site's political conclusions are not adopted.",
+      "source": "Organiser / quotation from reported video",
+      "url": "https://organiser.org/2026/08/01/372803/bharat/cjp-spokesperson-saurav-das-exposes-spontaneous-facade-thanking-sfi-aisf-for-organising-protests/"
+    },
+    {
+      "event_date": "4 August 2026",
+      "title": "Bhushan publicly discusses CJP as a civic mobilisation",
+      "assessment": "At a Bengaluru university talk, Bhushan argued the movement had reduced fear of street protest. This is an attributed interpretation, not an independently measured impact.",
+      "source": "Indian Express / public talk",
+      "url": "https://indianexpress.com/article/cities/bangalore/prashant-bhushan-cjp-youth-right-to-protests-democracy-india-10817964/lite/"
+    },
+    {
       "event_date": "6 August 2026",
       "title": "Working committee and membership strategy announced at press conference",
       "assessment": "Dipke, Das and Ranka receive publicly reported roles. Das says the movement is recruiting online, is not currently fundraising and will not immediately register as an electoral party. Self-described financing remains unaudited.",
@@ -312,11 +354,25 @@
       "url": "https://indianexpress.com/article/india/cjp-ashutosh-ranka-indian-express-interview-october-10-jantar-mantar-protest-10909075/"
     },
     {
+      "event_date": "7 October 2026",
+      "title": "CJP, AISA, AISF, SFI and AAP student wing share public briefing",
+      "assessment": "The joint New Delhi press conference called for sustained national mobilisation against the CEC and electoral-roll changes. The Free Press Journal also identifies ASAP, AAP's student wing, as a participant.",
+      "source": "PTI/IANS / Free Press Journal press-conference report",
+      "url": "https://www.freepressjournal.in/india/cjp-student-groups-call-for-nationwide-mobilisation-ahead-of-october-10-protest-against-cec-gyanesh-kumar-video"
+    },
+    {
       "event_date": "8 October 2026",
       "title": "Bengaluru speeches clarify distinct positions",
       "assessment": "At a CJP-associated Freedom Park protest, Dhruv Rathee publicly denies regime-change intent for himself; Prakash Raj alleges election-official direction by ministers. Both statements remain separately attributed.",
       "source": "Indian Express / reported public speeches",
       "url": "https://indianexpress.com/article/cities/bangalore/dhruv-rathee-prakash-raj-cjp-protest-cec-gyanesh-kumar-sir-10912225/"
+    },
+    {
+      "event_date": "8 October 2026",
+      "title": "AAP CM Bhagwant Mann acknowledges Dipke's former party work",
+      "assessment": "At India Today's Panchayat event, Mann confirmed Dipke worked previously in AAP's social-media team and rejected the accusation of current AAP control of CJP.",
+      "source": "India Today / public event",
+      "url": "https://www.indiatoday.in/amp/india/story/cjp-cockroach-janta-party-b-team-aap-abhijeet-dipke-punjab-cm-bhagwant-mann-3012505-2026-10-08"
     },
     {
       "event_date": "9 October 2026",
@@ -340,6 +396,13 @@
       "url": "https://www.jansatta.com/national/goa-police-denied-permission-for-cockroach-janata-party-protest-citing-support-for-umar-khalid-as-reason/4743755/"
     },
     {
+      "event_date": "9 October 2026",
+      "title": "Kejriwal issues public appeal for CJP-called October 10 protest",
+      "assessment": "The Times of India attributes an appeal to Kejriwal urging participation and stating his intention to attend with his family. Intention and presence must not be conflated.",
+      "source": "Times of India / public appeal",
+      "url": "https://timesofindia.indiatimes.com/india/congress-stays-away-left-aap-to-join-cjp-stir-against-cec/articleshow/134842825.cms"
+    },
+    {
       "event_date": "10 October 2026",
       "title": "Delhi protest restrictions and detentions",
       "assessment": "Reuters reports large-scale preventive measures, transport disruption and arrests before a CJP-backed rally targeting the CEC. Police figures and protest figures differ.",
@@ -359,6 +422,20 @@
       "assessment": "A magistrate dismissed Singh's application concerning alleged restraint, citing defects in affidavit, officer identification and jurisdiction. This is not a finding that confinement did or did not happen, or that police conduct was lawful.",
       "source": "LiveLaw / Saket court reporting",
       "url": "https://www.livelaw.in/amp/top-stories/delhi-court-cjp-leader-ratna-singh-fir-against-cops-over-illegal-detention-554074"
+    },
+    {
+      "event_date": "10 October 2026",
+      "title": "Yadav, Bhushan and Neha Bora join protest march near INA Market",
+      "assessment": "Outlook's PTI-captioned photograph shows Yogendra Yadav, Prashant Bhushan, AISA leader Neha Bora and CPI(ML) leader Dipankar Bhattacharya leading a march during the CJP protest day. Co-presence is evidenced, formal coalition management is not.",
+      "source": "Outlook / PTI visual report",
+      "url": "https://www.outlookindia.com/national/cjps-jantar-mantar-20-protest-highlights"
+    },
+    {
+      "event_date": "10 October 2026",
+      "title": "Pune student activists headed to Delhi protest detained at Itarsi",
+      "assessment": "Indian Express reports members of AISF and other student campaigns were held en route; allegations about grounds and circumstances require police records and court orders.",
+      "source": "Indian Express / student detention report",
+      "url": "https://indianexpress.com/article/cities/pune/at-least-14-students-from-pune-enroute-to-delhi-for-cjp-protest-detained-at-itarsi-10914977/"
     },
     {
       "event_date": "11 October 2026",
@@ -520,6 +597,13 @@
       "assessment": "Court reportedly agrees to hear a petition seeking to prevent the announced Connaught Place action. Listing or agreeing to hear a petition does not mean a ban has been issued; preserve the 16 October gathering as future and unverified.",
       "source": "Indian Express / court listing report",
       "url": "https://indianexpress.com/article/legal-news/delhi-high-court-refuses-listing-journalists-plea-delhi-cop-acp-vivek-bhagat-sexual-assault-10922598/"
+    },
+    {
+      "event_date": "15 October 2026",
+      "title": "Yogendra Yadav openly advocates synchronisation without a central command",
+      "assessment": "Extended Federal Q&A says parallel mobilisations now need more deliberate coordination, enumerating separate parties, youth groups and unaffiliated citizens. Prospective advocacy is not evidence of previous central planning.",
+      "source": "The Federal / extended interview",
+      "url": "https://thefederal.com/category/news/rahul-gandhi-anti-sir-protests-yogendra-yadav-interview-259591"
     }
   ]
 }
