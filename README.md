@@ -4,12 +4,20 @@ Editorial investigation on GitHub Pages: https://ashish-bhatia.github.io/the-cjp
 
 ## Research release, 15 October 2026 (IST)
 
-- **94** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
-- **87** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
+- **104** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
+- **90** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
 - Association register tracks separately reported public participation, former office, prior-party affiliations, issue-focused support and allegations. **Former spokesperson Vijeta Dahiya's July 21 departure is separately documented.**
 - New interview review: September 24 election commission press conference, October 6 civil-disobedience interview, October 8 public speeches, October 12 interview reported October 13, July press conferences and early June/July Dahiya material.
 - Original recording authentication remains incomplete. Article quotes, producer summaries and edited interviews have source-level caveats. Read `research/statement-source-audit.json`.
 - Earlier 26-item manifesto/social/source-mixed collection was superseded and cannot be treated as current under the spoken-claims-only rule.
+
+## 15 October evening verification update
+
+- **104** spoken-statement reviews after PC-095–104 from the new 15 October joint CJP–AISA Press Club conference. Reporters identify Bhushan, Bora, Dipke, Sibal, Raj, SFI and AISF representatives, and one trade union speaker. Public cross-organisation mobilisation is documented; institutional control and AEI financing are not.
+- **90** chronology milestones after adding the photographed joint conference, its reported disruption and DMRC's reported sworn filings. Corrected prior wording about the Delhi High Court: it **declined to impose a restraint**, recorded police's assurance and listed **3 November**.
+- **22** Gene Sharp method occurrence entries. The latest press conference repeats #1. The full audit remains **15 documented, 16 possible, 1 announced, 166 not established** across 198 methods; the conditional **16 October #18 repeat** forecast remains open.
+- DMRC reported **4,157 of 4,157 planned train trips** on 10 October and police-directed access restrictions at **45 of 303** stations. Its affidavit must not be described as a final Supreme Court finding.
+- Read the [15 October evening field investigation](research/field-investigation-2026-10-15-evening.md). Earlier date-stamped figures below remain as a change history.
 
 ## Editorial policy
 
