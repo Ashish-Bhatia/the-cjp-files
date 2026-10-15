@@ -47,7 +47,10 @@
     "Obtain full May 28 Reuters Bhushan rushes, August university talk recording, October 7 joint press-conference footage and attendee list.",
     "Authenticate timing and entire recording of Saurav Das thanking AISF/SFI at CPI headquarters, reported 1 August.",
     "Independently verify any post-7 October formal coalition governance or party-to-CJP operational financing, without inferring from co-presence.",
-    "Get the full unedited 11 October APCR Kolkata event recording to attribute Bhushan's exact spoken statements and context."
+    "Get the full unedited 11 October APCR Kolkata event recording to attribute Bhushan's exact spoken statements and context.",
+    "Obtain and timecode complete original 15 October Press Club of India video, documenting remarks by Dipke, Bhushan, Bora, Sibal, Raj, Salauddin and SFI/AISF representatives; identify who spoke and whether an on-stage disruption is fully captured.",
+    "Acquire original DMRC affidavit with annexed station restrictions, Delhi Police instructions, train-run records and Supreme Court final disposal before treating operator submissions as judicial findings.",
+    "Retrieve signed 15 October Delhi High Court PIL order and 3 November listing; distinguish no interim restraint from positive permission for a 16 October action."
   ],
   "source_catalogue": [
     {
@@ -235,7 +238,31 @@
       "date": "2026-10-11",
       "format": "reporter-attributed public APCR conference remarks",
       "recording_authenticated": false
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/delhi/cjp-abhijeet-dipke-aisa-neha-bora-connaught-place-protest-electoral-roll-sir-gyanesh-kumar-10923289/",
+      "date": "2026-10-15",
+      "format": "joint Press Club of India public press conference; named attributed speech and photographer caption",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/india/all-for-one-man-cjps-dipke-targets-centre-for-sweeping-curbs-to-stamp-out-anti-cec-protests/articleshow/134964724.cms",
+      "date": "2026-10-15",
+      "format": "reporter-attributed statements at Press Club",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/delhi/metro-curbs-police-dmrc-supreme-court-10922183/",
+      "date": "2026-10-14",
+      "format": "reported DMRC filed affidavit; context checking rather than spoken claim",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.newindianexpress.com/india/2026/Oct/15/delhi-hc-refuses-to-restrain-cjps-protest-at-connaught-place-on-friday",
+      "date": "2026-10-15",
+      "format": "reported High Court order; contextual judicial check",
+      "recording_authenticated": false
     }
   ],
-  "release_note": "15 October afternoon: 14 additional eligible public oral statements (edited interviews, reported press remarks and Reuters filmed soundbites). Specific reported earlier CPI-office speech date and unedited context outstanding. Late pass: two source-limited Kolkata conference public claims by Prashant Bhushan, PC-093 and PC-094; 94 total."
+  "release_note": "15 October afternoon: 14 additional eligible public oral statements (edited interviews, reported press remarks and Reuters filmed soundbites). Specific reported earlier CPI-office speech date and unedited context outstanding. Late pass: two source-limited Kolkata conference public claims by Prashant Bhushan, PC-093 and PC-094; 94 total. Evening addendum adds ten reports of eligible 15 Oct spoken propositions (PC-095–104), an actual High Court order and DMRC affidavit context. Total 104."
 }
