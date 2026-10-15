@@ -1,7 +1,7 @@
 {
   "release": "2026-10-15",
-  "scope": "Dated public events, attributable public statements and separately labelled contextual primary/court/media evidence to 15 October 2026; not exhaustive. Social posts can enter chronology only as contextual reported events, never as eligible spoken claim cards. Midday 15 October pass adds Goa, cross-party outreach and court filings; the press source dates sometimes postdate events. Afternoon pass adds 12 dated association/mobilisation records; approximate media report dates are marked; future actions are not logged as completed. Evening 15 October pass resolves the High Court ruling (not merely the listing), adds DMRC sworn Metro figures and documents a second major open coalition press conference. Prospective October 16 activity remains uncompleted.",
-  "event_count": 90,
+  "scope": "Dated public events, attributable public statements and separately labelled contextual primary/court/media evidence to 15 October 2026; not exhaustive. Social posts can enter chronology only as contextual reported events, never as eligible spoken claim cards. Midday 15 October pass adds Goa, cross-party outreach and court filings; the press source dates sometimes postdate events. Afternoon pass adds 12 dated association/mobilisation records; approximate media report dates are marked; future actions are not logged as completed. Evening 15 October pass resolves the High Court ruling (not merely the listing), adds DMRC sworn Metro figures and documents a second major open coalition press conference. Prospective October 16 activity remains uncompleted. Late 15 October extension adds a published 13 October interview (speech provenance) and two 15 October institutional developments; future SSR dates are checkpoints, not completed actions.",
+  "event_count": 93,
   "events": [
     {
       "event_date": "15 May 2026",
@@ -522,6 +522,13 @@
       "url": "https://indianexpress.com/article/india/cockroach-janta-party-cjp-congress-abhijeet-dipke-rahul-gandhi-high-tea-10922245/lite/"
     },
     {
+      "event_date": "13 October 2026 (publication; interview date unspecified)",
+      "title": "Yogendra Yadav interviewed on coalition breadth, rolls and 10 October detention",
+      "assessment": "In an edited New Yorker phone Q&A, Yadav described cross-party protest participation, detailed allegations about SIR and voter exclusions, acknowledged the absence of supporting representative polling for perceived popularity losses, and gave a first-person account of the 10 October march and detention. These are attributable statements, not independently verified election demographics or proof of a command chain.",
+      "source": "The New Yorker / edited attributable interview",
+      "url": "https://www.newyorker.com/news/q-and-a/is-this-the-beginning-of-the-end-of-indian-democracy"
+    },
+    {
       "event_date": "14 October 2026",
       "title": "Five-day custody ordered",
       "assessment": "Reuters and Indian Express report a magistrate ordering custody for Ranka and Das. This is a procedural court action, not a conviction.",
@@ -632,6 +639,20 @@
       "assessment": "The Week and other coverage describes shouting and objections during the Press Club event. Who organised the disruption, and any allegation of violence, requires unedited footage and verified attribution; a disturbed briefing is not evidence of organisational control.",
       "source": "The Week / PTI-linked press conference report",
       "url": "https://www.theweek.in/news/india/2026/10/15/ahead-of-cjp-s-tiranga-march-on-friday-chaos-ensues-at-abhijeet-dipke-neha-bora-presser.html"
+    },
+    {
+      "event_date": "15 October 2026",
+      "title": "Election Commission sets further special summary roll revision timetable",
+      "assessment": "An Election Commission letter, as reported by Jansatta, provides an upcoming annual SSR schedule in 17 states and territories, including Assam where no SIR was done. Draft rolls are due 12 November, claims/objections to 11 December and final rolls 4 January 2027. These are future review dates, not completed enrolment outcomes. The announcement supplies new audit checkpoints for allegations about voter exclusion.",
+      "source": "Jansatta / report of ECI instructions, published 20:02 IST",
+      "url": "https://www.jansatta.com/national/election-commission-announces-annual-voter-list-revision-in-17-states-and-uts-draft-list-on-november-12/4747091/"
+    },
+    {
+      "event_date": "15 October 2026",
+      "title": "Union ministry disputes that affidavit apologies admit contempt",
+      "assessment": "Times of India reports the Home Ministry's explanation that official unconditional-apology language in replies to Supreme Court contempt notices was procedural, while the affidavits defended the October mobile-internet curbs as lawful and proportionate. That is the executive's position, not a Supreme Court ruling or a universally established rule for every contempt case.",
+      "source": "Times of India / reported official ministry clarification",
+      "url": "https://timesofindia.indiatimes.com/india/govt-issues-clarification-on-unconditional-apology-in-sc-over-internet-shutdown/articleshow/134967376.cms"
     }
   ]
 }
