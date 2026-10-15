@@ -4,8 +4,8 @@ Editorial investigation on GitHub Pages: https://ashish-bhatia.github.io/the-cjp
 
 ## Research release, 15 October 2026 (IST)
 
-- **92** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
-- **86** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
+- **94** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
+- **87** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
 - Association register tracks separately reported public participation, former office, prior-party affiliations, issue-focused support and allegations. **Former spokesperson Vijeta Dahiya's July 21 departure is separately documented.**
 - New interview review: September 24 election commission press conference, October 6 civil-disobedience interview, October 8 public speeches, October 12 interview reported October 13, July press conferences and early June/July Dahiya material.
 - Original recording authentication remains incomplete. Article quotes, producer summaries and edited interviews have source-level caveats. Read `research/statement-source-audit.json`.
@@ -43,9 +43,9 @@ Only public *spoken* claims enter the claim-review dataset. Other evidence, such
 - `association-investigation.html`: 12-source editorial coalition investigation, with the Yadav/Bhushan/AAP/student-group scope, filtered evidence and explicit distinctions between solidarity, joint campaigning and organisational control.
 - `research/coalition-investigation-2026-10-15.md`: supporting research memo, source chronology, evidentiary thresholds and gaps.
 - `index.html`: editorial investigation, public network/association atlas, chronology, source register and Gene Sharp comparison.
-- `myth-vs-reality.html`: 92 cases, with speaker/date/format, source, comparison and missing original evidence.
-- `research/claim-reviews.json`: 92 machine-readable speaker-attributable statement reviews.
-- `research/chronology.json`: 86 dated events and provenance.
+- `myth-vs-reality.html`: 94 cases, with speaker/date/format, source, comparison and missing original evidence.
+- `research/claim-reviews.json`: 94 machine-readable speaker-attributable statement reviews.
+- `research/chronology.json`: 87 dated events and provenance.
 - `research/investigation-update-2026-10-15-midday.md`: further dated update on alleged Congress outreach, Goa, preventive custody accounts, sworn police/home-ministry positions and 16 October hearing.
 - `research/investigation-supplement-2026-10-15.md`: new MEA briefing fact-check, individual association corrections, reported police and protest accounts, contested Gurdwara incident, court procedural findings, 11 more spoken propositions.
 - `research/statement-source-audit.json`: source and authentication tiers, research gaps.
@@ -70,3 +70,9 @@ Changes pushed to `main` trigger the existing GitHub Pages publishing workflow. 
 - The 7 October joint CJP–AISA–AISF–SFI press conference, including reported ASAP student-wing presence, is now coded as one repeat of Sharp **#1 Public Speeches**. Occurrence ledger **21**, 198-classification unchanged: 15 documented, 16 possible, 1 announced, 166 not established.
 - A new public coalition investigation examines Yogendra Yadav, Prashant Bhushan, AISA, AISF, SFI, DYFI and AAP. Past AAP connections, public calls and joint protest statements are differentiated from unverified operational direction or funding.
 - Forecast for 16 October remains the conditional repeat **#18**; no future event counted as completed.
+
+## 15 October late source-check extension
+
+- Historical context added to the coalition investigation: former AAP founders Yogendra Yadav and Prashant Bhushan were expelled on 20 April 2015, then established a separate Swaraj political platform/party in 2015–2016. Do not identify them as current AAP representatives.
+- Bhushan's **11 October 2026** public conference speech in Kolkata contributes PC-093 and PC-094. Claims about institutions and officials are attributed allegations, not court findings. Total **94** eligible spoken-statement cards and **87** dated chronology milestones.
+- The 198-method dataset remains **15 documented, 16 possible, 1 announced, 166 not established** and **21** sourced occurrence entries. October 16 conditional flag-display forecast is unchanged.
