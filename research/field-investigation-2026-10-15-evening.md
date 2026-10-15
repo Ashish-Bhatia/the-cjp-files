@@ -59,3 +59,7 @@ The existing **15 October forecast for 16 October** remains Sharp **#18, Display
 5. Independent, dated **16 October** field/press observations for the forecast scorecard. Do not retroactively treat announcements as completed protests.
 
 Editorial safeguards: public-event evidence only; no private contact information, no accusations of covert funding without primary financial evidence, no legal guilt inference from detention, no presumption that joint activity equals organisational control. Open source records may contradict or refine prior assessments; changes belong in dated GitHub history.
+
+## Cross-partisan attribution and response
+
+The 15 October public political reaction has competing interpretations. Bhushan presented a youth-led call for political change and characterised protest as a democratic right; BJP spokesperson Pradeep Bhandari publicly criticised the movement and opposition support as encouraging disorder. Both are attributed political positions, not settled findings about CJP's legality or hidden funding. Source: [Times of India, 15 October 2026](https://timesofindia.indiatimes.com/india/government-hell-bent-on-crushing-electoral-democracy-prashant-bhushan-calls-for-regime-change-amid-anti-cec-protests/articleshow/134968731.cms).
