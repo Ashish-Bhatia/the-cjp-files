@@ -1,7 +1,7 @@
 {
   "release": "2026-10-15",
   "scope": "Dated public events, attributable public statements and separately labelled contextual primary/court/media evidence to 15 October 2026; not exhaustive. Social posts can enter chronology only as contextual reported events, never as eligible spoken claim cards. Midday 15 October pass adds Goa, cross-party outreach and court filings; the press source dates sometimes postdate events. Afternoon pass adds 12 dated association/mobilisation records; approximate media report dates are marked; future actions are not logged as completed.",
-  "event_count": 86,
+  "event_count": 87,
   "events": [
     {
       "event_date": "15 May 2026",
@@ -471,6 +471,13 @@
       "assessment": "Coverage says seven demonstrators were detained at Panaji's Azad Maidan despite denial of permission; a court reportedly directed their release that night. The Goa affiliate's participants are not automatically proved to act on national CJP instructions. Obtain the order and verified organiser identity.",
       "source": "Jansatta / Goa habeas reporting",
       "url": "https://www.jansatta.com/national/goa-police-denied-permission-for-cockroach-janata-party-protest-citing-support-for-umar-khalid-as-reason/4743755/"
+    },
+    {
+      "event_date": "11 October 2026",
+      "title": "Bhushan publicly addresses October protest and legal accountability at APCR conference",
+      "assessment": "In a Kolkata public conference, Prashant Bhushan calls for accountability of officials alleged to commit abuses and accuses institutions of political capture. These are his attributed claims, not established criminal findings or proof of CJP governance. APCR conference sponsorship does not establish that APCR operated CJP.",
+      "source": "Indian Express / reported public conference speech",
+      "url": "https://indianexpress.com/article/cities/kolkata/prashant-bhushan-injustice-official-accountability-cjp-protest-10916783/"
     },
     {
       "event_date": "12 October 2026",
