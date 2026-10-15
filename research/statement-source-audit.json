@@ -17,7 +17,7 @@
     "verification_evidence": "court orders, electoral rolls, government notifications, independent reporting and original video may assess an eligible spoken claim but cannot themselves introduce a claim card"
   },
   "source_levels": {
-    "original_unedited_transcript": "not completed for the 63-item register",
+    "original_unedited_transcript": "Not completed for the 92-item register",
     "edited_interview": "named Q&A or edited newspaper conversation",
     "recorded_short_clip": "published media clip with publisher summary, speaker may be unidentified",
     "reported_spoken_remarks": "reporter-attributed public speech or press interaction, full audio may not be verified"
@@ -42,7 +42,11 @@
     "Authenticate the October 9 North Goa permit order and October 11 habeas release order, and identify the local organisation; do not infer national CJP command or a view endorsed by all protesters from one individual's placard.",
     "Authenticate the October 12 Gandhi press conference, clarify source-based reports of attempted October 13 Congress invitation, and distinguish outreach from acceptance and operational coordination.",
     "Obtain October 14 court affidavits by Delhi Police Commissioner and Union Home Secretary, underlying Raisina Hill mobile internet notification, and Supreme Court resolution of the alleged contempt; affidavits are assertions, not findings.",
-    "Obtain the Delhi High Court October 15 application, any interim order and next listing on the October 16 protest; a granted hearing is not a stay."
+    "Obtain the Delhi High Court October 15 application, any interim order and next listing on the October 16 protest; a granted hearing is not a stay.",
+    "Authenticate Yogendra Yadav's 15 October Federal interview from full programme footage; edited print excerpts are available.",
+    "Obtain full May 28 Reuters Bhushan rushes, August university talk recording, October 7 joint press-conference footage and attendee list.",
+    "Authenticate timing and entire recording of Saurav Das thanking AISF/SFI at CPI headquarters, reported 1 August.",
+    "Independently verify any post-7 October formal coalition governance or party-to-CJP operational financing, without inferring from co-presence."
   ],
   "source_catalogue": [
     {
@@ -194,7 +198,37 @@
       "date": "2026-10-14",
       "format": "reporter interactions with PTI filmed excerpts, Shinde and Hela",
       "recording_authenticated": false
+    },
+    {
+      "url": "https://thefederal.com/category/news/rahul-gandhi-anti-sir-protests-yogendra-yadav-interview-259591",
+      "date": "2026-10-15",
+      "format": "edited published interview",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.reutersconnect.com/item/indias-gen-z-cockroach-party-channels-youth-anger-but-faces-offline-hurdles/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBNDcwNjMwMDUyMDI2UlAx/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX0xWQTAwNDQ3MDYzMDA1MjAyNlJQMQ",
+      "date": "2026-05-28",
+      "format": "Reuters filmed soundbites and transcript",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.freepressjournal.in/india/cjp-student-groups-call-for-nationwide-mobilisation-ahead-of-october-10-protest-against-cec-gyanesh-kumar-video",
+      "date": "2026-10-07",
+      "format": "joint press conference / agency video snippets",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.indiatoday.in/amp/india/story/cjp-cockroach-janta-party-b-team-aap-abhijeet-dipke-punjab-cm-bhagwant-mann-3012505-2026-10-08",
+      "date": "2026-10-08",
+      "format": "reported public event speech",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://organiser.org/2026/08/01/372803/bharat/cjp-spokesperson-saurav-das-exposes-spontaneous-facade-thanking-sfi-aisf-for-organising-protests/",
+      "date": "2026-08-01",
+      "format": "reported clip excerpt of CPI office speech; original date uncertain",
+      "recording_authenticated": false
     }
   ],
-  "release_note": "15 October supplemental round: 11 statement reviews added, 10 contextual chronology events; 8 origin-source records added, media-source original raw recordings mostly unauthenticated. Written X allegations remain context only."
+  "release_note": "15 October afternoon: 14 additional eligible public oral statements (edited interviews, reported press remarks and Reuters filmed soundbites). Specific reported earlier CPI-office speech date and unedited context outstanding."
 }
