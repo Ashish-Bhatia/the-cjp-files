@@ -3,7 +3,7 @@
   "claim_scope": "Only publicly attributable speeches, press conferences, press interactions/bytes, public interview appearances and Q&A interviews. Other material may test assertions but is not a source of new claims.",
   "original_media_limitation": "No full unedited recording has been compared with a complete timestamped transcript for every card. Published edited Q&A, media quotes of spoken remarks and published press conference summaries are marked accordingly. Attribution does not authenticate allegations.",
   "removed_from_prior_release": "Earlier 26-item register included website manifesto assertions, online counters, social-media-only claims, generic media narratives and editor-derived propositions. Those are removed from this public-claim review under the new source restriction.",
-  "count": 123,
+  "count": 125,
   "claims": [
     {
       "id": "PC-001",
@@ -2464,7 +2464,47 @@
       "outstanding": "Dated notice and outreach records, independent participant sampling, police permissions and organisational response.",
       "statement_source_url": "https://www.jansatta.com/rajya/mumbai-police-permission-less-than-50-people-gathered-cjp-city-coordinator-also-absent/4748525/",
       "context_source_url": null
+    },
+    {
+      "id": "PC-124",
+      "speaker": "Salman Rushdie",
+      "category": "Organisation & alliances",
+      "record_date": "15 October 2026 (New York local date; reported 16 October)",
+      "format": "Public spoken remarks at Asian American Writers' Workshop fundraising dinner",
+      "origin_type": "reported_public_speech",
+      "public_statement_paraphrase": "Rushdie praised the Indian youth protesters and offered symbolic public support to the CJP cause at a New York literary fundraising event.",
+      "evidence_status": "Reported public solidarity; no CJP foreign financing shown",
+      "assessment": "News outlets attribute public remarks to Rushdie via journalist Amitava Kumar's on-site account. The fundraising event was for the Asian American Writers' Workshop, not documented as a CJP fundraiser. Praise is not evidence of remittances, AEI sponsorship or operational instruction.",
+      "outstanding": "Unedited dinner remarks, original fundraiser beneficiary documents and any directly relevant publicly available CJP funding disclosures.",
+      "statement_source_url": "https://www.moneycontrol.com/news/india/salman-rushdie-hails-cjp-protesters-mira-nair-calls-herself-cockroach-mom-14053847.html",
+      "reviewed_at": "2026-10-17",
+      "publication_state": "published_source_limited",
+      "full_recording_transcript_reviewed": false,
+      "timecode": null,
+      "language": "English (publisher-attributed paraphrase)",
+      "verification_limit": "On-site participant account relayed in news reporting; raw complete event recording not independently authenticated",
+      "context_source_url": null
+    },
+    {
+      "id": "PC-125",
+      "speaker": "Mira Nair",
+      "category": "Organisation & alliances",
+      "record_date": "15 October 2026 (New York local date; reported 16 October)",
+      "format": "Reported public remarks at Asian American Writers' Workshop fundraising dinner",
+      "origin_type": "reported_public_speech",
+      "public_statement_paraphrase": "Nair expressed pride in young Indian demonstrators defending democracy and publicly associated herself with the protesters in symbolic language.",
+      "evidence_status": "Reported artistic solidarity; no formal role or funding evidenced",
+      "assessment": "The on-site account describes personal public endorsement, not a CJP office, finance arrangement or transfer. Her public political opinion and the dinner's literary fundraising purpose must not be conflated with sponsorship of CJP.",
+      "outstanding": "Full original event recording and programme, beneficiary financial records if voluntarily public, any explicit formal CJP association records.",
+      "statement_source_url": "https://www.moneycontrol.com/news/india/salman-rushdie-hails-cjp-protesters-mira-nair-calls-herself-cockroach-mom-14053847.html",
+      "reviewed_at": "2026-10-17",
+      "publication_state": "published_source_limited",
+      "full_recording_transcript_reviewed": false,
+      "timecode": null,
+      "language": "English (publisher-attributed paraphrase)",
+      "verification_limit": "On-site participant account relayed in news reporting; raw complete event recording not independently authenticated",
+      "context_source_url": null
     }
   ],
-  "release_note": "17 October early-morning source-check: PC-113–123 are 11 additional eligible spoken propositions, including the 15 October Bora press-conference comparison reported on 16 October; 16 October Rajnath Singh press remarks, Pawan Khera on-camera media comments and named attendees interviewed at the Delhi and Mumbai rallies. Standalone CJP social posts and a police notice were not introduced as spoken claim cards. Total 123; full raw recordings outstanding."
+  "release_note": "17 October early-morning source-check: PC-113–123 are 11 additional eligible spoken propositions, including the 15 October Bora press-conference comparison reported on 16 October; 16 October Rajnath Singh press remarks, Pawan Khera on-camera media comments and named attendees interviewed at the Delhi and Mumbai rallies. Standalone CJP social posts and a police notice were not introduced as spoken claim cards. Total 123; full raw recordings outstanding. Two more previously unreviewed attributable public statements (PC-124–125) by Salman Rushdie and Mira Nair from a 15 Oct New York literary fundraising dinner, reported 16 Oct. The dinner's named beneficiary is Asian American Writers' Workshop, not established to be CJP; do not infer financial support."
 }
