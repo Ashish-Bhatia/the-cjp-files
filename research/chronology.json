@@ -1,7 +1,7 @@
 {
   "release": "2026-10-17",
-  "scope": "Dated public events, attributable public statements and separately labelled contextual primary/court/media evidence to 15 October 2026; not exhaustive. Social posts can enter chronology only as contextual reported events, never as eligible spoken claim cards. Midday 15 October pass adds Goa, cross-party outreach and court filings; the press source dates sometimes postdate events. Afternoon pass adds 12 dated association/mobilisation records; approximate media report dates are marked; future actions are not logged as completed. Evening 15 October pass resolves the High Court ruling (not merely the listing), adds DMRC sworn Metro figures and documents a second major open coalition press conference. Prospective October 16 activity remains uncompleted. Late 15 October extension adds a published 13 October interview (speech provenance) and two 15 October institutional developments; future SSR dates are checkpoints, not completed actions. 17 October early evidence pass appends 12 dated 16–17 October observations: separate central Delhi actors, preventive detentions, demonstrated flag displays, Mumbai low-turnout contrast and overnight custody sourcing. Source report times and event times are distinguished; unresolved custodial status not imputed.",
-  "event_count": 105,
+  "scope": "Dated public events, attributable public statements and separately labelled contextual primary/court/media evidence to 15 October 2026; not exhaustive. Social posts can enter chronology only as contextual reported events, never as eligible spoken claim cards. Midday 15 October pass adds Goa, cross-party outreach and court filings; the press source dates sometimes postdate events. Afternoon pass adds 12 dated association/mobilisation records; approximate media report dates are marked; future actions are not logged as completed. Evening 15 October pass resolves the High Court ruling (not merely the listing), adds DMRC sworn Metro figures and documents a second major open coalition press conference. Prospective October 16 activity remains uncompleted. Late 15 October extension adds a published 13 October interview (speech provenance) and two 15 October institutional developments; future SSR dates are checkpoints, not completed actions. 17 October early evidence pass appends 12 dated 16–17 October observations: separate central Delhi actors, preventive detentions, demonstrated flag displays, Mumbai low-turnout contrast and overnight custody sourcing. Source report times and event times are distinguished; unresolved custodial status not imputed. Added separate 15 October New York public endorsement, reported 16 October, identifying third-party literary fundraiser as distinct from CJP financing.",
+  "event_count": 106,
   "events": [
     {
       "event_date": "15 May 2026",
@@ -653,6 +653,13 @@
       "assessment": "Times of India reports the Home Ministry's explanation that official unconditional-apology language in replies to Supreme Court contempt notices was procedural, while the affidavits defended the October mobile-internet curbs as lawful and proportionate. That is the executive's position, not a Supreme Court ruling or a universally established rule for every contempt case.",
       "source": "Times of India / reported official ministry clarification",
       "url": "https://timesofindia.indiatimes.com/india/govt-issues-clarification-on-unconditional-apology-in-sc-over-internet-shutdown/articleshow/134967376.cms"
+    },
+    {
+      "event_date": "15 October 2026 (New York local date; reported 16 October)",
+      "title": "Rushdie and Nair express solidarity at New York literary fundraiser",
+      "assessment": "Writer Salman Rushdie and filmmaker Mira Nair expressed public sympathy for India's young protesters at a New York dinner raising funds for the Asian American Writers' Workshop. Public overseas endorsement establishes neither a payment to CJP nor any instruction by AEI or other foreign organisation. Original full recording/beneficiary records have not been verified.",
+      "source": "Moneycontrol / on-site Amitava Kumar account reported",
+      "url": "https://www.moneycontrol.com/news/india/salman-rushdie-hails-cjp-protesters-mira-nair-calls-herself-cockroach-mom-14053847.html"
     },
     {
       "event_date": "16 October 2026",
