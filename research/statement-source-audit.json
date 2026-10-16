@@ -1,5 +1,5 @@
 {
-  "release": "2026-10-15",
+  "release": "2026-10-17",
   "rules": {
     "allowed_origins": [
       "speech",
@@ -17,7 +17,7 @@
     "verification_evidence": "court orders, electoral rolls, government notifications, independent reporting and original video may assess an eligible spoken claim but cannot themselves introduce a claim card"
   },
   "source_levels": {
-    "original_unedited_transcript": "Not completed for all 112 published spoken-statement assessments; latest PC-105–112 originate with an edited publisher Q&A.",
+    "original_unedited_transcript": "Not authenticated for every one of 125 reviewed speaker-attributed public statements. The latest 13 eligible statements are attributed to reported speeches, recorded briefings or in-person field interviews.",
     "edited_interview": "named Q&A or edited newspaper conversation",
     "recorded_short_clip": "published media clip with publisher summary, speaker may be unidentified",
     "reported_spoken_remarks": "reporter-attributed public speech or press interaction, full audio may not be verified"
@@ -52,7 +52,13 @@
     "Acquire original DMRC affidavit with annexed station restrictions, Delhi Police instructions, train-run records and Supreme Court final disposal before treating operator submissions as judicial findings.",
     "Retrieve signed 15 October Delhi High Court PIL order and 3 November listing; distinguish no interim restraint from positive permission for a 16 October action.",
     "Obtain full unedited 13 October published New Yorker Yogendra Yadav interview recording and underlying election-roll numbers, opinion polling and police/eyewitness evidence for October 10 route/barricade account.",
-    "Obtain the ECI 15 October 2026 signed SSR circular and compare its Form 7 procedures to prior public guidance; independently track 12 Nov draft, 11 Dec objection deadline and 4 Jan final rolls."
+    "Obtain the ECI 15 October 2026 signed SSR circular and compare its Form 7 procedures to prior public guidance; independently track 12 Nov draft, 11 Dec objection deadline and 4 Jan final rolls.",
+    "Obtain unedited 15 October Neha Bora Press Club speech and correct/complete Bangladesh comparison; distinguish political comparison from an actual endorsement of violence.",
+    "Reconcile Reuters ~500 with early Indian Express ~1000 and later ~2000 near Connaught Place by time, location, photographer and counting method. Do not publish one count as verified.",
+    "Retrieve all 16–17 October Dipke/Bora custody registers, legal grounds, transfers, counsel/medical access, release orders, signed Section 163 BNSS and NDMC orders, and the Supreme Court's operative hearing note.",
+    "Authenticate New York Asian American Writers' Workshop dinner beneficiary, full Rushdie/Nair remarks and avoid conflating literary event fundraising with any alleged CJP remittance.",
+    "Investigate Mumbai local CJP permit, whether official appeals were circulated, named coordinator role and organiser response. Keep this evidence of one city separate from national leadership claims.",
+    "Investigate the non-CJP-organised SFI and AAP 16 October marches as separate entities and score potential new public gatherings 17–19 October only after independent observation."
   ],
   "source_catalogue": [
     {
@@ -282,7 +288,67 @@
       "date": "2026-10-15",
       "format": "reported Union government clarification of court affidavit, context rather than claim origination",
       "recording_authenticated": false
+    },
+    {
+      "url": "https://indianexpress.com/article/india/prashant-bhushan-regime-change-remark-bjp-reaction-10924785/",
+      "date": "2026-10-16",
+      "format": "reported quote of Neha Bora's 15 October Press Club public remarks; raw full speech not authenticated",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.jansatta.com/national/some-people-inspired-by-events-in-bangladesh-seek-a-change-in-power-rajnath-singh-attack-on-cjp-india-bloc/4747576/",
+      "date": "2026-10-16",
+      "format": "Rajnath Singh public Lucknow press conference, Hindi reporter excerpts",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.jansatta.com/national/why-rajnath-singh-became-jagga-jasoos-asks-pawan-khera-says-will-change-regime-change-through-elections/4747922/",
+      "date": "2026-10-16",
+      "format": "Pawan Khera ANI filmed public media interaction, Hindi excerpts",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/delhi/cjp-tiranga-march-connaught-place-palika-bazaar-protesters-gyanesh-kumar-manipur-10924699/",
+      "date": "2026-10-16",
+      "format": "Indian Express reporter-led field interviews with participants, original unedited rushes unavailable",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.jansatta.com/rajya/mumbai-police-permission-less-than-50-people-gathered-cjp-city-coordinator-also-absent/4748525/",
+      "date": "2026-10-16",
+      "format": "Mumbai on-site reporter interviews, source language Hindi paraphrased, unedited audio missing",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.moneycontrol.com/news/india/salman-rushdie-hails-cjp-protesters-mira-nair-calls-herself-cockroach-mom-14053847.html",
+      "date": "2026-10-16",
+      "format": "on-site reported original public spoken remarks at third-party literary fundraiser, complete recording unavailable",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/delhi/delhi-police-notice-cjp-abhijeet-dipke-lehra-do-tiranga-connaught-place-march-10924493/",
+      "date": "2026-10-16",
+      "format": "reported Delhi Police official notice, context-only, not oral claim origin",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://indianexpress.com/article/cities/delhi/cjp-abhijeet-dipke-neha-bora-detained-connaught-place-protest-delhi-police-10924983/",
+      "date": "2026-10-16",
+      "format": "reported actual protest/detentions, context, not itself speech claim origin",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.reuters.com/world/india/security-stepped-up-indias-capital-cockroach-movement-rally-2026-10-16/",
+      "date": "2026-10-16",
+      "format": "independent reporter crowd estimate approximately 500, contextual, distinct time/location scope",
+      "recording_authenticated": false
+    },
+    {
+      "url": "https://www.livemint.com/news/india/tiranga-march-in-delhi-cjp-chief-abhijeet-dipke-s-whereabouts-unknown-neha-bora-located-at-rk-puram-police-station-11792183587644.html",
+      "date": "2026-10-17",
+      "format": "overnight organisational custody allegations and reported station location, contextual but not spoken claim origin",
+      "recording_authenticated": false
     }
   ],
-  "release_note": "15 October afternoon: 14 additional eligible public oral statements (edited interviews, reported press remarks and Reuters filmed soundbites). Specific reported earlier CPI-office speech date and unedited context outstanding. Late pass: two source-limited Kolkata conference public claims by Prashant Bhushan, PC-093 and PC-094; 94 total. Evening addendum adds ten reports of eligible 15 Oct spoken propositions (PC-095–104), an actual High Court order and DMRC affidavit context. Total 104. Late 15 October: 8 additional Yadav edited-interview propositions PC-105–112, bringing this claim register to 112. Added ECI 15 October SSR report and Union ministry clarification as context only."
+  "release_note": "15 October afternoon: 14 additional eligible public oral statements (edited interviews, reported press remarks and Reuters filmed soundbites). Specific reported earlier CPI-office speech date and unedited context outstanding. Late pass: two source-limited Kolkata conference public claims by Prashant Bhushan, PC-093 and PC-094; 94 total. Evening addendum adds ten reports of eligible 15 Oct spoken propositions (PC-095–104), an actual High Court order and DMRC affidavit context. Total 104. Late 15 October: 8 additional Yadav edited-interview propositions PC-105–112, bringing this claim register to 112. Added ECI 15 October SSR report and Union ministry clarification as context only. 17 October early: thirteen more eligible spoken statements PC-113–125, including a prior 15 October press-conference comparison, 16 October public opponent/government statements, Delhi and Mumbai street interviews, and 15 October New York literary fundraiser solidarity. Total 125. Police notices, social-media-only allegations and organisation custody posts remain context. Sharp #18 was independently observed on 16 October; prediction scored and future forecast moves to conditional #47."
 }
