@@ -4,12 +4,22 @@ Editorial investigation on GitHub Pages: https://ashish-bhatia.github.io/the-cjp
 
 ## Research release, 15 October 2026 (IST)
 
-- **112** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
-- **93** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
+- **125** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
+- **106** source-linked timeline milestones. Selected coverage; this is not an exhaustive event history.
 - Association register tracks separately reported public participation, former office, prior-party affiliations, issue-focused support and allegations. **Former spokesperson Vijeta Dahiya's July 21 departure is separately documented.**
 - New interview review: September 24 election commission press conference, October 6 civil-disobedience interview, October 8 public speeches, October 12 interview reported October 13, July press conferences and early June/July Dahiya material.
 - Original recording authentication remains incomplete. Article quotes, producer summaries and edited interviews have source-level caveats. Read `research/statement-source-audit.json`.
 - Earlier 26-item manifesto/social/source-mixed collection was superseded and cannot be treated as current under the spoken-claims-only rule.
+
+## 17 October 2026, 04:45 IST: Confirmed prediction and renewed research
+
+- The **15 October forecast for method #18 (flag display)** was **confirmed by 16 October on-site photographs and reporting** at Connaught Place. Central Park was sealed; this does not prove the originally planned route took place or any AEI influence.
+- Research now has **125** eligible, source-limited public spoken-statement reviews, **106** source-linked chronology milestones, **198** fully catalogued Sharp methods (**15 documented, 16 possible, 1 announced, 166 not established**) and **28 dated method occurrence entries**.
+- The October 16 event is divided into distinct CJP-led Delhi flag assembly, SFI allied flash march, AAP party march and Mumbai permitted low-turnout gathering. Counts conflict among Reuters (~500 in parts of Delhi), early Indian Express (~1,000) and late Express (~2,000); **no reconciled unique attendance count** exists.
+- New public oral claims include Rajnath Singh's 16 October press accusations, Pawan Khera's electoral regime-change explanation, a contextual 15 October Bora comparison, named Delhi/Mumbai eyewitness interviews, and Rushdie/Mira Nair's publicly reported New York solidarity at an **Asian American Writers' Workshop fundraiser**. Overseas endorsement alone is not foreign CJP financing or AEI instruction.
+- As of the **02:42 IST** 17 October Mint report, AISA said Bora was located at RK Puram, while CJP reported Dipke's exact custody location and counsel access unresolved. This is a time-bounded organisational account, not a definitive release/legal-status finding.
+- **Next hypothesis issued 17 October:** a low-confidence possible **repeat #47 (assemblies of protest or support)** during 17–19 October; no next meeting is logged as scheduled. Alternative #1, new public speeches. No reliable previously unseen method prediction.
+- [Full 17 October investigation](research/investigation-2026-10-17.md) documents the chronology, method scorecard, political responses, legal qualifications and missing original evidence.
 
 ## 15 October, 20:48 IST source-check extension
 
@@ -67,6 +77,7 @@ Only public *spoken* claims enter the claim-review dataset. Other evidence, such
 - `research/investigation-supplement-2026-10-15.md`: new MEA briefing fact-check, individual association corrections, reported police and protest accounts, contested Gurdwara incident, court procedural findings, 11 more spoken propositions.
 - `research/statement-source-audit.json`: source and authentication tiers, research gaps.
 - `research/investigation-2026-10-15-night.md`: the 20:48 IST extension, Yadav interview, ECI timetable, legal caveats and prospective method forecast.
+- `research/investigation-2026-10-17.md`: 16 October outcome audit, #18 prediction score, detention/legal chronology, overseas solidarity separation and conditional #47 forecast.
 - `research/coverage-and-corrections.md`: scope, gaps and legal caution.
 
 ## Deployment
