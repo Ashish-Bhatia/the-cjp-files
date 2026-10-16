@@ -1,7 +1,7 @@
 {
-  "release": "2026-10-15",
-  "scope": "Dated public events, attributable public statements and separately labelled contextual primary/court/media evidence to 15 October 2026; not exhaustive. Social posts can enter chronology only as contextual reported events, never as eligible spoken claim cards. Midday 15 October pass adds Goa, cross-party outreach and court filings; the press source dates sometimes postdate events. Afternoon pass adds 12 dated association/mobilisation records; approximate media report dates are marked; future actions are not logged as completed. Evening 15 October pass resolves the High Court ruling (not merely the listing), adds DMRC sworn Metro figures and documents a second major open coalition press conference. Prospective October 16 activity remains uncompleted. Late 15 October extension adds a published 13 October interview (speech provenance) and two 15 October institutional developments; future SSR dates are checkpoints, not completed actions.",
-  "event_count": 93,
+  "release": "2026-10-17",
+  "scope": "Dated public events, attributable public statements and separately labelled contextual primary/court/media evidence to 15 October 2026; not exhaustive. Social posts can enter chronology only as contextual reported events, never as eligible spoken claim cards. Midday 15 October pass adds Goa, cross-party outreach and court filings; the press source dates sometimes postdate events. Afternoon pass adds 12 dated association/mobilisation records; approximate media report dates are marked; future actions are not logged as completed. Evening 15 October pass resolves the High Court ruling (not merely the listing), adds DMRC sworn Metro figures and documents a second major open coalition press conference. Prospective October 16 activity remains uncompleted. Late 15 October extension adds a published 13 October interview (speech provenance) and two 15 October institutional developments; future SSR dates are checkpoints, not completed actions. 17 October early evidence pass appends 12 dated 16–17 October observations: separate central Delhi actors, preventive detentions, demonstrated flag displays, Mumbai low-turnout contrast and overnight custody sourcing. Source report times and event times are distinguished; unresolved custodial status not imputed.",
+  "event_count": 105,
   "events": [
     {
       "event_date": "15 May 2026",
@@ -653,6 +653,90 @@
       "assessment": "Times of India reports the Home Ministry's explanation that official unconditional-apology language in replies to Supreme Court contempt notices was procedural, while the affidavits defended the October mobile-internet curbs as lawful and proportionate. That is the executive's position, not a Supreme Court ruling or a universally established rule for every contempt case.",
       "source": "Times of India / reported official ministry clarification",
       "url": "https://timesofindia.indiatimes.com/india/govt-issues-clarification-on-unconditional-apology-in-sc-over-internet-shutdown/articleshow/134967376.cms"
+    },
+    {
+      "event_date": "16 October 2026",
+      "title": "Rajnath Singh alleges opposition-instigated disorder at Lucknow press conference",
+      "assessment": "Defence Minister Rajnath Singh criticised Congress and allies, claimed some activists drew from Bangladesh and accused opponents of political destabilisation. These are attributable allegations, not findings of AEI direction, foreign financing or a unified CJP command.",
+      "source": "Jansatta / identifiable public press conference",
+      "url": "https://www.jansatta.com/national/some-people-inspired-by-events-in-bangladesh-seek-a-change-in-power-rajnath-singh-attack-on-cjp-india-bloc/4747576/"
+    },
+    {
+      "event_date": "16 October 2026",
+      "title": "Supreme Court declines urgent hearing over Central Park closure",
+      "assessment": "The Supreme Court declined urgent intervention against NDMC closing Connaught Place Central Park for 16–17 October. No final judgment on legality of detention, assembly restrictions, or CJP protest conduct follows from procedural refusal.",
+      "source": "Indian Express / Supreme Court proceeding reported",
+      "url": "https://indianexpress.com/article/legal-news/supreme-court-ndmc-central-park-closure-cjp-protest-cockroach-janta-party-abhijeet-dipke-10924091/"
+    },
+    {
+      "event_date": "16 October 2026",
+      "title": "Pawan Khera defends opposition's democratic regime-change objective in recorded media comments",
+      "assessment": "ANI video, reported by Jansatta, records Congress spokesperson Pawan Khera's position that an opposition party seeks political change through elections. Counterposition to Rajnath Singh's allegation; neither statement establishes CJP party membership or common central management.",
+      "source": "Jansatta / ANI on-camera media interaction",
+      "url": "https://www.jansatta.com/national/why-rajnath-singh-became-jagga-jasoos-asks-pawan-khera-says-will-change-regime-change-through-elections/4747922/"
+    },
+    {
+      "event_date": "16 October 2026",
+      "title": "Delhi Police serves Dipke notice against planned 17:00 Central Park protest",
+      "assessment": "Police served written prohibitory-order and permit notice at Dipke's temporary residence, citing Section 163 BNSS, crowd density, traders and access concerns. Live filmed conversation records Dipke disputing the premise that tricolour display is unlawful. Separate notice/legal restrictions from claims that the national flag itself was banned.",
+      "source": "Indian Express / reported police notice and observed livestream",
+      "url": "https://indianexpress.com/article/cities/delhi/delhi-police-notice-cjp-abhijeet-dipke-lehra-do-tiranga-connaught-place-march-10924493/"
+    },
+    {
+      "event_date": "16 October 2026, approximately 16:50 IST",
+      "title": "Delhi Police preventively detains CJP founder before Connaught Place march",
+      "assessment": "Dipke was photographed and reported being detained after leaving his Karol Bagh lodging to join the planned event. This prevents his personal participation at the planned site, not proof that the entire proposed mobilisation never occurred. Bail/custody basis and any judicial order remain subject to verification.",
+      "source": "Indian Express / on-location photo and reporter account",
+      "url": "https://indianexpress.com/article/cities/delhi/abhijeet-dipke-detained-delhi-cops-removing-cjp-protesters-connaught-place-10924641/"
+    },
+    {
+      "event_date": "16 October 2026",
+      "title": "AISA president Neha Bora separately detained while heading to march",
+      "assessment": "Reports place Bora's detention at Mandi House, distinct from Dipke's detention. AISA later raised custody and counsel-access concerns. Her group affiliation and independent detention must be retained separately from CJP central operations.",
+      "source": "Indian Express / reported police and AISA accounts",
+      "url": "https://indianexpress.com/article/cities/delhi/cjp-abhijeet-dipke-neha-bora-detained-connaught-place-protest-delhi-police-10924983/"
+    },
+    {
+      "event_date": "16 October 2026, approximately 17:00–19:00 IST",
+      "title": "Connaught Place participants visibly gather with tricolours despite Central Park closure",
+      "assessment": "Indian Express eyewitness reporting photographs flag-carriers at Palika Bazaar and near the sealed Central Park. Early reporter estimate approximately 1,000, later report approximately 2,000; neither represents an audited count. Confirms the 15 October Sharp #18 conditional-repeat prediction. Demonstrated street gathering differs from opening the banned park or completing original programme.",
+      "source": "Indian Express / two independent on-location reports and photographs",
+      "url": "https://indianexpress.com/article/cities/delhi/cjp-tiranga-march-connaught-place-palika-bazaar-protesters-gyanesh-kumar-manipur-10924699/"
+    },
+    {
+      "event_date": "16 October 2026, evening",
+      "title": "SFI and allied Left organisations hold separate flash march with John Brittas",
+      "assessment": "Indian Express reports SFI and other Left student groups called a Firozeshah Road protest, with CPI(M) MP John Brittas joining a march toward Connaught Place. This is separately organised allied activity, not automatically a CJP-directed operation.",
+      "source": "Indian Express / observed allied flash action",
+      "url": "https://indianexpress.com/article/cities/delhi/cjp-abhijeet-dipke-neha-bora-detained-connaught-place-protest-delhi-police-10924983/"
+    },
+    {
+      "event_date": "16 October 2026",
+      "title": "AAP holds distinct Tiranga march near central Delhi party offices",
+      "assessment": "The New Indian Express/PTI reports AAP activists separately held a national-flag march by its central Delhi headquarters and near Rashtrapati Bhavan. Public political solidarity is established; financial, command or formal organisational integration with CJP is not.",
+      "source": "New Indian Express / PTI regional report",
+      "url": "https://www.newindianexpress.com/india/2026/Oct/16/detentions-flash-protests-and-tricolours-mark-delhis-lehra-do-tiranga-march"
+    },
+    {
+      "event_date": "16 October 2026, 10:00–17:00 IST",
+      "title": "Mumbai Azad Maidan permitted CJP-linked gathering draws fewer than 50",
+      "assessment": "Jansatta's on-site account describes a police-permitted Mumbai rally with under 50 participants, attendance of AISF supporters and others, visible absence of local prominent CJP organisers and criticism of inadequate advance communication. This counterexample prevents extrapolating Delhi's attendance to uniform national turnout.",
+      "source": "Jansatta / on-location reporting and interviewed participants",
+      "url": "https://www.jansatta.com/rajya/mumbai-police-permission-less-than-50-people-gathered-cjp-city-coordinator-also-absent/4748525/"
+    },
+    {
+      "event_date": "16 October 2026, evening",
+      "title": "Police disperse Connaught Place assembly, detain more than 100 participants",
+      "assessment": "Indian Express reports more than 100 detainees and dispersal by around 19:00; another Delhi Police-linked account reports roughly 150. Do not equate detention with charges or conviction; quote each estimate with publisher/date. Claims of violence, illegal apprehension and force must be assessed against case-specific footage and records.",
+      "source": "Indian Express / late evening police and reporter accounts",
+      "url": "https://indianexpress.com/article/cities/delhi/cjp-abhijeet-dipke-neha-bora-detained-connaught-place-protest-delhi-police-10924983/"
+    },
+    {
+      "event_date": "17 October 2026, 02:42 IST (report published)",
+      "title": "Custody access unresolved overnight: AISA traces Bora, CJP seeks Dipke's location",
+      "assessment": "Mint's early-morning report says AISA traced Bora to RK Puram police station, while CJP reported lacking verified information about Dipke and complained of obstacles to legal contact. Conditions of custody, transfer history and eventual release were not independently established at publication; do not label individuals disappeared or released as fact.",
+      "source": "Mint / 17 October early-morning source-attributed custody reports",
+      "url": "https://www.livemint.com/news/india/tiranga-march-in-delhi-cjp-chief-abhijeet-dipke-s-whereabouts-unknown-neha-bora-located-at-rk-puram-police-station-11792183587644.html"
     }
   ]
 }
