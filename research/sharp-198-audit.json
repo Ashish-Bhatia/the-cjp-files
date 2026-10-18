@@ -1,9 +1,9 @@
 {
-  "publication_date": "2026-10-17",
+  "publication_date": "2026-10-18",
   "time_zone": "Asia/Kolkata",
   "taxonomy_source": "https://www.aeinstein.org/198-methods-of-nonviolent-action",
   "taxonomy_note": "Names and numbering follow the AEI's publicly published list of Gene Sharp's 198 methods. Category headings condensed; no assertion of CJP receiving direction or training.",
-  "scope": "Movement-linked and separately tagged allied publicly reported action from 16 May through 16 October 2026, with early 17 October custody updates as context only. Entire 198-method taxonomy audited; no AEI causation inferred.",
+  "scope": "Movement-linked and separately tagged allied publicly reported action from 16 May through 18 October 2026; 198-method taxonomy audited with each match contingent on event-specific evidence.",
   "method_count": 198,
   "status_definitions": {
     "documented": "Dated reporting supports the physical or verbal act and a reasonable narrow fit to this Sharp category; not proof of AEI adoption.",
@@ -12,28 +12,28 @@
     "not_established": "No qualifying method-specific evidence located in reviewed sources; absence of documentation is not disproof."
   },
   "counts": {
-    "documented": 15,
-    "not_established": 166,
+    "documented": 16,
     "possible": 16,
-    "announced": 1
+    "announced": 1,
+    "not_established": 165
   },
   "forecast": {
-    "issued_at": "2026-10-17T04:45:00+05:30",
-    "target_window": "2026-10-17 to 2026-10-19",
-    "method_number": 47,
-    "method_name": "Assemblies of protest or support",
+    "issued_at": "2026-10-18T22:20:00+05:30",
+    "target_window": "2026-10-19 to 2026-10-21",
+    "method_number": 1,
+    "method_name": "Public Speeches",
     "prediction_type": "low-confidence_repeat_of_existing_method",
-    "description": "If organising persists after October 16 detentions, a separately identifiable public assembly supporting detainees or electoral-roll demands is the most testable next physical action. This is a repeat of #47, not a predicted new Sharp method.",
-    "basis": "Multiple distinct CJP, SFI/AISA, AAP and local groups publicly mobilised on 16 October despite restrictions; overnight uncertainty about organisers' custody may prompt solidarity. No authenticated dated next action is announced here. The forecast is deliberately weak and should not be presented as a planned event.",
+    "description": "A further CJP public oral statement, press byte or press conference about the delayed release and ensuing organisation is the most grounded next-action hypothesis, rather than assuming a newly scheduled street protest.",
+    "basis": "On 18 October Dipke said CJP would regroup after Das and Ranka were released, while publicly reported legal proceedings remained unresolved. This favors further oral legal/protest communication as a conditional forecast; no specific briefing is announced.",
     "source_urls": [
-      "https://indianexpress.com/article/cities/delhi/cjp-abhijeet-dipke-neha-bora-detained-connaught-place-protest-delhi-police-10924983/",
-      "https://www.livemint.com/news/india/tiranga-march-in-delhi-cjp-chief-abhijeet-dipke-s-whereabouts-unknown-neha-bora-located-at-rk-puram-police-station-11792183587644.html"
+      "https://www.tribuneindia.com/news/delhi/will-re-strategise-once-das-ranka-are-out-cjps-abhijeet-dipke-vows-to-continue-agitation/",
+      "https://www.hindustantimes.com/india-news/delhi-protest-live-updates-cjp-dipke-release-bail-saurav-das-ranka-neha-bora-detain-arrest-india-bloc-gyanesh-kumar-eci-101792285150346.html"
     ],
     "not_a_new_method": true,
     "confidence": "low/uncalibrated",
-    "validation_rule": "For each date 17–19 October check two reliable independent observations with clear organiser attribution and local time. Record #47 repeat only if an actual public assembly occurs; otherwise reject or mark unresolved. Individual posts, press statements or rumours do not count as assembly.",
-    "alternative": "Method #1, Public Speeches, if only named public interviews/briefings occur; count only CJP or explicitly allied speakers, not opponents or independent politicians by automatic association.",
-    "next_novel_method_prediction": "Not determined: the reviewed record still provides no statistically or operationally defensible novel method forecast."
+    "validation_rule": "Confirm a dated, genuine public speech, interview or press conference by CJP representatives between Oct 19 and 21. Do not score allies' separate statements as CJP or count an intended rally as actual.",
+    "alternative": "Repeat #47 if a post-release public gathering independently occurs; no announced event is assumed to happen.",
+    "next_novel_method_prediction": "None defensible. New #37 appeared on 17 October without advance evidence; future discovery cannot be assigned artificially."
   },
   "first_documented_occurrences": [
     {
@@ -170,6 +170,15 @@
       "source_url": "https://indianexpress.com/article/cities/delhi/cjp-ashutosh-ranka-saurav-das-and-ajinkya-shinde-preventive-arrest-jantar-mantar-protest-10920696/",
       "precision": "day",
       "explanation": "Reported CJP organisers displayed the tricolour while protesting. Police allege additional conduct; custody is not conviction."
+    },
+    {
+      "date": "2026-10-17",
+      "method": 37,
+      "name": "Singing",
+      "actor_scope": "CJP-convened Pune gathering; participant identity unspecified",
+      "source_url": "https://indianexpress.com/article/cities/pune/cjp-protest-in-delhi-lehra-do-tiranga-rally-pune-collectorate-ambedkar-statue-abhijeet-dipke-bail-saurav-das-ashutosh-ranka-10926147/",
+      "precision": "day",
+      "explanation": "Eyewitness report says protest concluded with the national anthem sung; unique confirmed Sharp #37, unrelated to proof of CANVAS instruction."
     }
   ],
   "methods": [
@@ -241,6 +250,16 @@
           "actor_scope": "CJP regional coordinator, publicly identified",
           "date_precision": "day",
           "evidence_class": "reported_public_speech"
+        },
+        {
+          "date": "2026-10-18",
+          "first_reported_date": "2026-10-18",
+          "occurrence": "Dipke's public post-bail press remarks",
+          "detail": "His stated intention to regroup after release is conditional; nothing in this interview verifies a completed new rally.",
+          "source_url": "https://www.tribuneindia.com/news/delhi/will-re-strategise-once-das-ranka-are-out-cjps-abhijeet-dipke-vows-to-continue-agitation/",
+          "actor_scope": "Abhijeet Dipke, CJP founder",
+          "date_precision": "day",
+          "evidence_class": "reported_statement"
         }
       ],
       "evidence_note": null,
@@ -591,6 +610,16 @@
           "actor_scope": "CJP-convened protest; independent participants visible",
           "date_precision": "day",
           "evidence_class": "reported_action"
+        },
+        {
+          "date": "2026-10-17",
+          "first_reported_date": "2026-10-17",
+          "occurrence": "Pune CJP rally flag display",
+          "detail": "Tricolours handed out and displayed at confirmed Pune protest; repeat method.",
+          "source_url": "https://indianexpress.com/article/cities/pune/cjp-protest-in-delhi-lehra-do-tiranga-rally-pune-collectorate-ambedkar-statue-abhijeet-dipke-bail-saurav-das-ashutosh-ranka-10926147/",
+          "actor_scope": "CJP-convened Pune event",
+          "date_precision": "day",
+          "evidence_class": "reported_action"
         }
       ],
       "evidence_note": null,
@@ -913,12 +942,23 @@
       "name": "Singing",
       "family": "Nonviolent protest and persuasion",
       "subcategory": "Drama and music",
-      "status": "not_established",
-      "first_observed_date": null,
-      "first_linked_date": null,
-      "observations": [],
-      "evidence_note": "No method-specific qualifying CJP activity identified in reviewed May–15 October 2026 reporting. This is an evidence gap, not proof of non-use.",
-      "confirmation_test": "Full original performance and evidence of association with the movement rather than unaffiliated parody.",
+      "status": "documented",
+      "first_observed_date": "2026-10-17",
+      "first_linked_date": "2026-10-17",
+      "observations": [
+        {
+          "date": "2026-10-17",
+          "first_reported_date": "2026-10-17",
+          "occurrence": "National anthem sung at conclusion of CJP-convened Pune protest",
+          "detail": "On-scene Indian Express report says the Pune protest concluded with the national anthem being sung. Narrow coding of Sharp #37 Singing; speakers' recorded music does not independently count as live musical performance.",
+          "source_url": "https://indianexpress.com/article/cities/pune/cjp-protest-in-delhi-lehra-do-tiranga-rally-pune-collectorate-ambedkar-statue-abhijeet-dipke-bail-saurav-das-ashutosh-ranka-10926147/",
+          "actor_scope": "CJP-convened Pune assembly; identity of individual singers unspecified",
+          "date_precision": "day",
+          "evidence_class": "reported_action"
+        }
+      ],
+      "evidence_note": "Direct on-site coverage specifies actual singing at political assembly; interpretation covers the act, not Gene Sharp influence.",
+      "confirmation_test": "Unedited Pune recording or further firsthand reportage to confirm the collective singing and timestamp.",
       "method_specific_test": "Provide original dated evidence specifically of “Singing”; a general protest is insufficient."
     },
     {
@@ -3285,7 +3325,8 @@
     "15 Oct midday pass: one further Oct 14 CJP public reporter interaction repeats #1. Goa affiliate report is a coverage lead, not evidence of an additional previously unseen Sharp method; no method-status or forecast change.",
     "15 October evening: second photographed CJP–AISA joint briefing, now alongside identified SFI and AISF participants, is logged as a repeat of #1. Method classifications remain 15/16/1/166. Metro shutdown claim checked against DMRC affidavit; 16 October #18 conditional forecast open.",
     "15 October 20:48 IST: Yadav's 13 October edited interview adds a retrospective participant account, without a verifiable new CJP-directed method. Full 198 statuses and 22 action occurrences unchanged. Forecast #18 now notes the reported 17:00 event window; not yet observed.",
-    "17 Oct early pass: preceding 16 Oct #18 flag-display forecast independently confirmed. Six dated 16 Oct method occurrences (#47 Mumbai, #18 and #47 and #38 Delhi, separately SFI #47 and AAP #38); total 28. No increase in 15 distinct documented methods. Next conditional repeat #47, 17–19 October, low confidence; prior forecast preserved in history."
+    "17 Oct early pass: preceding 16 Oct #18 flag-display forecast independently confirmed. Six dated 16 Oct method occurrences (#47 Mumbai, #18 and #47 and #38 Delhi, separately SFI #47 and AAP #38); total 28. No increase in 15 distinct documented methods. Next conditional repeat #47, 17–19 October, low confidence; prior forecast preserved in history.",
+    "18 Oct: one new method (#37 Singing) verified from the 17 Oct Pune protest; #47 prediction issued 17 Oct validated by Pune, while no claim of Sharp/CANVAS transmission arises."
   ],
   "completeness_rule": "Every canonical number 1–198 appears once. 'Not established' entries have an explicit negative search result limited to the reviewed source base, not a proof of non-occurrence. Future dates excluded from observed chronology.",
   "method_events": [
@@ -3596,9 +3637,75 @@
       "actor_scope": "AAP independent party mobilisation, not CJP-directed",
       "date_precision": "day",
       "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-10-17",
+      "method": 47,
+      "name": "Assemblies of protest or support",
+      "event": "CJP-convened Pune demonstration near Ambedkar statue and collectorate, 16:00–18:30",
+      "explanation": "Indian Express eyewitness reporting confirms the gathering and no detentions; separate Jawab Do event nearby remains independent. Confirms the Oct 17 forecast of repeat #47 within its Oct 17–19 window.",
+      "source_url": "https://indianexpress.com/article/cities/pune/cjp-protest-in-delhi-lehra-do-tiranga-rally-pune-collectorate-ambedkar-statue-abhijeet-dipke-bail-saurav-das-ashutosh-ranka-10926147/",
+      "actor_scope": "Pune CJP event with multiple civic groups; separately distinguish Jawab Do",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-10-17",
+      "method": 8,
+      "name": "Banners, posters, and displayed communications",
+      "event": "CJP volunteers distribute placards with slogans at Pune demonstration",
+      "explanation": "Reporter explicitly observed placards and slogan displays; a repeat, not a new numbered method.",
+      "source_url": "https://indianexpress.com/article/cities/pune/cjp-protest-in-delhi-lehra-do-tiranga-rally-pune-collectorate-ambedkar-statue-abhijeet-dipke-bail-saurav-das-ashutosh-ranka-10926147/",
+      "actor_scope": "Pune CJP volunteers",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-10-17",
+      "method": 18,
+      "name": "Displays of flags and symbolic colors",
+      "event": "Tricolour flags distributed and displayed at Pune Lehra Do Tiranga event",
+      "explanation": "Eyewitness coverage records volunteers distributing flags and protest participants; repeat #18.",
+      "source_url": "https://indianexpress.com/article/cities/pune/cjp-protest-in-delhi-lehra-do-tiranga-rally-pune-collectorate-ambedkar-statue-abhijeet-dipke-bail-saurav-das-ashutosh-ranka-10926147/",
+      "actor_scope": "Pune CJP mobilisation",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-10-17",
+      "method": 1,
+      "name": "Public Speeches",
+      "event": "Public protest speeches by named participants in Pune",
+      "explanation": "Eyewitness quotes Niharika Bhosale speaking about the right to protest and other activists making demands. Named participants are not all CJP officeholders.",
+      "source_url": "https://indianexpress.com/article/cities/pune/cjp-protest-in-delhi-lehra-do-tiranga-rally-pune-collectorate-ambedkar-statue-abhijeet-dipke-bail-saurav-das-ashutosh-ranka-10926147/",
+      "actor_scope": "CJP-convened event, named activists with differing affiliations",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-10-17",
+      "method": 37,
+      "name": "Singing",
+      "event": "National anthem sung to close Pune demonstration",
+      "explanation": "Newly documented numbered method #37 based on direct published coverage of a sung anthem in protest context. Playing recorded music does not independently justify #36 musical performances.",
+      "source_url": "https://indianexpress.com/article/cities/pune/cjp-protest-in-delhi-lehra-do-tiranga-rally-pune-collectorate-ambedkar-statue-abhijeet-dipke-bail-saurav-das-ashutosh-ranka-10926147/",
+      "actor_scope": "Pune CJP-convened protest, unspecified singers",
+      "date_precision": "day",
+      "evidence_class": "reported_action"
+    },
+    {
+      "date": "2026-10-18",
+      "method": 1,
+      "name": "Public Speeches",
+      "event": "Dipke tells media CJP will regroup after colleagues' release",
+      "explanation": "ANI-attributed press remarks reported by The Tribune: a contingent future plan, not proof an actual meeting or new march occurred.",
+      "source_url": "https://www.tribuneindia.com/news/delhi/will-re-strategise-once-das-ranka-are-out-cjps-abhijeet-dipke-vows-to-continue-agitation/",
+      "actor_scope": "Abhijeet Dipke, CJP founder",
+      "date_precision": "day",
+      "evidence_class": "reported_statement"
     }
   ],
-  "method_event_count": 28,
+  "method_event_count": 34,
   "coverage_leads": [
     {
       "date": "2026-05-23",
@@ -3661,6 +3768,31 @@
         "https://www.newindianexpress.com/india/2026/Oct/16/detentions-flash-protests-and-tricolours-mark-delhis-lehra-do-tiranga-march"
       ],
       "scoring_note": "The #18 action occurred; the complete original Central Park route did not. Observational confirmation of flag display is not evidence of AEI influence."
+    },
+    {
+      "issued_at": "2026-10-17T04:45:00+05:30",
+      "target_window": "2026-10-17 to 2026-10-19",
+      "method_number": 47,
+      "method_name": "Assemblies of protest or support",
+      "prediction_type": "low-confidence_repeat_of_existing_method",
+      "description": "If organising persists after October 16 detentions, a separately identifiable public assembly supporting detainees or electoral-roll demands is the most testable next physical action. This is a repeat of #47, not a predicted new Sharp method.",
+      "basis": "Multiple distinct CJP, SFI/AISA, AAP and local groups publicly mobilised on 16 October despite restrictions; overnight uncertainty about organisers' custody may prompt solidarity. No authenticated dated next action is announced here. The forecast is deliberately weak and should not be presented as a planned event.",
+      "source_urls": [
+        "https://indianexpress.com/article/cities/delhi/cjp-abhijeet-dipke-neha-bora-detained-connaught-place-protest-delhi-police-10924983/",
+        "https://www.livemint.com/news/india/tiranga-march-in-delhi-cjp-chief-abhijeet-dipke-s-whereabouts-unknown-neha-bora-located-at-rk-puram-police-station-11792183587644.html"
+      ],
+      "not_a_new_method": true,
+      "confidence": "low/uncalibrated",
+      "validation_rule": "For each date 17–19 October check two reliable independent observations with clear organiser attribution and local time. Record #47 repeat only if an actual public assembly occurs; otherwise reject or mark unresolved. Individual posts, press statements or rumours do not count as assembly.",
+      "alternative": "Method #1, Public Speeches, if only named public interviews/briefings occur; count only CJP or explicitly allied speakers, not opponents or independent politicians by automatic association.",
+      "next_novel_method_prediction": "Not determined: the reviewed record still provides no statistically or operationally defensible novel method forecast.",
+      "status": "confirmed_repeat",
+      "scored_at": "2026-10-18T22:20:00+05:30",
+      "actual_date": "2026-10-17",
+      "verification_sources": [
+        "https://indianexpress.com/article/cities/pune/cjp-protest-in-delhi-lehra-do-tiranga-rally-pune-collectorate-ambedkar-statue-abhijeet-dipke-bail-saurav-das-ashutosh-ranka-10926147/"
+      ],
+      "scoring_note": "CJP-convened Pune demonstration on 17 October verifies repeat of Sharp #47 in predicted 17–19 October window. An unanticipated new method #37 was independently documented at the same Pune event; #47 forecasting did not anticipate it."
     }
   ]
 }
