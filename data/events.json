@@ -123,6 +123,19 @@
       "status": "Established"
     },
     {
+      "id": "E32",
+      "date": "2026-08-17",
+      "location": "New Delhi",
+      "organiser": "Delhi Police",
+      "category": "Digital and surveillance",
+      "title": "Police affidavit gives 2,873 facial-recognition matches",
+      "summary": "Delhi Police filed a Supreme Court affidavit reporting 2,873 people with apparent criminal-record matches during July protests, describing field verification before action. Underlying match logs and complete affidavit not obtained.",
+      "sources": [
+        "S55"
+      ],
+      "status": "Supported"
+    },
+    {
       "id": "E07",
       "date": "2026-08-24",
       "location": "New Delhi",
@@ -132,6 +145,46 @@
       "summary": "CJP called its committee to review government commitments and possible renewed peaceful agitation. Meeting outcome not verified.",
       "sources": [
         "S09"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "E33",
+      "date": "2026-09-01",
+      "location": "Supreme Court, New Delhi",
+      "organiser": "Supreme Court of India",
+      "category": "Legal",
+      "title": "Supreme Court quashes specified July protest FIRs, records CJP pledge",
+      "summary": "In W.P.(C) 917/2026, the Court used Article 142 to quash specified July FIRs, reserved a narrowly defined 2,873-person investigation exception, directed a compensation arrangement, and recorded Saurav Das withdrawing a September 5 march.",
+      "sources": [
+        "S54"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E34",
+      "date": "2026-09-04",
+      "location": "New Delhi",
+      "organiser": "Independent investigative reporting",
+      "category": "Digital and surveillance",
+      "title": "Report questions 25 facial-recognition identifications",
+      "summary": "Indian Express reviewed 205 serious-charge matches on Delhi Police's list and reported at least 25 people had been incarcerated when their faces were allegedly matched at the demonstration. Not an independently reproduced full-system audit.",
+      "sources": [
+        "S56",
+        "S55"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "E35",
+      "date": "2026-09-10",
+      "location": "Greater Noida / New Delhi",
+      "organiser": "UP Police / Supreme Court",
+      "category": "Legal",
+      "title": "Police clarify which official was suspended over student bond notice",
+      "summary": "UP DGP office said a sub-inspector was suspended over a CJP-protest notice; it said the executive magistrate who signed the Rs 5 lakh notice was not. Court submissions initially prompted confusion.",
+      "sources": [
+        "S57"
       ],
       "status": "Supported"
     },
@@ -161,6 +214,20 @@
         "S39"
       ],
       "status": "Established"
+    },
+    {
+      "id": "E36",
+      "date": "2026-09-27",
+      "location": "Supreme Court, New Delhi",
+      "organiser": "Akshat Tripathi",
+      "category": "Legal",
+      "title": "Student challenges account of action taken over bond notice",
+      "summary": "Legal reporting describes Tripathi's application alleging the government misstated who was suspended. The court's subsequent adjudication and the original suspension record remain outstanding.",
+      "sources": [
+        "S58",
+        "S57"
+      ],
+      "status": "Supported"
     },
     {
       "id": "E08",
