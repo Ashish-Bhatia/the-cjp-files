@@ -109,6 +109,20 @@
       "status": "Established"
     },
     {
+      "id": "E26",
+      "date": "2026-07-27",
+      "location": "New Delhi",
+      "organiser": "CJP / legal-aid initiative",
+      "category": "Funding and legal assistance",
+      "title": "Sibal publicly announces Rs 1 crore for protester legal aid",
+      "summary": "Kapil Sibal appeared with CJP speakers and announced Rs 1 crore for legal aid to protesters facing FIRs. No payment receipt, beneficiary ledger or completed transfer was independently verified.",
+      "sources": [
+        "S46",
+        "S47"
+      ],
+      "status": "Established"
+    },
+    {
       "id": "E07",
       "date": "2026-08-24",
       "location": "New Delhi",
@@ -240,6 +254,19 @@
       "status": "Unverified"
     },
     {
+      "id": "E27",
+      "date": "2026-10-14",
+      "location": "New Delhi / Online",
+      "organiser": "Amnesty International",
+      "category": "Civil liberties",
+      "title": "Amnesty urges release of detained CJP organisers",
+      "summary": "The organisation publicly called for release of Saurav Das and Ashutosh Ranka. Its position is an advocacy assessment, not a court judgment.",
+      "sources": [
+        "S49"
+      ],
+      "status": "Established"
+    },
+    {
       "id": "E15",
       "date": "2026-10-15",
       "location": "New Delhi",
@@ -251,6 +278,19 @@
         "S17"
       ],
       "status": "Established"
+    },
+    {
+      "id": "E28",
+      "date": "2026-10-15",
+      "location": "Online",
+      "organiser": "Independent fact-checking",
+      "category": "Digital",
+      "title": "Fact-check challenges circulating Dipke bail-bond image",
+      "summary": "Alt News reported documentary inconsistencies and disputed a viral claim that a peace bond barred any lawful protest for one year. The research desk has not independently authenticated the image or certified bond.",
+      "sources": [
+        "S48"
+      ],
+      "status": "Supported"
     },
     {
       "id": "E16",
@@ -305,6 +345,20 @@
       "status": "Supported"
     },
     {
+      "id": "E29",
+      "date": "2026-10-17",
+      "location": "New Delhi",
+      "organiser": "SEM court / CJP",
+      "category": "Legal",
+      "title": "Founder Dipke released after October 16 detention",
+      "summary": "Bar & Bench and Reuters reported that a Special Executive Magistrate ordered Abhijeet Dipke's release. Full signed conditions were not reviewed; this is a separate detention from the Das and Ranka case.",
+      "sources": [
+        "S50",
+        "S53"
+      ],
+      "status": "Established"
+    },
+    {
       "id": "E19",
       "date": "2026-10-18",
       "location": "New Delhi",
@@ -316,6 +370,32 @@
         "S19"
       ],
       "status": "Unverified"
+    },
+    {
+      "id": "E30",
+      "date": "2026-10-18",
+      "location": "New Delhi",
+      "organiser": "CJP / Special Executive Magistrate",
+      "category": "Legal",
+      "title": "CJP alleges surety rejection and delay in Das-Ranka release",
+      "summary": "CJP legal head Ratna Singh said a scheduled hearing was delayed and four sureties were rejected on unclear grounds. The underlying surety rulings and subsequent release status remain unverified.",
+      "sources": [
+        "S51"
+      ],
+      "status": "Disputed"
+    },
+    {
+      "id": "E31",
+      "date": "2026-10-18",
+      "location": "New Delhi",
+      "organiser": "Delhi Police",
+      "category": "Legal",
+      "title": "Police report alleged threat to magistrate during proceedings",
+      "summary": "PTI reported a police non-cognisable report against unidentified people following an alleged threat. Neither the message's provenance nor the identity of any sender was established.",
+      "sources": [
+        "S52"
+      ],
+      "status": "Supported"
     },
     {
       "id": "E20",
