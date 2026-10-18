@@ -56,3 +56,9 @@ html[data-theme=dark] .claim-class.unverified{background:#414b50;color:#e6eff0}
   .timeline-panel:hover{transform:translateX(3px)}
 }
 @media (prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important}}
+
+/* Disclosure panels used by the October evidence dossier. */
+.article details{margin:12px 0;padding:15px 20px;background:var(--surface);border:1px solid var(--line);border-radius:6px}
+.article details[open]{border-color:var(--mark)}
+.article details summary{cursor:pointer;font-weight:800;font-size:13px;line-height:1.6;list-style-position:outside}
+.article details p{margin:14px 0 0;color:var(--muted)}
