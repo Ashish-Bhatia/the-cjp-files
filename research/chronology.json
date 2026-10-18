@@ -1,7 +1,7 @@
 {
-  "release": "2026-10-17",
+  "release": "2026-10-18",
   "scope": "Dated public events, attributable public statements and separately labelled contextual primary/court/media evidence to 15 October 2026; not exhaustive. Social posts can enter chronology only as contextual reported events, never as eligible spoken claim cards. Midday 15 October pass adds Goa, cross-party outreach and court filings; the press source dates sometimes postdate events. Afternoon pass adds 12 dated association/mobilisation records; approximate media report dates are marked; future actions are not logged as completed. Evening 15 October pass resolves the High Court ruling (not merely the listing), adds DMRC sworn Metro figures and documents a second major open coalition press conference. Prospective October 16 activity remains uncompleted. Late 15 October extension adds a published 13 October interview (speech provenance) and two 15 October institutional developments; future SSR dates are checkpoints, not completed actions. 17 October early evidence pass appends 12 dated 16–17 October observations: separate central Delhi actors, preventive detentions, demonstrated flag displays, Mumbai low-turnout contrast and overnight custody sourcing. Source report times and event times are distinguished; unresolved custodial status not imputed. Added separate 15 October New York public endorsement, reported 16 October, identifying third-party literary fundraiser as distinct from CJP financing.",
-  "event_count": 106,
+  "event_count": 110,
   "events": [
     {
       "event_date": "15 May 2026",
@@ -744,6 +744,34 @@
       "assessment": "Mint's early-morning report says AISA traced Bora to RK Puram police station, while CJP reported lacking verified information about Dipke and complained of obstacles to legal contact. Conditions of custody, transfer history and eventual release were not independently established at publication; do not label individuals disappeared or released as fact.",
       "source": "Mint / 17 October early-morning source-attributed custody reports",
       "url": "https://www.livemint.com/news/india/tiranga-march-in-delhi-cjp-chief-abhijeet-dipke-s-whereabouts-unknown-neha-bora-located-at-rk-puram-police-station-11792183587644.html"
+    },
+    {
+      "event_date": "17 October 2026, 16:00–18:30 IST",
+      "title": "Pune CJP ‘Lehra Do Tiranga’ demonstration takes place near collectorate",
+      "assessment": "An Indian Express on-location account reports a peaceful rally, national flags, placards, speeches, the national anthem and no detentions. Separately reported Jawab Do event is a different organiser.",
+      "source": "Indian Express / original field reporting",
+      "url": "https://indianexpress.com/article/cities/pune/cjp-protest-in-delhi-lehra-do-tiranga-rally-pune-collectorate-ambedkar-statue-abhijeet-dipke-bail-saurav-das-ashutosh-ranka-10926147/"
+    },
+    {
+      "event_date": "17 October 2026",
+      "title": "Dipke released subject to a peace undertaking following Connaught Place detention",
+      "assessment": "LiveLaw reports an order from a Delhi Special Executive Magistrate releasing Dipke conditionally. This does not determine every contested legal issue nor resolve two other organisers' detention proceedings.",
+      "source": "LiveLaw / court reporter",
+      "url": "https://www.livelaw.in/news-updates/delhi-court-grants-bail-to-cjp-founder-abhijeet-dipke-555194"
+    },
+    {
+      "event_date": "18 October 2026",
+      "title": "CJP disputes handling of Das and Ranka release sureties",
+      "assessment": "New Indian Express reporting attributes rejected-surety and hearing-delay allegations to Ratna Singh, mostly via her written public posts. Police response was not reported. This is context, not a qualifying oral-speech claim.",
+      "source": "The New Indian Express / PTI",
+      "url": "https://www.newindianexpress.com/india/2026/Oct/18/cjp-alleges-delay-in-release-of-saurav-das-and-ashutosh-ranka-four-sureties-rejected"
+    },
+    {
+      "event_date": "18 October 2026",
+      "title": "Dipke describes conditional plan to regroup after colleagues' release",
+      "assessment": "Hindustan Times reports public ANI remarks saying the group will decide next steps once Das and Ranka return. Does not document a completed new meeting, scheduled future event or any operational contact with AEI or CANVAS.",
+      "source": "Hindustan Times / ANI attributed press interaction",
+      "url": "https://www.hindustantimes.com/india-news/cjp-to-restrategise-after-saurav-das-ashutosh-rankas-release-abhijeet-dipke-on-anti-cec-stir-101792315907890.html"
     }
   ]
 }
