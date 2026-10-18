@@ -11,11 +11,11 @@ The repository has been restarted from a clean slate. The new `index.html` is th
 | File | Purpose | Status |
 |---|---|---|
 | [index.html](index.html) | Responsive editorial homepage with searchable public records | Published to main |
-| [research/01-origins.md](research/01-origins.md) | Volume 1 foundation: creation, aims, public people, first chronology and limits | Foundational draft |\n| [research/14-hypotheses.md](research/14-hypotheses.md) | Volume 14: rival explanations and a selective Sharp-method matrix | Preliminary analytical chapter |
+| [research/01-origins.md](research/01-origins.md) | Volume 1 foundation: creation, aims, public people, first chronology and limits | Foundational draft |\n| [research/14-hypotheses.md](research/14-hypotheses.md) | Volume 14: rival explanations and a selective Sharp-method matrix | Preliminary analytical chapter |\n| [research/09-elections-sir.md](research/09-elections-sir.md) | Volume 9: Bihar SIR judgment, electoral data and later Form 6 litigation | Preliminary court evidence chapter |\n| [research/10-protest-law.md](research/10-protest-law.md) | Volume 10: Delhi and Goa protest legal proceedings | Preliminary legal-case chapter |
 | [research/data.json](research/data.json) | Portable evidence, events, public roles, ties, claims, hypotheses, coverage and backlog | Initial register |
 | [README.md](README.md) | Method, version tracking and volume progress | Current |
 
-At this edition the register comprises **23 source references, 16 selective dated events, 15 public-role entries, 4 typed ties, 6 assessed claims, 6 competing hypotheses and 14 open tasks**. These counts describe files created, **not** the number of all events, relationships or people associated with CJP.
+At this edition the register comprises **28 source references, 16 selective dated events, 15 public-role entries, 4 typed ties, 7 assessed claims, 6 competing hypotheses and 16 open tasks**. These counts describe files created, **not** the number of all events, relationships or people associated with CJP.
 
 No judgment is made from the absence of a source in the incomplete database.
 
@@ -74,8 +74,8 @@ An unverified assertion must be *unsupported* or *unassessable*, not automatical
 | 6 | Politics and institutions | Initial AAP historical contact and Congress outreach documented |
 | 7 | Digital mobilisation | Original post and account provenance pending |
 | 8 | Claims and fact checks | Six initial claim assessments, non-exhaustive |
-| 9 | Elections, SIR and ECI | Official source dataset and litigation review pending |
-| 10 | Law, protest and public order | Reported incidents, signed documents pending |
+| 9 | Elections, SIR and ECI | Preliminary legal chapter, official Supreme Court summary reviewed; national data audit pending |
+| 10 | Law, protest and public order | Preliminary Goa and Delhi case chapter; signed documents pending |
 | 11 | International comparisons | Study design; analytical historical chapters pending |
 | 12 | Civil resistance and strategy | Gene Sharp primary reference, method-level analysis pending |
 | 13 | External support and influence | No public transactional evidence verified in this edition |
@@ -108,7 +108,7 @@ Open a GitHub Issue with the exact claim, supporting public URL, original public
 - The 15 May complete courtroom transcript / audio is not authenticated.
 - The original website versions require archived verification.
 - A current ECI party-register search is pending.
-- A primary presidential communiqué is sourced. No signed Delhi or Goa court orders, FIR case numbers or audited CJP accounts are captured.
+- A primary presidential communiqué and an official Supreme Court explanatory judgment summary are sourced. No full signed Supreme Court judgment, signed Delhi or Goa orders, FIR case numbers or audited CJP accounts are captured.
 - SIR removal totals have not been independently calculated from official denominators.
 - The 28 Indian states, 8 union territories and major regional languages have not been systematically searched.
 - The comparative programme has not verified direct foreign organisational links.
