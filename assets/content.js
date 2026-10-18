@@ -78,6 +78,12 @@ window.CJP_PUBLIC = {
     {"id":"S69","name":"Reuters","title":"National roll-deletion classifications and October 12 opposition petition","date":"12 October 2026","kind":"Reporting","url":"https://www.reuters.com/world/india/delhi-shuts-metro-stations-restricts-traffic-ahead-new-protest-against-election-2026-10-12/"},
     {"id":"S70","name":"Hindustan Times","title":"Dipke responds to Mary Millben's public donor allegations","date":"14 October 2026","kind":"Reported statement","url":"https://www.hindustantimes.com/india-news/dont-need-outsiders-interfering-in-our-country-cjp-abhijeet-dipke-singer-mary-millben-us-donors-remark-101791979357383.html"},
     {"id":"S71","name":"India Today / PTI","title":"Reporting distinguishes CJP founder's response from the alleged funding claim","date":"15 October 2026","kind":"Reporting","url":"https://www.indiatoday.in/world/story/mary-millben-abhijeet-dipke-clash-cjp-us-funding-claims-ptag-3017591-2026-10-15"}
+,
+    {"id":"S72","name":"Hindustan Times","title":"Separate CJP name-registration application by lawyer Sudhir Jakhar","date":"26 May 2026","kind":"Reporting","url":"https://www.hindustantimes.com/india-news/lawyer-seeks-to-register-cockroach-janta-party-separately-from-us-based-founder-101779784039470.html"},
+    {"id":"S73","name":"The Indian Express","title":"ECI symbols policy and founder's pressure-group description","date":"9 June 2026","kind":"Reporting","url":"https://indianexpress.com/article/explained/explained-politics/cockroach-election-symbol-cjp-ec-rules-10730897/"},
+    {"id":"S74","name":"The Indian Express","title":"AAP's FY 2025–26 disclosures include Ashutosh Ranka's personal ₹21,100 donation","date":"29 September 2026","kind":"Contribution-report reporting","url":"https://indianexpress.com/article/india/aap-bjd-donations-drop-election-commission-report-10898079/"},
+    {"id":"S75","name":"Hindustan Times","title":"AAP reported contribution entry linked to later CJP co-convenor","date":"29 September 2026","kind":"Contribution-report reporting","url":"https://www.hindustantimes.com/india-news/how-much-did-ashutosh-ranka-donate-to-arvind-kejriwals-aap-before-joining-cjp-101790655550275.html"},
+    {"id":"S76","name":"Mint","title":"Party contribution report identifies Ranka's historical donation to AAP","date":"28 September 2026","kind":"Contribution-report reporting","url":"https://www.livemint.com/news/india/ashutosh-ranka-donated-rs-21-100-to-aap-before-joining-cjp-who-else-contributed-to-arvind-kejriwal-s-party-in-25-26-ec-11790607361642.html"}
   ],
   events:[
     {date:"2026-05-15",category:"Origins",location:"New Delhi",title:"A disputed Supreme Court remark",text:"Remarks attributed to Chief Justice Surya Kant during a hearing prompt public controversy. The Chief Justice subsequently disputes the broad interpretation placed on his words.",src:["S01","S03"]},
@@ -119,6 +125,9 @@ window.CJP_PUBLIC = {
     {"date":"2026-10-17","category":"Protests","location":"Pune, Maharashtra","title":"Pune CJP rally held peacefully without detentions","text":"The Indian Express reports a 4–6.30 pm demonstration near the Collectorate without police detentions. A separate publication estimates around 250 participants; an unrelated Jawab Do event took place elsewhere.","src":["S61","S62","S63"]},
     {"date":"2026-10-17","category":"Protests","location":"Bengaluru, Karnataka","title":"Separate AISA anti-SIR rally faces police detention","text":"The Indian Express reports about 50 AISA and civic activists detained at Town Hall and subsequently released. Their protest shared policy demands but is not established as a CJP-organised gathering.","src":["S65"]},
     {"date":"2026-10-18","category":"Courts","location":"New Delhi","title":"Non-cognisable report registered over alleged magistrate threat","text":"PTI reports an NCR against unidentified people relating to an alleged threatening message to the Special Executive Magistrate hearing the Das–Ranka case. It is distinct from the police FIRs concerning other events; sender and culpability remain unidentified.","src":["S66","S67"]}
+,
+    {"date":"2026-05-26","category":"Organisation","location":"ECI application / New Delhi","title":"Separate claimant submits CJP name-registration request","text":"Hindustan Times reports lawyer Sudhir Jakhar, describing himself as convenor, filed a Section 29A application under the CJP name without a verified mandate from founder Abhijeet Dipke. An application is not an approval, and later status remains unverified.","src":["S72"]},
+    {"date":"2026-09-29","category":"Politics","location":"ECI contribution reporting","title":"A later CJP office-bearer's past AAP contribution reported","text":"Reporting on AAP's FY 2025–26 contribution filing identifies a ₹21,100 donation by Ashutosh Ranka to AAP before his CJP appointment. It is a personal payment into AAP, not a payment from AAP to CJP.","src":["S74","S75","S76"]}
   ],
   people:[
     {name:"Abhijeet Dipke",role:"Founder and national convenor",group:"CJP office-bearers",since:"16 May · 6 August appointment",detail:"Contemporary reporting credits him with CJP's online founding. The August committee announcement formalises his public convenor title.",src:["S02","S10"]},
@@ -135,6 +144,8 @@ window.CJP_PUBLIC = {
     {name:"Ankit Bharadwaj",role:"East and Northeast zone lead",group:"CJP office-bearers",since:"6 August appointment",detail:"Named in the regional leadership announcement.",src:["S10","S11"]},
     {name:"Vijeta Dahiya",role:"Former spokesperson",group:"Former CJP representative",since:"3 June to 21 July",detail:"Appointed in June and removed in July. Dahiya disputed the circumstances of the removal in a public interview.",src:["S04","S06","S07"]},
     {name:"Neha Bora",role:"AISA student leader",group:"Other public actors",since:"October demonstrations",detail:"Reported as a student leader detained at the October protests; no CJP office is established by the shared demonstration.",src:["S19"]}
+,
+    {"name":"Sudhir Jakhar","role":"Separate applicant for CJP name registration; authorisation unverified","group":"Other public actors","since":"26 May application report","detail":"Reported by Hindustan Times as a lawyer who sought to register a party with the same name separately from founder Dipke. An ECI registration grant or control over the subsequent movement has not been established.","src":["S72"]}
   ],
   claims:[
     {title:"Did CJP begin as a satirical project?",verdict:"Supported",type:"supported",text:"Independent contemporary reporting identifies a May online launch and credits Dipke. The founding first post still requires direct authentication.",src:["S02","S03"]},
@@ -166,6 +177,10 @@ window.CJP_PUBLIC = {
     {"title":"Do the 28m, 63m and 30m categories sum to the reported 130m-plus national total?","verdict":"No","type":"supported","text":"The three Reuters-listed approximate categories sum to 121 million. Without additional categories, exact cut-offs and state-level data, the reported national total cannot be fully reconciled from these figures alone.","src":["S69"]},
     {"title":"Were every October 16–17 anti-SIR protest and attendee CJP-organised?","verdict":"No","type":"supported","text":"Delhi, Mumbai and Pune had reported CJP protest calls or events. Bengaluru's Town Hall protest was reported as led by AISA and activists; Pune also had a separate Jawab Do event. Shared issues do not prove organisational identity.","src":["S19","S61","S64","S65"]},
     {"title":"Did the Pune CJP gathering result in police detentions on October 17?","verdict":"No detentions reported","type":"supported","text":"The Indian Express reports the collectorate-area demonstration ended peacefully, with no demonstrator detained. This finding refers to Pune on October 17 and does not describe Delhi or Bengaluru.","src":["S61"]}
+,
+    {"title":"Did Sudhir Jakhar's May registration application legally register Dipke's CJP?","verdict":"Not established","type":"unverified","text":"Hindustan Times reported an application using the CJP name by a separate claimant. No verified Section 29A grant, authorisation by founder Dipke or subsequent outcome is available in the reviewed record.","src":["S72","S73"]},
+    {"title":"Does Ranka's ₹21,100 donation prove AAP funded CJP?","verdict":"No","type":"supported","text":"AAP's FY 2025–26 contribution filing reportedly lists a personal donation by Ranka to AAP, before his CJP role. The documented flow is individual to AAP, not AAP to CJP. Organisational control cannot be inferred.","src":["S74","S75","S76"]},
+    {"title":"Could an applicant claim the cockroach emblem as a confirmed ECI election symbol?","verdict":"Not established","type":"caution","text":"The Indian Express reported ECI restrictions on animal and insect symbols and said the cockroach was not among available free symbols. A movement emblem is not a granted election symbol.","src":["S73"]}
   ],
   ties:[
     {from:"CJP",to:"Abhijeet Dipke",label:"Founder / convenor",status:"publicly reported",src:["S02","S10"]},
@@ -175,5 +190,8 @@ window.CJP_PUBLIC = {
     {from:"CJP",to:"Congress",label:"Reported invitation / contact in October",status:"outreach, not proven alliance",src:["S22"]},
     {from:"CJP",to:"AISA",label:"Overlap at electoral-issue protests",status:"separate organisation, shared issue",src:["S19"]},
     {from:"CJP",to:"School Thik Karo",label:"Public campaign launched 15 August",status:"publicly documented campaign",src:["S46","S54"]}
+,
+    {"from":"Ashutosh Ranka","to":"AAP","label":"Personal contribution of ₹21,100, FY2025–26","status":"individual donation to AAP, not CJP funding","src":["S74","S75"]},
+    {"from":"Sudhir Jakhar","to":"ECI","label":"Reported CJP-name registration application","status":"separate applicant; approval unverified","src":["S72"]}
   ]
 };
