@@ -1,5 +1,23 @@
 # The CJP Files
 
+## 18 October 2026: Public website relaunch
+
+The reader-facing site has been rebuilt in a shared editorial design. The GitHub Pages deployment workflow now includes **only eight HTML pages, their public CSS/JS assets, curated public source content, favicon, sitemap, robots and 404 page**. Internal research manuscripts and working audit files stay in GitHub and are **excluded from the Pages artifact**.
+
+Public paths:
+- `index.html`: editorial front page and current context.
+- `timeline.html`: searchable and month-filtered **110** dated, source-linked events.
+- `methods.html`: searchable/filterable **198** Gene Sharp methods; 16 observed, 16 possible, 1 announced, 165 not established.
+- `myth-vs-reality.html`: searchable **128** reviews of actual public speeches, interviews and press remarks.
+- `association-investigation.html`: source-led public ties, carefully separating historical affiliations, coordinated events, endorsements and operational direction.
+- `otpor-canvas.html`: primary-text comparison of Gene Sharp, Otpor, Popović and CANVAS against CJP.
+- `sources.html`: deduplicated linked media and first-party references behind public claims and chronology.
+- `about.html`: editorial principles, privacy, evidence standard and correction instructions.
+
+New 17–18 October spoken material includes Niharika Bhosale's Pune protest speech and Abhijeet Dipke's 18 October ANI media remarks, including a separately attributed claim about the legality of detentions. The reported Pune national-anthem performance supports Sharp method #37. Ratna Singh's X-only allegations about October release proceedings remain contextual news, **not** eligible spoken-statement entries.
+
+All pages should display natural public editorial language; machine fields, internal audit notes, private case management and forecast scoring are not exposed in page content. Public sources remain directly linked in the relevant content. Actual GitHub Pages propagation should be checked independently after push.
+
 Editorial investigation on GitHub Pages: https://ashish-bhatia.github.io/the-cjp-files/
 
 ## Research update, 18 October 2026 (IST): Sharp, Otpor, CANVAS and CJP
