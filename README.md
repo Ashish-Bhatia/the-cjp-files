@@ -2,7 +2,7 @@
 
 ## 18 October 2026: Public website relaunch
 
-The reader-facing site has been rebuilt in a shared editorial design. The GitHub Pages deployment workflow now includes **only eight HTML pages, their public CSS/JS assets, curated public source content, favicon, sitemap, robots and 404 page**. Internal research manuscripts and working audit files stay in GitHub and are **excluded from the Pages artifact**.
+The reader-facing site has been rebuilt in a shared editorial design. The public site comprises **nine HTML pages**, public CSS/JS assets, curated source data, favicon, sitemap, robots and 404 page. Branch-based GitHub Pages publishing is active, with Jekyll exclusions in `_config.yml` keeping `research/`, README and repository configuration out of the generated website. The alternative GitHub Actions artifact workflow is manual-only until the Pages source is switched to GitHub Actions in repository settings. Internal research files remain in this public GitHub repository and should not be mistaken for confidential storage.
 
 Public paths:
 - `index.html`: editorial front page and current context.
