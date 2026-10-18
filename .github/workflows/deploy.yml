@@ -32,7 +32,7 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p _site
-          cp index.html timeline.html methods.html myth-vs-reality.html association-investigation.html otpor-canvas.html sources.html about.html _site/
+          cp index.html timeline.html methods.html myth-vs-reality.html association-investigation.html otpor-canvas.html origins-and-parallels.html sources.html about.html _site/
           cp -R assets _site/assets
           if [ -f 404.html ]; then cp 404.html _site/; fi
           if [ -f robots.txt ]; then cp robots.txt _site/; fi
