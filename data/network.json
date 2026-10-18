@@ -64,6 +64,14 @@
       "x": 590,
       "y": 210,
       "detail": "Aishe Ghosh appeared at a public event with CJP representatives; institution-wide coordination not inferred."
+    },
+    {
+      "id": "N09",
+      "name": "Kapil Sibal",
+      "type": "Person",
+      "x": 355,
+      "y": 55,
+      "detail": "Publicly appeared with CJP leaders and announced student-protester legal aid on 27 July; no recipient financial account or transfer has been independently verified."
     }
   ],
   "edges": [
@@ -129,6 +137,15 @@
       "date": "2026-10-15",
       "source": "S17",
       "note": "Aishe Ghosh (SFI) documented at multi-group press event. This establishes co-appearance at a public meeting only."
+    },
+    {
+      "id": "R08",
+      "a": "N09",
+      "b": "N01",
+      "type": "Public legal-aid initiative",
+      "date": "2026-07-27",
+      "source": "S46",
+      "note": "Announced Rs 1 crore for legal help with student-protester cases; evidence of declared support, not proven financing of protest operations or a verified bank transfer."
     }
   ]
 }
