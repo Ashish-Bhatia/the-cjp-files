@@ -129,6 +129,22 @@
       "status": "Established",
       "reason": "Election Commission's own public service portal references the 2026 Special Intensive Revision. This does not validate disputed disenfranchisement or bias allegations.",
       "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C10",
+      "claim": "Officials ordered all government schools in Gautam Buddha Nagar shut immediately during CJP's September audit.",
+      "claimant": "CJP co-convenor Saurav Das",
+      "claimDate": "2026-09-15",
+      "original": "S41",
+      "support": [
+        "S41"
+      ],
+      "against": [
+        "S41"
+      ],
+      "status": "Disputed",
+      "reason": "Saurav Das publicly claimed widespread immediate closure. The district's education department denied any such closure order and said classes continued. No signed district-wide shutdown order or comprehensive attendance register has been reviewed.",
+      "reviewed": "2026-10-19"
     }
   ]
 }

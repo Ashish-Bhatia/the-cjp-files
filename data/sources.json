@@ -393,7 +393,7 @@
     },
     {
       "id": "S31",
-      "publisher": "Indian Express",
+      "publisher": "Jansatta",
       "title": "CJP spokesperson says movement aligned with opposition aims while independent",
       "published": "2026-10-15",
       "eventDate": "2026-10-15",
@@ -494,6 +494,84 @@
       "retrieved": "2026-10-19",
       "archiveUrl": null,
       "authenticity": "URL and publisher identified; original archival copy not saved."
+    },
+    {
+      "id": "S39",
+      "publisher": "Reuters",
+      "title": "Cockroach movement announces 48-hour ultimatum to CEC",
+      "published": "2026-09-24",
+      "eventDate": "2026-09-24",
+      "type": "Wire reporting",
+      "url": "https://www.reuters.com/world/india/indias-cockroach-movement-says-will-launch-protest-if-poll-panel-chief-doesnt-2026-09-24/",
+      "limitations": "Records the demand and election watchdog response; does not verify the alleged electoral-roll manipulation.",
+      "retrieved": "2026-10-19",
+      "archiveUrl": null,
+      "authenticity": "Publisher URL verified; original archive snapshot not saved."
+    },
+    {
+      "id": "S40",
+      "publisher": "Times of India",
+      "title": "CJP School Theek Karo launches Noida school audit",
+      "published": "2026-09-15",
+      "eventDate": "2026-09-15",
+      "type": "Direct reporting",
+      "url": "https://timesofindia.indiatimes.com/city/noida/will-show-reality-cjps-saurabh-das-brings-school-theek-karo-to-noida-urges-youth-to-inspect-schools/articleshow/134257271.cms",
+      "limitations": "Records organisers' plan; audit observations require inspection records.",
+      "retrieved": "2026-10-19",
+      "archiveUrl": null,
+      "authenticity": "Publisher URL verified; original archive snapshot not saved."
+    },
+    {
+      "id": "S41",
+      "publisher": "Times of India",
+      "title": "Education department disputes school shutdown claim",
+      "published": "2026-09-16",
+      "eventDate": "2026-09-15",
+      "type": "Contradictory named official reporting",
+      "url": "https://timesofindia.indiatimes.com/city/noida/cockroach-janta-party-comes-to-noida-for-audit-alleges-schools-told-to-shut/articleshow/134272659.cms",
+      "limitations": "CJP and the education department offer incompatible accounts; written closures and independent school observations were not obtained.",
+      "retrieved": "2026-10-19",
+      "archiveUrl": null,
+      "authenticity": "Publisher URL verified; original archive snapshot not saved."
+    },
+    {
+      "id": "S42",
+      "publisher": "Moneycontrol",
+      "title": "Who is Abhijeet Dipke? Reports previous AAP political communications work",
+      "published": "2026-05-21",
+      "eventDate": "",
+      "type": "Biographical reporting and attributed interview",
+      "url": "https://www.moneycontrol.com/news/india/who-is-abhijeet-dipke-the-man-behind-the-viral-cockroach-janta-party-13926096.html",
+      "limitations": "Reported prior 2020–2023 role, not independently verified payroll or present organisational links.",
+      "retrieved": "2026-10-19",
+      "archiveUrl": null,
+      "authenticity": "Publisher URL verified; original archive snapshot not saved."
+    },
+    {
+      "id": "S43",
+      "publisher": "Financial Express",
+      "title": "Former AAP volunteer launched CJP; reported May 16 online emergence",
+      "published": "2026-05-21",
+      "eventDate": "2026-05-16",
+      "type": "Biographical reporting",
+      "url": "https://www.financialexpress.com/india-news/who-is-abhijeet-dipke-former-aap-volunteer-launched-cockroach-janta-party-and-is-now-facing-backlash/4246987/",
+      "limitations": "Gives former AAP volunteer role; original online first post and account record remain unarchived.",
+      "retrieved": "2026-10-19",
+      "archiveUrl": null,
+      "authenticity": "Publisher URL verified; original archive snapshot not saved."
+    },
+    {
+      "id": "S44",
+      "publisher": "Financial Express",
+      "title": "CJP name trademark applications and first social account restriction",
+      "published": "2026-05-22",
+      "eventDate": "2026-05-21",
+      "type": "Reporting of public records and platform action",
+      "url": "https://www.financialexpress.com/india-news/who-is-the-real-cockroach-three-applications-filed-to-trademark-cockroach-janta-party-name-after-viral-surge/4247508/lite/",
+      "limitations": "Reports trademark applications and online account withholding; actual trademark applications not obtained.",
+      "retrieved": "2026-10-19",
+      "archiveUrl": null,
+      "authenticity": "Publisher URL verified; original archive snapshot not saved."
     }
   ]
 }

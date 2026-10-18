@@ -16,6 +16,34 @@
       "status": "Established"
     },
     {
+      "id": "E21",
+      "date": "2026-05-16",
+      "location": "Online",
+      "organiser": "CJP",
+      "category": "Organisation",
+      "title": "Online movement reportedly launched",
+      "summary": "Financial Express retrospectively places the satirical movement's launch on May 16. Earliest original post and account metadata have not been authenticated.",
+      "sources": [
+        "S43",
+        "S44"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "E22",
+      "date": "2026-05-21",
+      "location": "Online",
+      "organiser": "CJP / platform X",
+      "category": "Digital",
+      "title": "Original CJP X account reported withheld in India",
+      "summary": "Dipke said the account had been restricted following a legal demand. The underlying platform order and complete account archive have not been reviewed.",
+      "sources": [
+        "S43",
+        "S44"
+      ],
+      "status": "Supported"
+    },
+    {
       "id": "E02",
       "date": "2026-06-06",
       "location": "New Delhi",
@@ -92,6 +120,33 @@
         "S09"
       ],
       "status": "Supported"
+    },
+    {
+      "id": "E23",
+      "date": "2026-09-15",
+      "location": "Noida, Uttar Pradesh",
+      "organiser": "CJP",
+      "category": "Education",
+      "title": "School Theek Karo audit begins in Noida",
+      "summary": "Saurav Das and campaign volunteers visited government schools; an allegation that authorities ordered schools closed was rejected by the district education department.",
+      "sources": [
+        "S40",
+        "S41"
+      ],
+      "status": "Disputed"
+    },
+    {
+      "id": "E24",
+      "date": "2026-09-24",
+      "location": "New Delhi",
+      "organiser": "CJP",
+      "category": "Political demands",
+      "title": "48-hour ultimatum over Chief Election Commissioner",
+      "summary": "CJP demanded Gyanesh Kumar resign within 48 hours, saying it would launch further protests; the Election Commission denied bias and wrongdoing.",
+      "sources": [
+        "S39"
+      ],
+      "status": "Established"
     },
     {
       "id": "E08",
