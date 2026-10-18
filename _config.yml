@@ -1,0 +1,16 @@
+# GitHub Pages branch publishing: only editorial files should enter the public site.
+# Research, editorial working files and configuration are intentionally excluded.
+title: The CJP Files
+description: Independent examination of the Cockroach Janta Party and protest movements.
+exclude:
+  - README.md
+  - research
+  - .github
+  - .gitignore
+  - .nojekyll
+  - _site
+  - Gemfile
+  - Gemfile.lock
+  - scripts
+  - node_modules
+  - vendor
