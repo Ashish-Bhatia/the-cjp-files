@@ -10,7 +10,7 @@ Public paths:
 - `timeline.html`: searchable and month-filtered **110** dated, source-linked events.
 - `methods.html`: searchable/filterable **198** Gene Sharp methods; 16 observed, 16 possible, 1 announced, 165 not established.
 - `myth-vs-reality.html`: searchable **128** reviews of actual public speeches, interviews and press remarks.
-- `association-investigation.html`: source-led public ties, carefully separating historical affiliations, coordinated events, endorsements and operational direction.
+- `association-investigation.html`: independently sourced contact register featuring 11 dated events, 22 named people and organisations, and six explicitly unverified relationships. Photographed government meetings, joint organising and co-presence are separated from hearsay and political accusations.
 - `otpor-canvas.html`: primary-text comparison of Gene Sharp, Otpor, Popović and CANVAS against CJP.
 - `sources.html`: deduplicated linked media and first-party references behind public claims and chronology.
 - `about.html`: editorial principles, privacy, evidence standard and correction instructions.
@@ -20,6 +20,13 @@ New 17–18 October spoken material includes Niharika Bhosale's Pune protest spe
 All pages should display natural public editorial language; machine fields, internal audit notes, private case management and forecast scoring are not exposed in page content. Public sources remain directly linked in the relevant content. Actual GitHub Pages propagation should be checked independently after push.
 
 Editorial investigation on GitHub Pages: https://ashish-bhatia.github.io/the-cjp-files/
+
+## Contact evidence reset, 18 October 2026 (IST)
+
+- Replaced the public associations page with a date-specific, filterable contact ledger built from independent photojournalism and attendee reports. Earlier public accusations and self-descriptions are not used to establish direct contact.
+- Recorded 11 sourced public events including CJP-government talks (24–25 July), a Kapil Sibal co-appearance (27 July), a named multi-student-organising conference (7 October), a CJP-linked march with Yogendra Yadav / Prashant Bhushan / Dipankar Bhattacharya (10 October), Rahul Gandhi–Neha Bora public contact (12–13 October), and the Dipke–Bora–Bhushan–Prakash Raj media panel (15 October).
+- A Congress–Dipke meeting is not treated as established; reported outreach contains contradictory anonymous accounts. A transitive contact path via Neha Bora does not prove a direct Gandhi–Dipke meeting, campaign command or party control.
+- Eight historical and ongoing lines of inquiry remain outside the verified-contact ledger unless independently corroborated by dated records. No private addresses or non-public communications are published.
 
 ## Research update, 18 October 2026 (IST): Sharp, Otpor, CANVAS and CJP
 
