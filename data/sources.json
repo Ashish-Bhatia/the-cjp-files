@@ -572,6 +572,19 @@
       "retrieved": "2026-10-19",
       "archiveUrl": null,
       "authenticity": "Publisher URL verified; original archive snapshot not saved."
+    },
+    {
+      "id": "S45",
+      "publisher": "Indian Express",
+      "title": "Savitribai Phule Pune University refuses CJP rally permission",
+      "published": "2026-10-16",
+      "eventDate": "2026-10-17",
+      "type": "Direct reporting and attributed university decision",
+      "url": "https://indianexpress.com/article/cities/pune/cjp-pune-protest-savitribai-phule-university-10923914/",
+      "limitations": "University invoked its August policy limiting non-university protests; full Management Council minutes and permission letter not obtained.",
+      "retrieved": "2026-10-19",
+      "archiveUrl": null,
+      "authenticity": "Publisher URL verified; original university order not retrieved."
     }
   ]
 }

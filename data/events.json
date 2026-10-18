@@ -266,6 +266,19 @@
       "status": "Established"
     },
     {
+      "id": "E25",
+      "date": "2026-10-16",
+      "location": "Pune, Maharashtra",
+      "organiser": "CJP / Savitribai Phule Pune University",
+      "category": "Campus response",
+      "title": "University denies permission for proposed CJP campus protest",
+      "summary": "Savitribai Phule Pune University reportedly refused on-campus permission, invoking an August policy for non-university demonstrations. The group moved its October 17 event to the Collector's Office.",
+      "sources": [
+        "S45"
+      ],
+      "status": "Supported"
+    },
+    {
       "id": "E17",
       "date": "2026-10-17",
       "location": "Pune",
