@@ -26,7 +26,7 @@ Editorial investigation on GitHub Pages: https://ashish-bhatia.github.io/the-cjp
 - Replaced the public associations page with a date-specific, filterable contact ledger built from independent photojournalism and attendee reports. Earlier public accusations and self-descriptions are not used to establish direct contact.
 - Recorded 11 sourced public events including CJP-government talks (24–25 July), a Kapil Sibal co-appearance (27 July), a named multi-student-organising conference (7 October), a CJP-linked march with Yogendra Yadav / Prashant Bhushan / Dipankar Bhattacharya (10 October), Rahul Gandhi–Neha Bora public contact (12–13 October), and the Dipke–Bora–Bhushan–Prakash Raj media panel (15 October).
 - A Congress–Dipke meeting is not treated as established; reported outreach contains contradictory anonymous accounts. A transitive contact path via Neha Bora does not prove a direct Gandhi–Dipke meeting, campaign command or party control.
-- Eight historical and ongoing lines of inquiry remain outside the verified-contact ledger unless independently corroborated by dated records. No private addresses or non-public communications are published.
+- Six historical and ongoing lines of inquiry remain outside the verified-contact ledger unless independently corroborated by dated records. No private addresses or non-public communications are published.
 
 ## Research update, 18 October 2026 (IST): Sharp, Otpor, CANVAS and CJP
 
