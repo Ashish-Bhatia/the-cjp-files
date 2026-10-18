@@ -6,6 +6,7 @@ The reader-facing site has been rebuilt in a shared editorial design. The GitHub
 
 Public paths:
 - `index.html`: editorial front page and current context.
+- `origins-and-parallels.html`: source-linked individual histories from 2014 and comparative reporting on Bangladesh, Nepal, France, Italy, Albania and Serbia; no unverified transnational instruction chain asserted.
 - `timeline.html`: searchable and month-filtered **110** dated, source-linked events.
 - `methods.html`: searchable/filterable **198** Gene Sharp methods; 16 observed, 16 possible, 1 announced, 165 not established.
 - `myth-vs-reality.html`: searchable **128** reviews of actual public speeches, interviews and press remarks.
