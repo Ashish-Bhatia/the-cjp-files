@@ -1,0 +1,266 @@
+{
+  "reviewed": "2026-10-19",
+  "scope": "Selected individually sourced records, not an exhaustive census.",
+  "events": [
+    {
+      "id": "E01",
+      "date": "2026-05-15",
+      "location": "New Delhi",
+      "organiser": "Judiciary",
+      "category": "Background",
+      "title": "Courtroom remark sparks controversy",
+      "summary": "The Chief Justice's remarks during a hearing became a viral controversy. His subsequent clarification said his comments concerned people using bogus professional degrees, not young people as a whole.",
+      "sources": [
+        "S01"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E02",
+      "date": "2026-06-06",
+      "location": "New Delhi",
+      "organiser": "CJP",
+      "category": "Organisation",
+      "title": "First documented major Jantar Mantar mobilisation",
+      "summary": "CJP founder Abhijeet Dipke arrived in Delhi; police granted permission for a demonstration about recruitment and examination irregularities.",
+      "sources": [
+        "S02"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E03",
+      "date": "2026-06-15",
+      "location": "Jaipur",
+      "organiser": "CJP",
+      "category": "Violence",
+      "title": "Dipke assaulted at Jaipur demonstration",
+      "summary": "Indian Express reported the founder was assaulted as he entered a protest and five suspects were arrested.",
+      "sources": [
+        "S04"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "E04",
+      "date": "2026-07-20",
+      "location": "New Delhi",
+      "organiser": "CJP",
+      "category": "Protest and public order",
+      "title": "Parliament march meets barricades and police force",
+      "summary": "Large crowds attempted to move toward Parliament. Police employed batons and tear gas; injuries and clashes were reported.",
+      "sources": [
+        "S33"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E05",
+      "date": "2026-07-21",
+      "location": "New Delhi",
+      "organiser": "Delhi Police",
+      "category": "Legal",
+      "title": "Police detail July march injuries and FIRs",
+      "summary": "Police figures and allegations of property damage were reported; these do not independently resolve responsibility for each incident.",
+      "sources": [
+        "S06"
+      ],
+      "status": "Disputed"
+    },
+    {
+      "id": "E06",
+      "date": "2026-07-25",
+      "location": "New Delhi",
+      "organiser": "CJP",
+      "category": "Government response",
+      "title": "Education minister resigns; agitation withdrawn",
+      "summary": "Dharmendra Pradhan resigned. CJP publicly announced an end to its agitation after government negotiations.",
+      "sources": [
+        "S07"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E07",
+      "date": "2026-08-24",
+      "location": "New Delhi",
+      "organiser": "CJP",
+      "category": "Organisation",
+      "title": "National Working Committee meeting announced",
+      "summary": "CJP called its committee to review government commitments and possible renewed peaceful agitation. Meeting outcome not verified.",
+      "sources": [
+        "S09"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "E08",
+      "date": "2026-10-02",
+      "location": "Mumbai",
+      "organiser": "CJP",
+      "category": "Protest",
+      "title": "Electoral-roll campaign intensifies",
+      "summary": "Reuters reported CJP demonstrations demanding Chief Election Commissioner Gyanesh Kumar resign over contested electoral-roll revisions.",
+      "sources": [
+        "S10"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E09",
+      "date": "2026-10-02",
+      "location": "New Delhi",
+      "organiser": "AISA / AAP / others",
+      "category": "Protest",
+      "title": "Multiple groups join Delhi demonstrations",
+      "summary": "Indian Express documented activists and political figures participating in demonstrations against the Election Commission.",
+      "sources": [
+        "S11"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E10",
+      "date": "2026-10-09",
+      "location": "Itarsi, Madhya Pradesh",
+      "organiser": "AISF / student groups",
+      "category": "Public order",
+      "title": "Students travelling to Delhi detained",
+      "summary": "At least 14 students travelling for the October 10 demonstration were detained, according to Indian Express reporting.",
+      "sources": [
+        "S28"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "E11",
+      "date": "2026-10-10",
+      "location": "New Delhi",
+      "organiser": "CJP",
+      "category": "Public order",
+      "title": "Leaders detained on arrival for Jantar Mantar demonstration",
+      "summary": "Dipke, Saurav Das and Ashutosh Ranka were detained after landing in Delhi amid a policing operation.",
+      "sources": [
+        "S12"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E12",
+      "date": "2026-10-11",
+      "location": "Panaji, Goa",
+      "organiser": "CJP affiliate",
+      "category": "Legal",
+      "title": "Goa protesters detained",
+      "summary": "Seven people were detained around Azad Maidan and later ordered released by the Goa bench of the Bombay High Court.",
+      "sources": [
+        "S13"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E13",
+      "date": "2026-10-13",
+      "location": "New Delhi",
+      "organiser": "CJP",
+      "category": "Public order",
+      "title": "Jantar Mantar entry leads to fresh detentions",
+      "summary": "Reported 14 movement members entered the restricted site and were detained. Police alleged advance scouting.",
+      "sources": [
+        "S15"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "E14",
+      "date": "2026-10-14",
+      "location": "Online",
+      "organiser": "Public critics / CJP",
+      "category": "Funding allegation",
+      "title": "US-donor accusation and rebuttal",
+      "summary": "Mary Millben alleged US funding, while Dipke challenged foreign interference in Indian politics. No transaction record included.",
+      "sources": [
+        "S21"
+      ],
+      "status": "Unverified"
+    },
+    {
+      "id": "E15",
+      "date": "2026-10-15",
+      "location": "New Delhi",
+      "organiser": "CJP / AISA",
+      "category": "Political relations",
+      "title": "Joint public press conference",
+      "summary": "CJP and AISA speakers appeared together and called for the October 16 flag-hoisting programme.",
+      "sources": [
+        "S17"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E16",
+      "date": "2026-10-16",
+      "location": "New Delhi",
+      "organiser": "CJP / student groups",
+      "category": "Public order",
+      "title": "Lehra Do Tiranga rally and detentions",
+      "summary": "Reuters reported police detentions at Connaught Place; accounts of attendance and legal justification differ.",
+      "sources": [
+        "S18"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E17",
+      "date": "2026-10-17",
+      "location": "Pune",
+      "organiser": "CJP",
+      "category": "Protest",
+      "title": "Peaceful Pune rally reported",
+      "summary": "Local organisers raised flags and renewed calls for civil rights, detainees' release and opposition to the SIR process.",
+      "sources": [
+        "S20"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E18",
+      "date": "2026-10-17",
+      "location": "Bengaluru",
+      "organiser": "AISA / activists",
+      "category": "Public order",
+      "title": "Anti-SIR Town Hall gathering dispersed",
+      "summary": "Indian Express reported roughly 50 activists detained after police cited a designated-site restriction.",
+      "sources": [
+        "S29"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "E19",
+      "date": "2026-10-18",
+      "location": "New Delhi",
+      "organiser": "Delhi Police",
+      "category": "Digital allegation",
+      "title": "Police describe FIRs and disputed protest videos",
+      "summary": "Police reportedly registered cases involving prohibited gatherings and alleged fabricated clips; underlying media not forensically reviewed.",
+      "sources": [
+        "S19"
+      ],
+      "status": "Unverified"
+    },
+    {
+      "id": "E20",
+      "date": "2026-10-19",
+      "location": "Panaji, Goa",
+      "organiser": "Goa Police",
+      "category": "Legal",
+      "title": "FIR reported over alleged communal slogans",
+      "summary": "Indian Express reported an FIR against unidentified persons under BNS provisions; the alleged conduct is not adjudicated.",
+      "sources": [
+        "S14"
+      ],
+      "status": "Established"
+    }
+  ]
+}

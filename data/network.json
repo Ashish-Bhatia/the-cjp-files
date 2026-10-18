@@ -1,0 +1,134 @@
+{
+  "reviewed": "2026-10-19",
+  "nodes": [
+    {
+      "id": "N01",
+      "name": "Cockroach Janta Party",
+      "type": "Movement",
+      "x": 360,
+      "y": 190,
+      "detail": "Public 2026 movement, not established here as an ECI-registered political party."
+    },
+    {
+      "id": "N02",
+      "name": "Abhijeet Dipke",
+      "type": "Person",
+      "x": 120,
+      "y": 80,
+      "detail": "Public founder and organiser, identified in contemporaneous reporting."
+    },
+    {
+      "id": "N03",
+      "name": "Saurav Das",
+      "type": "Person",
+      "x": 585,
+      "y": 80,
+      "detail": "Public spokesperson and organiser; reported detained on 10 and 13 October."
+    },
+    {
+      "id": "N04",
+      "name": "Ashutosh Ranka",
+      "type": "Person",
+      "x": 595,
+      "y": 305,
+      "detail": "Public spokesperson; reported in custody after Jantar Mantar entry."
+    },
+    {
+      "id": "N05",
+      "name": "AISA",
+      "type": "Student organisation",
+      "x": 130,
+      "y": 305,
+      "detail": "Jointly addressed an October 15 press event with CJP representatives."
+    },
+    {
+      "id": "N06",
+      "name": "Neha Bora",
+      "type": "Person",
+      "x": 40,
+      "y": 210,
+      "detail": "Reported national AISA leader, present at October demonstrations."
+    },
+    {
+      "id": "N07",
+      "name": "Election Commission",
+      "type": "Institution",
+      "x": 360,
+      "y": 375,
+      "detail": "Public institution targeted by CJP's resignation demand; no implication of affiliation."
+    },
+    {
+      "id": "N08",
+      "name": "SFI",
+      "type": "Student organisation",
+      "x": 590,
+      "y": 210,
+      "detail": "Aishe Ghosh appeared at a public event with CJP representatives; institution-wide coordination not inferred."
+    }
+  ],
+  "edges": [
+    {
+      "id": "R01",
+      "a": "N02",
+      "b": "N01",
+      "type": "Leadership position",
+      "date": "2026-06-06",
+      "source": "S02",
+      "note": "Founder identified in reporting."
+    },
+    {
+      "id": "R02",
+      "a": "N03",
+      "b": "N01",
+      "type": "Leadership position",
+      "date": "2026-10-05",
+      "source": "S30",
+      "note": "Co-convenor and spokesperson."
+    },
+    {
+      "id": "R03",
+      "a": "N04",
+      "b": "N01",
+      "type": "Leadership position",
+      "date": "2026-07-25",
+      "source": "S07",
+      "note": "Public spokesperson during negotiations."
+    },
+    {
+      "id": "R04",
+      "a": "N01",
+      "b": "N05",
+      "type": "Published collaboration",
+      "date": "2026-10-15",
+      "source": "S17",
+      "note": "Public event and announced October 16 flag campaign."
+    },
+    {
+      "id": "R05",
+      "a": "N05",
+      "b": "N06",
+      "type": "Leadership position",
+      "date": "2026-10-02",
+      "source": "S11",
+      "note": "AISA national president named in reporting."
+    },
+    {
+      "id": "R06",
+      "a": "N01",
+      "b": "N07",
+      "type": "Documented disagreement",
+      "date": "2026-10-02",
+      "source": "S10",
+      "note": "Public call for CEC resignation; not affiliation."
+    },
+    {
+      "id": "R07",
+      "a": "N01",
+      "b": "N08",
+      "type": "Recorded meeting",
+      "date": "2026-10-15",
+      "source": "S17",
+      "note": "Aishe Ghosh (SFI) documented at multi-group press event. This establishes co-appearance at a public meeting only."
+    }
+  ]
+}

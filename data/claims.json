@@ -1,0 +1,134 @@
+{
+  "reviewed": "2026-10-19",
+  "claims": [
+    {
+      "id": "C01",
+      "claim": "The Chief Justice described all unemployed Indian young people as cockroaches.",
+      "claimant": "Widely circulated paraphrase of May courtroom remarks",
+      "claimDate": "2026-05-15",
+      "original": "S01",
+      "support": [
+        "S01"
+      ],
+      "against": [
+        "S01"
+      ],
+      "status": "Contradicted",
+      "reason": "The recorded controversy is real, but the Chief Justice explicitly said he had criticised bogus-degree holders. No full certified courtroom transcript was obtained.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C02",
+      "claim": "CJP's June demonstrations called for the education minister's resignation over examinations.",
+      "claimant": "CJP public campaign",
+      "claimDate": "2026-06-06",
+      "original": "S03",
+      "support": [
+        "S02",
+        "S03"
+      ],
+      "against": [],
+      "status": "Established",
+      "reason": "Contemporaneous direct reporting identifies the event, location and demand.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C03",
+      "claim": "CJP was financed by US donors seeking to destabilise India.",
+      "claimant": "Mary Millben",
+      "claimDate": "2026-10-14",
+      "original": "S22",
+      "support": [
+        "S22"
+      ],
+      "against": [
+        "S21"
+      ],
+      "status": "Unverified",
+      "reason": "The statement and Dipke's response are recorded, but none of the sources inspected contains a payer, recipient, transaction, amount, grant agreement or audited filing.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C04",
+      "claim": "The Karnataka government paid to finance Delhi CJP protests.",
+      "claimant": "H. D. Kumaraswamy",
+      "claimDate": "2026-10-16",
+      "original": "S38",
+      "support": [
+        "S38"
+      ],
+      "against": [],
+      "status": "Unverified",
+      "reason": "A public political allegation was reported; no treasury authorisation, expenditure entry or recipient confirmation was obtained.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C05",
+      "claim": "CJP worked operationally with CANVAS or the Albert Einstein Institution in 2026.",
+      "claimant": "A possible influence hypothesis, not an established attributed allegation",
+      "claimDate": "2026-10-19",
+      "original": "S23",
+      "support": [],
+      "against": [],
+      "status": "No evidence found",
+      "reason": "The scoped official and reputable sources surveyed describe the foreign organisations' public teachings, but identify no CJP contract, participant record, grant or communication. Absence is not disproof.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C06",
+      "claim": "CJP representatives and AISA leaders jointly promoted an October 16 protest.",
+      "claimant": "Publicly reported October 15 event",
+      "claimDate": "2026-10-15",
+      "original": "S17",
+      "support": [
+        "S17"
+      ],
+      "against": [],
+      "status": "Established",
+      "reason": "Public press conference and published event photograph establish open cooperation on a specific event, not funding or internal command arrangements.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C07",
+      "claim": "The Goa High Court questioned the legal basis of seven protest detentions.",
+      "claimant": "Goa bench of Bombay High Court, as quoted by Indian Express",
+      "claimDate": "2026-10-11",
+      "original": "S13",
+      "support": [
+        "S13"
+      ],
+      "against": [],
+      "status": "Supported",
+      "reason": "A contemporary report quotes a judicial order and records release. The certified signed order remains to be attached.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C08",
+      "claim": "Police proved that all October protest videos identified as fabricated were AI-generated.",
+      "claimant": "Stronger interpretation of police FIR reporting",
+      "claimDate": "2026-10-18",
+      "original": "S19",
+      "support": [],
+      "against": [
+        "S19"
+      ],
+      "status": "Unverified",
+      "reason": "A report of police suspicion and a registered case is not a media-authenticity determination. Original media, hashes and independent visual analysis are missing.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C09",
+      "claim": "The 2026 SIR process occurred.",
+      "claimant": "Election Commission of India",
+      "claimDate": "2026",
+      "original": "S26",
+      "support": [
+        "S26"
+      ],
+      "against": [],
+      "status": "Established",
+      "reason": "Election Commission's own public service portal references the 2026 Special Intensive Revision. This does not validate disputed disenfranchisement or bias allegations.",
+      "reviewed": "2026-10-19"
+    }
+  ]
+}
