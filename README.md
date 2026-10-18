@@ -16,6 +16,7 @@ Website: https://ashish-bhatia.github.io/the-cjp-files/
 - `school-audits.html` — Independent review of the School Thik Karo campaign and disputed school access.
 - `international-record.html` — UN report A/81/186, India’s response and evidence limitations.
 - `city-protests.html` — October 16–17 reporting from Delhi, Mumbai, Pune and Bengaluru; organisational and policing distinctions.
+- `identity-finance.html` — Competing party-name registration application, ECI status and individually disclosed prior donation to AAP.
 - `elections.html` — Special Intensive Revision and ECI controversy.
 - `world.html` — Historical Indian and international comparisons.
 - `sources.html` — Searchable public source library.
