@@ -15,7 +15,7 @@ The repository has been restarted from a clean slate. The new `index.html` is th
 | [research/data.json](research/data.json) | Portable evidence, events, public roles, ties, claims, hypotheses, coverage and backlog | Initial register |
 | [README.md](README.md) | Method, version tracking and volume progress | Current |
 
-At this edition the register comprises **20 source references, 16 selective dated events, 15 public-role entries, 4 typed ties, 6 assessed claims, 6 competing hypotheses and 14 open tasks**. These counts describe files created, **not** the number of all events, relationships or people associated with CJP.
+At this edition the register comprises **23 source references, 16 selective dated events, 15 public-role entries, 4 typed ties, 6 assessed claims, 6 competing hypotheses and 14 open tasks**. These counts describe files created, **not** the number of all events, relationships or people associated with CJP.
 
 No judgment is made from the absence of a source in the incomplete database.
 
@@ -108,7 +108,7 @@ Open a GitHub Issue with the exact claim, supporting public URL, original public
 - The 15 May complete courtroom transcript / audio is not authenticated.
 - The original website versions require archived verification.
 - A current ECI party-register search is pending.
-- No signed Delhi or Goa court orders, FIR case numbers or audited CJP accounts are captured.
+- A primary presidential communiqué is sourced. No signed Delhi or Goa court orders, FIR case numbers or audited CJP accounts are captured.
 - SIR removal totals have not been independently calculated from official denominators.
 - The 28 Indian states, 8 union territories and major regional languages have not been systematically searched.
 - The comparative programme has not verified direct foreign organisational links.
