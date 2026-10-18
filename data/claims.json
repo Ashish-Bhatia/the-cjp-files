@@ -188,6 +188,69 @@
       "status": "Unverified",
       "reason": "Singh's allegations are recorded, and police did not immediately respond in that report. The actual SEM docket, order sheets, surety assessments and any further court ruling are needed before deciding procedural legality.",
       "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C14",
+      "claim": "Delhi Police's facial-recognition system correctly identified all 2,873 persons as physically present at the July CJP protests.",
+      "claimant": "An unwarranted stronger interpretation of Delhi Police's August 17 affidavit",
+      "claimDate": "2026-08-17",
+      "original": "S55",
+      "support": [
+        "S55"
+      ],
+      "against": [
+        "S56"
+      ],
+      "status": "Contradicted",
+      "reason": "The Indian Express checked 205 serious-charge records and found at least 25 matches for persons already in jail when supposedly seen at the protest. Police stated independent field verification was necessary. The 25 is a documented journalistic finding, not a separately replicated complete audit or an overall system false-positive rate.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C15",
+      "claim": "The Supreme Court's September 1 order conclusively established that the 2,873 people identified by police committed protest-related offences.",
+      "claimant": "Possible misreading of the judicial exception",
+      "claimDate": "2026-09-01",
+      "original": "S54",
+      "support": [],
+      "against": [
+        "S54",
+        "S56"
+      ],
+      "status": "Contradicted",
+      "reason": "The Court permitted police to register a fresh FIR involving persons described in the application, expressly preserving affected parties' legal remedies. It did not adjudicate individual guilt, verify biometric identity or convict the listed persons.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C16",
+      "claim": "The Greater Noida executive magistrate who issued the Rs 5 lakh bond notice was the officer suspended after Supreme Court criticism.",
+      "claimant": "Interpretation of initial courtroom submissions reported September 10",
+      "claimDate": "2026-09-10",
+      "original": "S57",
+      "support": [],
+      "against": [
+        "S57",
+        "S58"
+      ],
+      "status": "Contradicted",
+      "reason": "UP DGP Headquarters reportedly clarified that a sub-inspector who served/forwarded the notice, not the executive magistrate who issued it, was suspended. The student later challenged the account in court. Neither the filed documents nor final disposition was independently obtained.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C17",
+      "claim": "Any CJP-branded website's self-described membership totals or 'official' label establish the protest movement's audited size and legal organisation.",
+      "claimant": "Potential inference from competing CJP-branded site presentations",
+      "claimDate": "2026-10-19",
+      "original": "S60",
+      "support": [],
+      "against": [
+        "S59",
+        "S60",
+        "S61",
+        "S62"
+      ],
+      "status": "Unverified",
+      "reason": "Multiple distinct sites claim official status or identify themselves as separate satire projects. No independent cross-site domain-control, legal-entity or membership audit has been completed; site counters are not valid national counts.",
+      "reviewed": "2026-10-19"
     }
   ]
 }
