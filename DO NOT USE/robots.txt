@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://ashish-bhatia.github.io/the-cjp-files/sitemap.xml
