@@ -13,6 +13,8 @@ Website: https://ashish-bhatia.github.io/the-cjp-files/
 - `claims.html` — Claims and source-linked factual assessments.
 - `law.html` — Supreme Court decisions and reported police proceedings.
 - `october-dossier.html` — October procedural evidence, public funding claim audit and pending documents.
+- `school-audits.html` — Independent review of the School Thik Karo campaign and disputed school access.
+- `international-record.html` — UN report A/81/186, India’s response and evidence limitations.
 - `elections.html` — Special Intensive Revision and ECI controversy.
 - `world.html` — Historical Indian and international comparisons.
 - `sources.html` — Searchable public source library.
