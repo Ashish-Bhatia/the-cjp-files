@@ -47,3 +47,12 @@ html[data-theme=dark] .claim-class.unverified{background:#414b50;color:#e6eff0}
 .network-legend span{display:inline-flex;align-items:center;gap:7px}
 .network-legend i{display:inline-block;width:30px;border-top:2px solid #a8c2b5}
 .network-legend i.dashed{border-top-style:dashed}
+
+/* Editorial interaction refinements, October 2026 */
+:where(a,button,input,select):focus-visible{outline:3px solid #a8d97b;outline-offset:4px}
+@media (prefers-reduced-motion:no-preference){
+  .story-feature,.story-tile,.data-card,.timeline-panel{transition:transform .22s ease,box-shadow .22s ease,border-color .22s ease}
+  .story-feature:hover,.story-tile:hover,.data-card:hover{transform:translateY(-4px);box-shadow:0 18px 35px rgba(11,34,28,.11)}
+  .timeline-panel:hover{transform:translateX(3px)}
+}
+@media (prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation-duration:.01ms!important;transition-duration:.01ms!important}}
