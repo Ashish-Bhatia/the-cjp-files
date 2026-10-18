@@ -488,6 +488,121 @@
       "reliability": "Academic publication; suitability limited to comparative background",
       "related_entities": [],
       "analyst_notes": "The research concerns Bangladesh in 2024, not a CJP organisational relationship. Month-year publication treated as approximate."
+    },
+    {
+      "id": "SRC-024",
+      "workstream": "elections and law",
+      "publisher": "Supreme Court of India",
+      "title": "ADR v Election Commission of India: Bihar SIR, 2026 INSC 564, judicial summary",
+      "author_or_issuing_authority": null,
+      "url": "https://www.sci.gov.in/landmark-judgment-summaries/",
+      "publication_date": "2026-05-27",
+      "event_date": null,
+      "accessed": "2026-10-19",
+      "document_type": "Supreme Court official explanatory summary (not binding judgment)",
+      "language": "en",
+      "archive_url": null,
+      "page_or_excerpt": null,
+      "verification_status": "Primary judicial summary verified; decision full PDF not inspected",
+      "authenticity_notes": "Official summary expressly says it is not part of the decision. Upholds 2025 Bihar SIR, allows ECI limited eligibility inquiry; not a blanket ruling on subsequent nationwide SIR conduct. Full judgment PDF URL linked separately in research chapter.",
+      "contradictory_sources": [],
+      "reliability": "High for court-issued summary but not a substitute for signed judgment",
+      "related_entities": [
+        "Election Commission of India"
+      ],
+      "analyst_notes": "Official summary expressly says it is not part of the decision. Upholds 2025 Bihar SIR, allows ECI limited eligibility inquiry; not a blanket ruling on subsequent nationwide SIR conduct. Full judgment PDF URL linked separately in research chapter."
+    },
+    {
+      "id": "SRC-025",
+      "workstream": "elections and law",
+      "publisher": "The Indian Express",
+      "title": "Court clarifies modified Form 6 had not been approved or rejected",
+      "author_or_issuing_authority": null,
+      "url": "https://indianexpress.com/article/legal-news/sc-form-6-10918144/",
+      "publication_date": "2026-10-12",
+      "event_date": null,
+      "accessed": "2026-10-19",
+      "document_type": "Contemporary court reporting",
+      "language": "en",
+      "archive_url": null,
+      "page_or_excerpt": null,
+      "verification_status": "Independently reported secondary description",
+      "authenticity_notes": "Modified Form 6 used in later SIR was not before Court in May judgment. Original signed October order pending.",
+      "contradictory_sources": [],
+      "reliability": "Credible independent reporting, primary court record outstanding",
+      "related_entities": [
+        "Election Commission of India"
+      ],
+      "analyst_notes": "Modified Form 6 used in later SIR was not before Court in May judgment. Original signed October order pending."
+    },
+    {
+      "id": "SRC-026",
+      "workstream": "elections and law",
+      "publisher": "The Indian Express",
+      "title": "Supreme Court seeks replies in October electoral and protest-site litigation",
+      "author_or_issuing_authority": null,
+      "url": "https://indianexpress.com/article/legal-news/supreme-court-seeks-response-of-centre-delhi-police-on-plea-challenging-removal-of-jantar-mantar-as-protest-site-10922726/",
+      "publication_date": "2026-10-16",
+      "event_date": null,
+      "accessed": "2026-10-19",
+      "document_type": "Contemporary court reporting",
+      "language": "en",
+      "archive_url": null,
+      "page_or_excerpt": null,
+      "verification_status": "Independently reported secondary description",
+      "authenticity_notes": "October notices / evidence-preservation directions were interim; not final judicial findings on police conduct or electoral deletion.",
+      "contradictory_sources": [],
+      "reliability": "Credible independent reporting, primary court record outstanding",
+      "related_entities": [
+        "Election Commission of India"
+      ],
+      "analyst_notes": "October notices / evidence-preservation directions were interim; not final judicial findings on police conduct or electoral deletion."
+    },
+    {
+      "id": "SRC-027",
+      "workstream": "elections and law",
+      "publisher": "The Indian Express",
+      "title": "High Court orders interim release of seven detained Goa protesters",
+      "author_or_issuing_authority": null,
+      "url": "https://indianexpress.com/article/india/goa-high-court-orders-release-of-seven-protesters-cec-gyanesh-kumar-10917166/",
+      "publication_date": "2026-10-12",
+      "event_date": null,
+      "accessed": "2026-10-19",
+      "document_type": "Contemporary first-hand court-order reporting",
+      "language": "en",
+      "archive_url": null,
+      "page_or_excerpt": null,
+      "verification_status": "Independently reported secondary description",
+      "authenticity_notes": "Court observed detention may not have been authorised absent Section 163 BNSS prohibitory order. Police defence and merits remain pending; signed order not obtained.",
+      "contradictory_sources": [],
+      "reliability": "Credible independent reporting, primary court record outstanding",
+      "related_entities": [
+        "Election Commission of India"
+      ],
+      "analyst_notes": "Court observed detention may not have been authorised absent Section 163 BNSS prohibitory order. Police defence and merits remain pending; signed order not obtained."
+    },
+    {
+      "id": "SRC-028",
+      "workstream": "elections and law",
+      "publisher": "LiveLaw",
+      "title": "Goa police justify detention after High Court release order",
+      "author_or_issuing_authority": null,
+      "url": "https://www.livelaw.in/high-court/bombay-high-court/after-bombay-high-court-orders-release-of-cjp-members-goa-police-justifies-detention-citing-past-violations-patronising-umar-khalid-554371",
+      "publication_date": "2026-10-13",
+      "event_date": null,
+      "accessed": "2026-10-19",
+      "document_type": "Court and police statement reporting",
+      "language": "en",
+      "archive_url": null,
+      "page_or_excerpt": null,
+      "verification_status": "Independently reported secondary description",
+      "authenticity_notes": "Case numbers WP(F) 2830/2026 and WP(F) 2831/2026 reported; official court docket and signed order not yet verified.",
+      "contradictory_sources": [],
+      "reliability": "Credible independent reporting, primary court record outstanding",
+      "related_entities": [
+        "Election Commission of India"
+      ],
+      "analyst_notes": "Case numbers WP(F) 2830/2026 and WP(F) 2831/2026 reported; official court docket and signed order not yet verified."
     }
   ],
   "events": [
@@ -1254,10 +1369,12 @@
       "claimed_by": "reported judicial direction",
       "date": "2026-10-11",
       "source_ids": [
-        "SRC-014"
+        "SRC-014",
+        "SRC-027",
+        "SRC-028"
       ],
-      "classification": "Mostly true",
-      "assessment": "The Indian Express quotes a High Court order questioning legal authorisation and reporting release. Original signed order is still outstanding; no final finding against individual police officers is established.",
+      "classification": "Partly true",
+      "assessment": "A Bombay High Court Goa bench ordered interim release and observed that detention may not have been authorised. This is provisional judicial scrutiny, not a final liability ruling. Police later defended preventive measures. Original signed court records pending.",
       "support": [
         "Contemporary court reporting"
       ],
@@ -1281,6 +1398,25 @@
         "No verified direct relationship in reviewed material"
       ],
       "confidence": "high about the inference rule, unassessable about all private contacts"
+    },
+    {
+      "id": "CLM-007",
+      "claim": "The 27 May 2026 Supreme Court judgment fully approved all subsequent SIR practices including later revised Form 6",
+      "claimed_by": "A broad interpretation of the May judgment; exact attributable quotation to verify",
+      "date": "2026-10-12",
+      "source_ids": [
+        "SRC-024",
+        "SRC-025"
+      ],
+      "classification": "Misleading",
+      "assessment": "The judgment considered Bihar's 2025 SIR and upheld that procedure subject to the rules and safeguards described. Reported 12 October clarification said the later revised Form 6 was neither approved nor disapproved. Neither statement validates every separate 2026 deletion or electoral process.",
+      "support": [
+        "May judgment affirmed statutory basis for Bihar SIR"
+      ],
+      "contradiction": [
+        "Later rules and individual deletions require their own review"
+      ],
+      "confidence": "moderate-high on scope; October original order pending"
     }
   ],
   "hypotheses": [
@@ -1557,6 +1693,46 @@
       "confidence": "pending",
       "unresolved_issues": [],
       "next_step": "Establish public issues template and dated correction records; never publish private contacts."
+    },
+    {
+      "id": "TASK-015",
+      "scope": "Authenticate complete May 27 Bihar SIR decision and October Form 6 orders",
+      "priority": "Critical",
+      "status": "open",
+      "sources_reviewed": [
+        "SRC-024",
+        "SRC-025",
+        "SRC-026"
+      ],
+      "findings": [
+        "Court's official summary limits May decision to Bihar 2025 SIR; modified Form 6 requires separate review"
+      ],
+      "confidence": "moderate-high on May summary, lower for interim October court details",
+      "unresolved_issues": [
+        "Full 124-page judgment PDF not inspected",
+        "Signed October orders and exact petition numbers"
+      ],
+      "next_step": "Retrieve signed Supreme Court PDFs and extract holdings with page pinpoints."
+    },
+    {
+      "id": "TASK-016",
+      "scope": "Goa preventive detention ruling and follow-up hearing",
+      "priority": "High",
+      "status": "open",
+      "sources_reviewed": [
+        "SRC-027",
+        "SRC-028"
+      ],
+      "findings": [
+        "Court interim release reported, W.P.(F) case IDs reported"
+      ],
+      "confidence": "moderate",
+      "unresolved_issues": [
+        "Signed order",
+        "Police affidavit",
+        "October 19 hearing outcome"
+      ],
+      "next_step": "Search HC Bombay Goa order portal using reported writ numbers and record later procedural status."
     }
   ],
   "coverage": {
@@ -1576,7 +1752,8 @@
     "languages_not_exhaustively_searched": true,
     "primary_legal_files_collected": 0,
     "primary_financial_filings_collected": 0,
-    "quantitative_assessment": "No exhaustive sample, no statistically defensible attendance or growth trend."
+    "quantitative_assessment": "No exhaustive sample, no statistically defensible attendance or growth trend.",
+    "primary_judicial_explanatory_summaries_reviewed": 1
   },
   "registers": {
     "funding": [
@@ -1618,19 +1795,21 @@
         "id": "LEG-002",
         "incident_event_id": "EVT-011",
         "jurisdiction": "Panaji, Goa / Bombay High Court at Goa",
-        "case_identifier": null,
+        "case_identifier": "WP(F) 2830/2026 and WP(F) 2831/2026, reported; pending court-docket crosscheck",
         "alleged_offence": "Detention legality in reported habeas petition",
         "parties": "Seven protesters versus state authorities, precise title not confirmed",
-        "statutory_provision": null,
+        "statutory_provision": "BNSS §§163 and 172(2) mentioned in reported hearing, operative provisions disputed",
         "filing_date": null,
         "reported_action_date": "2026-10-11",
-        "procedural_status": "Release directed according to contemporaneous reporting; signed order outstanding",
+        "procedural_status": "11 October interim release directed, with judicial observation against apparent authorisation; police disputed legality assessment subsequently. Final disposition unverified.",
         "source_ids": [
-          "SRC-014",
-          "SRC-020"
+          "SRC-027",
+          "SRC-028",
+          "SRC-014"
         ],
-        "verification_status": "secondary reporting only",
-        "next_step": "Obtain signed High Court order, petition ID and release compliance."
+        "verification_status": "contemporary courtroom reporting; signed order outstanding",
+        "next_step": "Obtain signed High Court order, petition ID and release compliance.",
+        "statitory_provision": null
       },
       {
         "id": "LEG-003",
@@ -1648,6 +1827,42 @@
         ],
         "verification_status": "secondary reporting only",
         "next_step": "Obtain actual FIR, complaint, any video provenance, and court progress."
+      },
+      {
+        "id": "LEG-004",
+        "incident_event_id": null,
+        "jurisdiction": "Supreme Court of India, New Delhi",
+        "case_identifier": "W.P.(C) 640/2025, Association for Democratic Reforms v Election Commission of India, 2026 INSC 564",
+        "alleged_offence": null,
+        "parties": "ADR and other petitioners versus Election Commission of India",
+        "statutory_provision": "Articles 324, 325, 326 of Constitution; Representation of the People Act 1950 §§21(3), 24; Registration of Electors Rules 1960",
+        "filing_date": null,
+        "reported_action_date": "2026-05-27",
+        "procedural_status": "May 27 final decision on Bihar 2025 SIR, upholding its legality with specified safeguards; later SIR and Form 6 controversies distinct",
+        "source_ids": [
+          "SRC-024",
+          "SRC-025"
+        ],
+        "verification_status": "official judicial summary inspected; full signed judgment PDF not directly inspected",
+        "next_step": "Download official 124-page judgment, inspect pages and operative paragraphs, track October petitions separately"
+      },
+      {
+        "id": "LEG-005",
+        "incident_event_id": null,
+        "jurisdiction": "Supreme Court of India",
+        "case_identifier": "Multiple 2026 petitions on electoral decisions / modified Form 6, exact docket pending",
+        "alleged_offence": null,
+        "parties": "Petitioners incl public political actors versus ECI",
+        "statutory_provision": "Articles 324 and 326; Representation of the People Act 1950; disputed delegated forms",
+        "filing_date": null,
+        "reported_action_date": "2026-10-15",
+        "procedural_status": "Court sought replies and decision records; no final merits ruling established",
+        "source_ids": [
+          "SRC-025",
+          "SRC-026"
+        ],
+        "verification_status": "secondary courtroom reporting only",
+        "next_step": "Confirm separately docketed petitions and signed orders, especially October 12 and 15 proceedings."
       }
     ],
     "organisations": [
