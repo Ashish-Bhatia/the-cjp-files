@@ -43,9 +43,9 @@ This is a documented public organisational act. It does not establish the rules 
 
 ### Finding 5: Reported protests show a transition from media to mobilisation
 
-On **6 June 2026**, Reuters reported a public demonstration in New Delhi led by Dipke after his return from the United States. The protest demanded Union Education Minister Dharmendra Pradhan's resignation amid examination irregularities. Reuters subsequently reported that Pradhan resigned by 22 July following extensive youth and student protests. The available reporting supports chronological association and CJP's publicly observed mobilisation. It does **not** by itself prove that CJP alone caused a ministerial resignation. Independent student organisers and the government's own decision-making chronology must be reconstructed before assigning relative causal weight.
+On **6 June 2026**, Reuters reported a public demonstration in New Delhi led by Dipke after his return from the United States. The protest demanded Union Education Minister Dharmendra Pradhan's resignation amid examination irregularities. Reuters reported Pradhan's resignation on **22 July**, but a [25 July presidential communiqué](https://www.presidentofindia.gov.in/press_releases/press-communique-35) formally accepted it with immediate effect under Article 75(2). The publication date of a news report must therefore be separated from the dated constitutional act. The available record supports chronological association and CJP's publicly observed mobilisation. It does **not** by itself prove that CJP alone caused a ministerial resignation. Independent student organisers and the government's own decision-making chronology must be reconstructed before assigning relative causal weight.
 
-**Sources:** [Reuters, 6 June](https://www.reuters.com/world/india/indias-cockroach-youth-movement-founder-arrives-new-delhi-protest-modi-2026-06-06/); [Reuters, 22 July](https://www.reuters.com/world/india/whats-behind-indias-cockroach-youth-protests-2026-07-22/).
+**Sources:** [Reuters, 6 June](https://www.reuters.com/world/india/indias-cockroach-youth-movement-founder-arrives-new-delhi-protest-modi-2026-06-06/); [Reuters, 22 July](https://www.reuters.com/world/india/whats-behind-indias-cockroach-youth-protests-2026-07-22/); [President of India, 25 July primary communiqué](https://www.presidentofindia.gov.in/press_releases/press-communique-35).
 
 ### Finding 6: National roles were formally announced in August
 
@@ -100,7 +100,7 @@ This phase cannot be fully assessed until the **actual FIRs, preventive custody 
 | 22 May | Reported withholding of original X account and public exam-related petition | Official blocking directive outstanding |
 | 3 June | CJP press conference and three spokesperson appointments | First-party announcement reported |
 | 6 June | Street protest led by Dipke in Delhi | Reuters on-scene report |
-| By 22 July | Pradhan resignation reported amid broad student demonstrations | Official appointment/resignation records pending |
+| 22 July | Reuters reports Pradhan resignation amid broad student demonstrations | Publication date, not formal acceptance |\n| 25 July | President accepts Pradhan resignation under Article 75(2) | Official primary communiqué verified |
 | 6 August | National Working Committee announcement | First-party statement reproduced in reporting |
 | 10–16 October | Separate electoral protest actions and police responses | Primary case records needed |
 | 18 October | Goa FIR reported concerning October 11 slogans | Allegations not adjudicated |
@@ -121,7 +121,7 @@ This phase cannot be fully assessed until the **actual FIRs, preventive custody 
 - Transcript or authenticated audio of 15 May courtroom exchange, with case number.
 - Original full CJP National Working Committee statement of 6 August.
 - Dated official ECI political-party register and identification of exact name variants.
-- Government gazette or parliamentary record of Pradhan's resignation.
+- Review ministerial swearing-in / portfolio consequences; the [President's 25 July resignation acceptance](https://www.presidentofindia.gov.in/press_releases/press-communique-35) is now collected.
 - Delhi custody/FIR case numbers and signed magistrate orders for October.
 - Goa High Court habeas case number and signed order; actual FIR and police complaint.
 - Public MCA/FCRA records, verified organisational filings and funding disclosures.
@@ -129,7 +129,7 @@ This phase cannot be fully assessed until the **actual FIRs, preventive custody 
 
 ## Record integrity and limitations
 
-The accompanying [machine-readable research register](data.json) contains source IDs, dated public-role records, a selective event ledger, relationship classes, claims and backlog items. It is *not* a nationwide complete census. The research examined selected English-language and Hindi-language sources and concentrated on nationally reported events plus Delhi, Maharashtra and Goa. No original court order, primary financial ledger or complete all-state enumeration has been collected.
+The accompanying [machine-readable research register](data.json) contains source IDs, dated public-role records, a selective event ledger, relationship classes, claims and backlog items. It is *not* a nationwide complete census. The research examined selected English-language and Hindi-language sources and concentrated on nationally reported events plus Delhi, Maharashtra and Goa. A primary presidential communiqué is collected. No original court order, primary financial ledger or complete all-state enumeration has been collected.
 
 Corrections should identify the precise claim, replacement evidence, original publication date and changed assessment. Do not add private addresses, unpublished personal records or unsupported personal allegations.
 
