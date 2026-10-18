@@ -11,7 +11,7 @@ The repository has been restarted from a clean slate. The new `index.html` is th
 | File | Purpose | Status |
 |---|---|---|
 | [index.html](index.html) | Responsive editorial homepage with searchable public records | Published to main |
-| [research/01-origins.md](research/01-origins.md) | Volume 1 foundation: creation, aims, public people, first chronology and limits | Foundational draft |
+| [research/01-origins.md](research/01-origins.md) | Volume 1 foundation: creation, aims, public people, first chronology and limits | Foundational draft |\n| [research/14-hypotheses.md](research/14-hypotheses.md) | Volume 14: rival explanations and a selective Sharp-method matrix | Preliminary analytical chapter |
 | [research/data.json](research/data.json) | Portable evidence, events, public roles, ties, claims, hypotheses, coverage and backlog | Initial register |
 | [README.md](README.md) | Method, version tracking and volume progress | Current |
 
@@ -79,7 +79,7 @@ An unverified assertion must be *unsupported* or *unassessable*, not automatical
 | 11 | International comparisons | Study design; analytical historical chapters pending |
 | 12 | Civil resistance and strategy | Gene Sharp primary reference, method-level analysis pending |
 | 13 | External support and influence | No public transactional evidence verified in this edition |
-| 14 | Competing hypotheses | Six initial hypothesis records, initial qualitative confidence |
+| 14 | Competing hypotheses | Six preliminary assessments and a source-linked analytical chapter |
 | 15 | Final assessment | Not drafted; premature without evidence coverage |
 
 ### Immediate priorities
@@ -115,3 +115,7 @@ Open a GitHub Issue with the exact claim, supporting public URL, original public
 - No claim of exhaustive coverage or continuous autonomous monitoring is made.
 
 **Version 1.0.0 · Access date 19 October 2026.**
+
+## GitHub Pages deployment
+
+The repository includes [a static Pages workflow](.github/workflows/pages.yml), triggered by pushes to `main`. If the public Pages URL returns 404, check **Settings → Pages → Build and deployment → Source** and select **GitHub Actions**. Verify the **Deploy The CJP Files to GitHub Pages** workflow completes in Actions. The repository contents have been verified through GitHub; a successful public Pages deployment must be checked separately.
