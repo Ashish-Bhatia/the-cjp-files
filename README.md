@@ -12,6 +12,7 @@ Website: https://ashish-bhatia.github.io/the-cjp-files/
 - `network.html` — Interactive map of documented public relationships.
 - `claims.html` — Claims and source-linked factual assessments.
 - `law.html` — Supreme Court decisions and reported police proceedings.
+- `october-dossier.html` — October procedural evidence, public funding claim audit and pending documents.
 - `elections.html` — Special Intensive Revision and ECI controversy.
 - `world.html` — Historical Indian and international comparisons.
 - `sources.html` — Searchable public source library.
