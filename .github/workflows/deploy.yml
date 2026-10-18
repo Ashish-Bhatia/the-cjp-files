@@ -1,8 +1,8 @@
 name: Deploy The CJP Files to GitHub Pages
 
 on:
-  push:
-    branches: [main]
+  # Branch-based GitHub Pages publishes automatically. Re-enable push only if
+  # repository Pages source is changed to GitHub Actions.
   workflow_dispatch:
 
 permissions:
