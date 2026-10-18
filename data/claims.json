@@ -145,6 +145,49 @@
       "status": "Disputed",
       "reason": "Saurav Das publicly claimed widespread immediate closure. The district's education department denied any such closure order and said classes continued. No signed district-wide shutdown order or comprehensive attendance register has been reviewed.",
       "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C11",
+      "claim": "Kapil Sibal publicly announced Rs 1 crore for a CJP-associated student-protester legal-aid initiative on 27 July.",
+      "claimant": "Kapil Sibal, in a public press conference",
+      "claimDate": "2026-07-27",
+      "original": "S46",
+      "support": [
+        "S46",
+        "S47"
+      ],
+      "against": [],
+      "status": "Established",
+      "reason": "Multiple contemporaneous outlets documented a named contributor, amount and stated legal-aid purpose. An announcement or self-reported contribution does not independently establish an executed bank transfer, recipient books or financing of protest operations.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C12",
+      "claim": "A circulating October bail-bond image establishes that Dipke and other CJP organisers were barred from all protests for one year.",
+      "claimant": "Social-media accounts circulating a purported bail bond",
+      "claimDate": "2026-10-11",
+      "original": "S48",
+      "support": [],
+      "against": [
+        "S48"
+      ],
+      "status": "Contradicted",
+      "reason": "Alt News identified multiple inconsistencies in the circulating image and distinguished a peace-and-good-behaviour bond from a blanket ban on lawful assembly. Its image-generation determination is attributed to the fact-checker; no original signed court file was independently verified by this desk.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C13",
+      "claim": "The October 18 bail hearing was improperly delayed and four sureties were rejected without adequate reasons.",
+      "claimant": "CJP legal head Ratna Singh",
+      "claimDate": "2026-10-18",
+      "original": "S51",
+      "support": [
+        "S51"
+      ],
+      "against": [],
+      "status": "Unverified",
+      "reason": "Singh's allegations are recorded, and police did not immediately respond in that report. The actual SEM docket, order sheets, surety assessments and any further court ruling are needed before deciding procedural legality.",
+      "reviewed": "2026-10-19"
     }
   ]
 }
