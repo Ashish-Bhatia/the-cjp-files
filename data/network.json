@@ -72,6 +72,14 @@
       "x": 355,
       "y": 55,
       "detail": "Publicly appeared with CJP leaders and announced student-protester legal aid on 27 July; no recipient financial account or transfer has been independently verified."
+    },
+    {
+      "id": "N10",
+      "name": "Supreme Court of India",
+      "type": "Institution",
+      "x": 470,
+      "y": 392,
+      "detail": "1 September 2026 judicial order records CJP co-convenor's statement, the negotiated withdrawal of the September 5 march and limited July protest FIR relief; not an organisational ally of CJP."
     }
   ],
   "edges": [
@@ -146,6 +154,15 @@
       "date": "2026-07-27",
       "source": "S46",
       "note": "Announced Rs 1 crore for legal help with student-protester cases; evidence of declared support, not proven financing of protest operations or a verified bank transfer."
+    },
+    {
+      "id": "R09",
+      "a": "N01",
+      "b": "N10",
+      "type": "Court-recorded participation",
+      "date": "2026-09-01",
+      "source": "S54",
+      "note": "Saurav Das made a recorded statement as co-convenor of CJP in public proceedings. Shows an open, attributed institutional interaction, not hidden government command."
     }
   ]
 }
