@@ -147,11 +147,11 @@
       "archive_url": null,
       "page_or_excerpt": null,
       "verification_status": "independently located and reviewed as a secondary source",
-      "authenticity_notes": "Reports resignation and student grievances; does not alone identify a unique causal contribution attributable to CJP.",
+      "authenticity_notes": "Reuters reported minister resignation on 22 July; President's official acceptance was recorded on 25 July (SRC-021). Article publication is not the formal acceptance date.",
       "contradictory_sources": [],
       "reliability": "Credible for attributed reportage; underlying primary records pending",
       "related_entities": [],
-      "analyst_notes": "Reports resignation and student grievances; does not alone identify a unique causal contribution attributable to CJP."
+      "analyst_notes": "Reuters reported minister resignation on 22 July; President's official acceptance was recorded on 25 July (SRC-021). Article publication is not the formal acceptance date."
     },
     {
       "id": "SRC-008",
@@ -425,6 +425,69 @@
       "reliability": "Credible for attributed reportage; underlying primary records pending",
       "related_entities": [],
       "analyst_notes": "Find signed order and correct case reference; do not treat report as full judicial text."
+    },
+    {
+      "id": "SRC-021",
+      "workstream": "cross-cutting",
+      "publisher": "President of India",
+      "title": "Press Communique: acceptance of Dharmendra Pradhan's resignation",
+      "author_or_issuing_authority": null,
+      "url": "https://www.presidentofindia.gov.in/press_releases/press-communique-35",
+      "publication_date": "2026-07-25",
+      "event_date": null,
+      "accessed": "2026-10-19",
+      "document_type": "Official primary statement",
+      "language": "en",
+      "archive_url": null,
+      "page_or_excerpt": null,
+      "verification_status": "Official primary text located and read",
+      "authenticity_notes": "President of India accepted resignation with immediate effect 25 July 2026, irrespective of earlier media claims about resignation.",
+      "contradictory_sources": [],
+      "reliability": "Primary authentic government announcement",
+      "related_entities": [],
+      "analyst_notes": "President of India accepted resignation with immediate effect 25 July 2026, irrespective of earlier media claims about resignation."
+    },
+    {
+      "id": "SRC-022",
+      "workstream": "cross-cutting",
+      "publisher": "Journal of Asian and African Studies / SAGE",
+      "title": "Why Did They Rebel? Sri Lanka's Aragalaya and Bangladesh's 2024 Student/Youth Struggle",
+      "author_or_issuing_authority": null,
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/00219096251341583",
+      "publication_date": "2025-07-03",
+      "event_date": null,
+      "accessed": "2026-10-19",
+      "document_type": "Peer-reviewed comparative academic article",
+      "language": "en",
+      "archive_url": null,
+      "page_or_excerpt": null,
+      "verification_status": "Secondary analytical source located and reviewed",
+      "authenticity_notes": "The historical comparison identifies differing movement contexts; not evidence of links with CJP.",
+      "contradictory_sources": [],
+      "reliability": "Academic publication; suitability limited to comparative background",
+      "related_entities": [],
+      "analyst_notes": "The historical comparison identifies differing movement contexts; not evidence of links with CJP."
+    },
+    {
+      "id": "SRC-023",
+      "workstream": "cross-cutting",
+      "publisher": "Research in Globalization / Elsevier",
+      "title": "From revolt to revolution: motivating factors of Bangladesh's July 2024 uprising",
+      "author_or_issuing_authority": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S2590051X26000092",
+      "publication_date": "2026-06-01",
+      "event_date": null,
+      "accessed": "2026-10-19",
+      "document_type": "Open-access academic study",
+      "language": "en",
+      "archive_url": null,
+      "page_or_excerpt": null,
+      "verification_status": "Secondary analytical source located and reviewed",
+      "authenticity_notes": "The research concerns Bangladesh in 2024, not a CJP organisational relationship. Month-year publication treated as approximate.",
+      "contradictory_sources": [],
+      "reliability": "Academic publication; suitability limited to comparative background",
+      "related_entities": [],
+      "analyst_notes": "The research concerns Bangladesh in 2024, not a CJP organisational relationship. Month-year publication treated as approximate."
     }
   ],
   "events": [
@@ -595,26 +658,27 @@
     },
     {
       "id": "EVT-008",
-      "event_date": "2026-07-22",
-      "date_precision": "reported-by",
+      "event_date": "2026-07-25",
+      "date_precision": "day",
       "date_accessed": "2026-10-19",
       "publication_date": null,
       "location": "New Delhi, India",
-      "title": "Education minister resignation reported",
-      "summary": "Reuters reported that Dharmendra Pradhan had resigned amid prolonged exam protests; precise date and causal attribution remain to be checked against government records.",
+      "title": "President formally accepts education minister's resignation",
+      "summary": "Reuters reported the resignation on 22 July; the President's 25 July 2026 communiqué records formal acceptance with immediate effect under Article 75(2). Do not conflate reporting date and constitutional acceptance date, or assign sole causation to CJP.",
       "organiser": "CJP or named event parties where indicated",
       "stated_objective": null,
       "public_role_participants": [],
       "organisations": [],
       "source_ids": [
-        "SRC-007"
+        "SRC-007",
+        "SRC-021"
       ],
-      "primary_record_status": "not yet acquired",
+      "primary_record_status": "Authenticated public presidential communiqué linked",
       "attendance_claimed": null,
       "attendance_verified": null,
       "police_action": null,
       "legal_status": null,
-      "assessment": "reported outcome; event date approximate"
+      "assessment": "Official primary action 25 July; earlier Reuters publication separately recorded"
     },
     {
       "id": "EVT-009",
@@ -1515,9 +1579,117 @@
     "quantitative_assessment": "No exhaustive sample, no statistically defensible attendance or growth trend."
   },
   "registers": {
-    "funding": [],
-    "legal_cases": [],
-    "organisations": [],
+    "funding": [
+      {
+        "id": "FIN-001",
+        "date": "2026-08-06",
+        "type": "public representation, not an audited financial fact",
+        "party": "Cockroach Janta Party",
+        "statement": "Spokesperson Saurav Das said the organisation was not collecting funds at that point and warned of impersonators.",
+        "disclosed_amount": null,
+        "disclosed_donor": null,
+        "source_ids": [
+          "SRC-009"
+        ],
+        "verification_status": "reported organisational statement",
+        "next_step": "Check lawful public entity filings, actual fundraising posts and official transactions where disclosed."
+      }
+    ],
+    "legal_cases": [
+      {
+        "id": "LEG-001",
+        "incident_event_id": "EVT-013",
+        "jurisdiction": "New Delhi",
+        "case_identifier": null,
+        "alleged_offence": "Reported breach of protest-site restrictions / preventive process",
+        "parties": "Saurav Das and Ashutosh Ranka; exact procedural caption pending",
+        "statutory_provision": null,
+        "filing_date": null,
+        "reported_action_date": "2026-10-13",
+        "procedural_status": "Custody and remand reported; signed magistrate order not collected",
+        "source_ids": [
+          "SRC-012",
+          "SRC-015"
+        ],
+        "verification_status": "secondary reporting only",
+        "next_step": "Obtain police reference, bond and signed magistrate order; distinguish preventive detention and conviction."
+      },
+      {
+        "id": "LEG-002",
+        "incident_event_id": "EVT-011",
+        "jurisdiction": "Panaji, Goa / Bombay High Court at Goa",
+        "case_identifier": null,
+        "alleged_offence": "Detention legality in reported habeas petition",
+        "parties": "Seven protesters versus state authorities, precise title not confirmed",
+        "statutory_provision": null,
+        "filing_date": null,
+        "reported_action_date": "2026-10-11",
+        "procedural_status": "Release directed according to contemporaneous reporting; signed order outstanding",
+        "source_ids": [
+          "SRC-014",
+          "SRC-020"
+        ],
+        "verification_status": "secondary reporting only",
+        "next_step": "Obtain signed High Court order, petition ID and release compliance."
+      },
+      {
+        "id": "LEG-003",
+        "incident_event_id": "EVT-016",
+        "jurisdiction": "Panaji Police Station, Goa",
+        "case_identifier": null,
+        "alleged_offence": "Communal slogan allegations against unidentified people at 11 October protest",
+        "parties": "Police vs unidentified persons",
+        "statutory_provision": "BNS sections 196 and 299, as reported",
+        "filing_date": null,
+        "reported_action_date": "2026-10-18",
+        "procedural_status": "FIR registration reported; no convictions or identity-level attribution established",
+        "source_ids": [
+          "SRC-014"
+        ],
+        "verification_status": "secondary reporting only",
+        "next_step": "Obtain actual FIR, complaint, any video provenance, and court progress."
+      }
+    ],
+    "organisations": [
+      {
+        "id": "ORG-001",
+        "name": "Cockroach Janta Party",
+        "type": "public pressure movement",
+        "status": "self-described pressure group as of August 6, formal registration not independently verified",
+        "source_ids": [
+          "SRC-003",
+          "SRC-009"
+        ]
+      },
+      {
+        "id": "ORG-002",
+        "name": "Aam Aadmi Party",
+        "type": "Indian political party",
+        "status": "historical affiliation reported for founder 2020–2022 only; present organisational control unverified",
+        "source_ids": [
+          "SRC-003",
+          "SRC-010"
+        ]
+      },
+      {
+        "id": "ORG-003",
+        "name": "Indian National Congress",
+        "type": "Indian political party",
+        "status": "reported outreach to CJP October 2026; no formal alliance documented",
+        "source_ids": [
+          "SRC-011"
+        ]
+      },
+      {
+        "id": "ORG-004",
+        "name": "All India Students Association",
+        "type": "student political organisation",
+        "status": "separate student mobilisation during October; formal CJP ties not established",
+        "source_ids": [
+          "SRC-013"
+        ]
+      }
+    ],
     "international_comparisons": [
       {
         "name": "Gene Sharp / Albert Einstein Institution",
@@ -1526,6 +1698,23 @@
           "SRC-016"
         ],
         "direct_CJP_connection": "not established"
+      },
+      {
+        "name": "Sri Lanka Aragalaya (2022)",
+        "role": "Protest context comparison: economic grievances and broad-based participation",
+        "source_ids": [
+          "SRC-022"
+        ],
+        "direct_CJP_connection": "No direct link established or alleged in reviewed scholarship."
+      },
+      {
+        "name": "Bangladesh student mobilisation (2024)",
+        "role": "Comparative questions: student political identity, movement expansion, online-to-offline mobilisation",
+        "source_ids": [
+          "SRC-022",
+          "SRC-023"
+        ],
+        "direct_CJP_connection": "No direct link established in reviewed scholarship."
       }
     ],
     "open_questions": [
