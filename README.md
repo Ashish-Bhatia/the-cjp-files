@@ -2,6 +2,15 @@
 
 Editorial investigation on GitHub Pages: https://ashish-bhatia.github.io/the-cjp-files/
 
+## Research update, 18 October 2026 (IST): Sharp, Otpor, CANVAS and CJP
+
+- Published [Otpor/CANVAS comparative investigation](otpor-canvas.html), distinguishing the historical Gene Sharp → Otpor → CANVAS intellectual/personnel record from unverified CANVAS → CJP institutional contact.
+- Published [18 October source-linked research memorandum](research/investigation-2026-10-18-otpor-canvas.md), addressing Popović's *Blueprint for Revolution*, the 2007 CANVAS curriculum, Sharp's *The Politics of Nonviolent Action* and *From Dictatorship to Democracy*, and India-specific alternatives.
+- Updated [198-method live audit](research/sharp-198-audit.json): **16 documented, 16 possible, 1 announced, 165 not established** distinct method numbers. **34** sourced dated method occurrences. New documented method **#37 Singing** at 17 October Pune assembly; prior 17–19 October **#47** assembly forecast confirmed by Pune.
+- New low-confidence 19–21 October hypothesis: repeat **#1 Public Speeches**; alternative repeat **#47 Assemblies of protest or support**. No novel method prediction or scheduled event claimed.
+- Differentiated Bhushan's 15 October “regime change” public remarks from Dipke's 16 October stated objective and opponents' accusations. Court, custody and Goa FIR claims stay attributed; no verified CANVAS operational financing, command or foreign training link.
+- Site: https://ashish-bhatia.github.io/the-cjp-files/otpor-canvas.html. Main page now links to the new research.
+
 ## Research release, 15 October 2026 (IST)
 
 - **125** individually sourced statements from public speeches, recorded/reporting press conferences, press bytes and interviews.
