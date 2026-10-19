@@ -145,6 +145,191 @@
       "status": "Disputed",
       "reason": "Saurav Das publicly claimed widespread immediate closure. The district's education department denied any such closure order and said classes continued. No signed district-wide shutdown order or comprehensive attendance register has been reviewed.",
       "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C11",
+      "claim": "Kapil Sibal publicly announced Rs 1 crore for a CJP-associated student-protester legal-aid initiative on 27 July.",
+      "claimant": "Kapil Sibal, in a public press conference",
+      "claimDate": "2026-07-27",
+      "original": "S46",
+      "support": [
+        "S46",
+        "S47"
+      ],
+      "against": [],
+      "status": "Established",
+      "reason": "Multiple contemporaneous outlets documented a named contributor, amount and stated legal-aid purpose. An announcement or self-reported contribution does not independently establish an executed bank transfer, recipient books or financing of protest operations.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C12",
+      "claim": "A circulating October bail-bond image establishes that Dipke and other CJP organisers were barred from all protests for one year.",
+      "claimant": "Social-media accounts circulating a purported bail bond",
+      "claimDate": "2026-10-11",
+      "original": "S48",
+      "support": [],
+      "against": [
+        "S48"
+      ],
+      "status": "Contradicted",
+      "reason": "Alt News identified multiple inconsistencies in the circulating image and distinguished a peace-and-good-behaviour bond from a blanket ban on lawful assembly. Its image-generation determination is attributed to the fact-checker; no original signed court file was independently verified by this desk.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C13",
+      "claim": "The October 18 bail hearing was improperly delayed and four sureties were rejected without adequate reasons.",
+      "claimant": "CJP legal head Ratna Singh",
+      "claimDate": "2026-10-18",
+      "original": "S51",
+      "support": [
+        "S51"
+      ],
+      "against": [],
+      "status": "Unverified",
+      "reason": "Singh's allegations are recorded, and police did not immediately respond in that report. The actual SEM docket, order sheets, surety assessments and any further court ruling are needed before deciding procedural legality.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C14",
+      "claim": "Delhi Police's facial-recognition system correctly identified all 2,873 persons as physically present at the July CJP protests.",
+      "claimant": "An unwarranted stronger interpretation of Delhi Police's August 17 affidavit",
+      "claimDate": "2026-08-17",
+      "original": "S55",
+      "support": [
+        "S55"
+      ],
+      "against": [
+        "S56"
+      ],
+      "status": "Contradicted",
+      "reason": "The Indian Express checked 205 serious-charge records and found at least 25 matches for persons already in jail when supposedly seen at the protest. Police stated independent field verification was necessary. The 25 is a documented journalistic finding, not a separately replicated complete audit or an overall system false-positive rate.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C15",
+      "claim": "The Supreme Court's September 1 order conclusively established that the 2,873 people identified by police committed protest-related offences.",
+      "claimant": "Possible misreading of the judicial exception",
+      "claimDate": "2026-09-01",
+      "original": "S54",
+      "support": [],
+      "against": [
+        "S54",
+        "S56"
+      ],
+      "status": "Contradicted",
+      "reason": "The Court permitted police to register a fresh FIR involving persons described in the application, expressly preserving affected parties' legal remedies. It did not adjudicate individual guilt, verify biometric identity or convict the listed persons.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C16",
+      "claim": "The Greater Noida executive magistrate who issued the Rs 5 lakh bond notice was the officer suspended after Supreme Court criticism.",
+      "claimant": "Interpretation of initial courtroom submissions reported September 10",
+      "claimDate": "2026-09-10",
+      "original": "S57",
+      "support": [],
+      "against": [
+        "S57",
+        "S58"
+      ],
+      "status": "Contradicted",
+      "reason": "UP DGP Headquarters reportedly clarified that a sub-inspector who served/forwarded the notice, not the executive magistrate who issued it, was suspended. The student later challenged the account in court. Neither the filed documents nor final disposition was independently obtained.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C17",
+      "claim": "Any CJP-branded website's self-described membership totals or 'official' label establish the protest movement's audited size and legal organisation.",
+      "claimant": "Potential inference from competing CJP-branded site presentations",
+      "claimDate": "2026-10-19",
+      "original": "S60",
+      "support": [],
+      "against": [
+        "S59",
+        "S60",
+        "S61",
+        "S62"
+      ],
+      "status": "Unverified",
+      "reason": "Multiple distinct sites claim official status or identify themselves as separate satire projects. No independent cross-site domain-control, legal-entity or membership audit has been completed; site counters are not valid national counts.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C18",
+      "claim": "The Supreme Court expressly required Jantar Mantar to lose its designated protest-site status on 9 October 2026.",
+      "claimant": "An expansive interpretation of an attributed police submission",
+      "claimDate": "2026-10-13",
+      "original": "S66",
+      "support": [
+        "S66"
+      ],
+      "against": [
+        "S64",
+        "S67"
+      ],
+      "status": "Contradicted",
+      "reason": "The October 9 court order asks officials to consider alternative locations but includes no express mandate to denotify Jantar Mantar. The separate administrative decision is subject to judicial scrutiny.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C19",
+      "claim": "Government representatives gave one consistent account of the authority and reasons for removing Jantar Mantar as a protest venue.",
+      "claimant": "Possible inference from official explanations",
+      "claimDate": "2026-10-15",
+      "original": "S67",
+      "support": [],
+      "against": [
+        "S66",
+        "S67",
+        "S68"
+      ],
+      "status": "Contradicted",
+      "reason": "On October 13, counsel linked the decision to the Supreme Court's October 9 observations. On October 15, the Solicitor General said an earlier MHA committee provided the basis. The discrepancy needs original records; it does not itself establish unlawful conduct.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C20",
+      "claim": "The 14 October Special Executive Magistrate order was a final criminal conviction for the two CJP organisers.",
+      "claimant": "Incorrect characterisation of preventive-security proceedings",
+      "claimDate": "2026-10-14",
+      "original": "S69",
+      "support": [],
+      "against": [
+        "S69",
+        "S73"
+      ],
+      "status": "Contradicted",
+      "reason": "The reported order gives notice under Section 130 BNSS and temporary custody pending a further inquiry after discussion of bonds and sureties. These proceedings do not amount to a final criminal trial verdict.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C21",
+      "claim": "The identity and organisational affiliation of the person behind the reported threat to the magistrate have been conclusively verified.",
+      "claimant": "Unverified inference from press reporting",
+      "claimDate": "2026-10-18",
+      "original": "S71",
+      "support": [],
+      "against": [
+        "S70",
+        "S71"
+      ],
+      "status": "Unverified",
+      "reason": "The reviewed sources report an allegation and a reported recusal, but do not provide an authenticated message, a definitive attribution or a signed final decision. Some reports describe an FIR, others an NCR; the exact registration needs original records.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C22",
+      "claim": "AISA's publicly reported association with CPI(ML) Liberation establishes that CPI(ML) directs or finances the separate CJP movement.",
+      "claimant": "Inference conflating a student organisation's affiliation with CJP control",
+      "claimDate": "2026-10-19",
+      "original": "S75",
+      "support": [],
+      "against": [
+        "S17",
+        "S74",
+        "S75"
+      ],
+      "status": "Unverified",
+      "reason": "AISA's institutional affiliation and its public cooperation with CJP are distinguishable. The reviewed sources contain no document showing that CPI(ML) owns, directs or finances CJP.",
+      "reviewed": "2026-10-19"
     }
   ]
 }

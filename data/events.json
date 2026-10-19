@@ -109,6 +109,46 @@
       "status": "Established"
     },
     {
+      "id": "E26",
+      "date": "2026-07-27",
+      "location": "New Delhi",
+      "organiser": "CJP / legal-aid initiative",
+      "category": "Funding and legal assistance",
+      "title": "Sibal publicly announces Rs 1 crore for protester legal aid",
+      "summary": "Kapil Sibal appeared with CJP speakers and announced Rs 1 crore for legal aid to protesters facing FIRs. No payment receipt, beneficiary ledger or completed transfer was independently verified.",
+      "sources": [
+        "S46",
+        "S47"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E32",
+      "date": "2026-08-17",
+      "location": "New Delhi",
+      "organiser": "Delhi Police",
+      "category": "Digital and surveillance",
+      "title": "Police affidavit gives 2,873 facial-recognition matches",
+      "summary": "Delhi Police filed a Supreme Court affidavit reporting 2,873 people with apparent criminal-record matches during July protests, describing field verification before action. Underlying match logs and complete affidavit not obtained.",
+      "sources": [
+        "S55"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "E37",
+      "date": "2026-08-20",
+      "location": "New Delhi",
+      "organiser": "Union Ministry of Home Affairs",
+      "category": "Public order",
+      "title": "MHA convenes review of Delhi protest venues",
+      "summary": "Contemporaneous reporting later identified August 20 as the formation date of a committee reviewing alternative protest locations. Original terms and minutes remain unavailable.",
+      "sources": [
+        "S68"
+      ],
+      "status": "Supported"
+    },
+    {
       "id": "E07",
       "date": "2026-08-24",
       "location": "New Delhi",
@@ -118,6 +158,46 @@
       "summary": "CJP called its committee to review government commitments and possible renewed peaceful agitation. Meeting outcome not verified.",
       "sources": [
         "S09"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "E33",
+      "date": "2026-09-01",
+      "location": "Supreme Court, New Delhi",
+      "organiser": "Supreme Court of India",
+      "category": "Legal",
+      "title": "Supreme Court quashes specified July protest FIRs, records CJP pledge",
+      "summary": "In W.P.(C) 917/2026, the Court used Article 142 to quash specified July FIRs, reserved a narrowly defined 2,873-person investigation exception, directed a compensation arrangement, and recorded Saurav Das withdrawing a September 5 march.",
+      "sources": [
+        "S54"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E34",
+      "date": "2026-09-04",
+      "location": "New Delhi",
+      "organiser": "Independent investigative reporting",
+      "category": "Digital and surveillance",
+      "title": "Report questions 25 facial-recognition identifications",
+      "summary": "Indian Express reviewed 205 serious-charge matches on Delhi Police's list and reported at least 25 people had been incarcerated when their faces were allegedly matched at the demonstration. Not an independently reproduced full-system audit.",
+      "sources": [
+        "S56",
+        "S55"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "E35",
+      "date": "2026-09-10",
+      "location": "Greater Noida / New Delhi",
+      "organiser": "UP Police / Supreme Court",
+      "category": "Legal",
+      "title": "Police clarify which official was suspended over student bond notice",
+      "summary": "UP DGP office said a sub-inspector was suspended over a CJP-protest notice; it said the executive magistrate who signed the Rs 5 lakh notice was not. Court submissions initially prompted confusion.",
+      "sources": [
+        "S57"
       ],
       "status": "Supported"
     },
@@ -147,6 +227,20 @@
         "S39"
       ],
       "status": "Established"
+    },
+    {
+      "id": "E36",
+      "date": "2026-09-27",
+      "location": "Supreme Court, New Delhi",
+      "organiser": "Akshat Tripathi",
+      "category": "Legal",
+      "title": "Student challenges account of action taken over bond notice",
+      "summary": "Legal reporting describes Tripathi's application alleging the government misstated who was suspended. The court's subsequent adjudication and the original suspension record remain outstanding.",
+      "sources": [
+        "S58",
+        "S57"
+      ],
+      "status": "Supported"
     },
     {
       "id": "E08",
@@ -188,6 +282,19 @@
       "status": "Supported"
     },
     {
+      "id": "E38",
+      "date": "2026-10-09",
+      "location": "Supreme Court, New Delhi",
+      "organiser": "Supreme Court of India",
+      "category": "Legal",
+      "title": "Court directs reassessment of blanket transport restrictions",
+      "summary": "The Court's published record calls for proportionate rail and metro regulation and consideration of alternative sites. It does not explicitly order the removal of Jantar Mantar as a protest venue.",
+      "sources": [
+        "S64"
+      ],
+      "status": "Established"
+    },
+    {
       "id": "E11",
       "date": "2026-10-10",
       "location": "New Delhi",
@@ -210,6 +317,34 @@
       "summary": "Seven people were detained around Azad Maidan and later ordered released by the Goa bench of the Bombay High Court.",
       "sources": [
         "S13"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E39",
+      "date": "2026-10-11",
+      "location": "New Delhi",
+      "organiser": "Special Executive Magistrate",
+      "category": "Legal",
+      "title": "Dipke, Das and Ranka released after October 10 detention",
+      "summary": "Reporting documents release in the initial October proceedings; later proceedings concerned a separate event and custody sequence. The signed October 11 order remains to be obtained.",
+      "sources": [
+        "S72"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E40",
+      "date": "2026-10-12",
+      "location": "New Delhi",
+      "organiser": "Delhi Police",
+      "category": "Public order",
+      "title": "Police replace Jantar Mantar as designated protest venue",
+      "summary": "The police standing order, described in reporting as dated October 11 and implemented October 12, identified Ramlila Maidan, Burari Ground and CBD Ground as alternatives. The underlying decision-making file remains pending review.",
+      "sources": [
+        "S66",
+        "S67",
+        "S68"
       ],
       "status": "Established"
     },
@@ -240,6 +375,33 @@
       "status": "Unverified"
     },
     {
+      "id": "E27",
+      "date": "2026-10-14",
+      "location": "New Delhi / Online",
+      "organiser": "Amnesty International",
+      "category": "Civil liberties",
+      "title": "Amnesty urges release of detained CJP organisers",
+      "summary": "The organisation publicly called for release of Saurav Das and Ashutosh Ranka. Its position is an advocacy assessment, not a court judgment.",
+      "sources": [
+        "S49"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E41",
+      "date": "2026-10-14",
+      "location": "New Delhi",
+      "organiser": "Special Executive Magistrate",
+      "category": "Legal",
+      "title": "Executive magistrate issues notices and five-day remand",
+      "summary": "A news outlet reproduced the magistrate's order concerning Das and Ranka under BNSS preventive-peace provisions, with further proceedings listed for October 19. No criminal conviction was entered in the reproduced order.",
+      "sources": [
+        "S69",
+        "S73"
+      ],
+      "status": "Established"
+    },
+    {
       "id": "E15",
       "date": "2026-10-15",
       "location": "New Delhi",
@@ -249,6 +411,32 @@
       "summary": "CJP and AISA speakers appeared together and called for the October 16 flag-hoisting programme.",
       "sources": [
         "S17"
+      ],
+      "status": "Established"
+    },
+    {
+      "id": "E28",
+      "date": "2026-10-15",
+      "location": "Online",
+      "organiser": "Independent fact-checking",
+      "category": "Digital",
+      "title": "Fact-check challenges circulating Dipke bail-bond image",
+      "summary": "Alt News reported documentary inconsistencies and disputed a viral claim that a peace bond barred any lawful protest for one year. The research desk has not independently authenticated the image or certified bond.",
+      "sources": [
+        "S48"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "E42",
+      "date": "2026-10-15",
+      "location": "Supreme Court, New Delhi",
+      "organiser": "Supreme Court of India",
+      "category": "Legal",
+      "title": "Court orders preservation of digital evidence in protest litigation",
+      "summary": "The Supreme Court's October 15 proceedings include the venue challenge among connected petitions, direct digital-evidence preservation and production of Section 163 orders, and list grouped matters for November 3.",
+      "sources": [
+        "S65"
       ],
       "status": "Established"
     },
@@ -305,6 +493,20 @@
       "status": "Supported"
     },
     {
+      "id": "E29",
+      "date": "2026-10-17",
+      "location": "New Delhi",
+      "organiser": "SEM court / CJP",
+      "category": "Legal",
+      "title": "Founder Dipke released after October 16 detention",
+      "summary": "Bar & Bench and Reuters reported that a Special Executive Magistrate ordered Abhijeet Dipke's release. Full signed conditions were not reviewed; this is a separate detention from the Das and Ranka case.",
+      "sources": [
+        "S50",
+        "S53"
+      ],
+      "status": "Established"
+    },
+    {
       "id": "E19",
       "date": "2026-10-18",
       "location": "New Delhi",
@@ -316,6 +518,46 @@
         "S19"
       ],
       "status": "Unverified"
+    },
+    {
+      "id": "E30",
+      "date": "2026-10-18",
+      "location": "New Delhi",
+      "organiser": "CJP / Special Executive Magistrate",
+      "category": "Legal",
+      "title": "CJP alleges surety rejection and delay in Das-Ranka release",
+      "summary": "CJP legal head Ratna Singh said a scheduled hearing was delayed and four sureties were rejected on unclear grounds. The underlying surety rulings and subsequent release status remain unverified.",
+      "sources": [
+        "S51"
+      ],
+      "status": "Disputed"
+    },
+    {
+      "id": "E31",
+      "date": "2026-10-18",
+      "location": "New Delhi",
+      "organiser": "Delhi Police",
+      "category": "Legal",
+      "title": "Police report alleged threat to magistrate during proceedings",
+      "summary": "PTI reported a police non-cognisable report against unidentified people following an alleged threat. Neither the message's provenance nor the identity of any sender was established.",
+      "sources": [
+        "S52"
+      ],
+      "status": "Supported"
+    },
+    {
+      "id": "E43",
+      "date": "2026-10-18",
+      "location": "New Delhi",
+      "organiser": "SEM / Delhi Police / CJP",
+      "category": "Legal",
+      "title": "Release hearing remains unresolved after reported recusal",
+      "summary": "Police and CJP supplied competing explanations for the hearing delay, while news coverage reported a magistrate's recusal. Original procedural orders and later custody disposition remain outstanding.",
+      "sources": [
+        "S70",
+        "S71"
+      ],
+      "status": "Disputed"
     },
     {
       "id": "E20",

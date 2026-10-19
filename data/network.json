@@ -64,6 +64,30 @@
       "x": 590,
       "y": 210,
       "detail": "Aishe Ghosh appeared at a public event with CJP representatives; institution-wide coordination not inferred."
+    },
+    {
+      "id": "N09",
+      "name": "Kapil Sibal",
+      "type": "Person",
+      "x": 355,
+      "y": 55,
+      "detail": "Publicly appeared with CJP leaders and announced student-protester legal aid on 27 July; no recipient financial account or transfer has been independently verified."
+    },
+    {
+      "id": "N10",
+      "name": "Supreme Court of India",
+      "type": "Institution",
+      "x": 470,
+      "y": 392,
+      "detail": "1 September 2026 judicial order records CJP co-convenor's statement, the negotiated withdrawal of the September 5 march and limited July protest FIR relief; not an organisational ally of CJP."
+    },
+    {
+      "id": "N11",
+      "name": "CPI(ML) Liberation",
+      "type": "Political party",
+      "x": 225,
+      "y": 370,
+      "detail": "CPI(ML) Liberation publishes AISA among its associated organisations. Public affiliation with AISA does not establish that the party directs or finances the separate CJP movement."
     }
   ],
   "edges": [
@@ -129,6 +153,33 @@
       "date": "2026-10-15",
       "source": "S17",
       "note": "Aishe Ghosh (SFI) documented at multi-group press event. This establishes co-appearance at a public meeting only."
+    },
+    {
+      "id": "R08",
+      "a": "N09",
+      "b": "N01",
+      "type": "Public legal-aid initiative",
+      "date": "2026-07-27",
+      "source": "S46",
+      "note": "Announced Rs 1 crore for legal help with student-protester cases; evidence of declared support, not proven financing of protest operations or a verified bank transfer."
+    },
+    {
+      "id": "R09",
+      "a": "N01",
+      "b": "N10",
+      "type": "Court-recorded participation",
+      "date": "2026-09-01",
+      "source": "S54",
+      "note": "Saurav Das made a recorded statement as co-convenor of CJP in public proceedings. Shows an open, attributed institutional interaction, not hidden government command."
+    },
+    {
+      "id": "R10",
+      "a": "N05",
+      "b": "N11",
+      "type": "Declared student-wing affiliation",
+      "date": "2026-10-19",
+      "source": "S74",
+      "note": "AISA is publicly identified as associated with CPI(ML) Liberation. CJP's separate published cooperation with AISA is not evidence of a CPI(ML)-CJP command or financing relationship."
     }
   ]
 }
