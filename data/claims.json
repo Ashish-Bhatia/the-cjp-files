@@ -251,6 +251,85 @@
       "status": "Unverified",
       "reason": "Multiple distinct sites claim official status or identify themselves as separate satire projects. No independent cross-site domain-control, legal-entity or membership audit has been completed; site counters are not valid national counts.",
       "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C18",
+      "claim": "The Supreme Court expressly required Jantar Mantar to lose its designated protest-site status on 9 October 2026.",
+      "claimant": "An expansive interpretation of an attributed police submission",
+      "claimDate": "2026-10-13",
+      "original": "S66",
+      "support": [
+        "S66"
+      ],
+      "against": [
+        "S64",
+        "S67"
+      ],
+      "status": "Contradicted",
+      "reason": "The October 9 court order asks officials to consider alternative locations but includes no express mandate to denotify Jantar Mantar. The separate administrative decision is subject to judicial scrutiny.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C19",
+      "claim": "Government representatives gave one consistent account of the authority and reasons for removing Jantar Mantar as a protest venue.",
+      "claimant": "Possible inference from official explanations",
+      "claimDate": "2026-10-15",
+      "original": "S67",
+      "support": [],
+      "against": [
+        "S66",
+        "S67",
+        "S68"
+      ],
+      "status": "Contradicted",
+      "reason": "On October 13, counsel linked the decision to the Supreme Court's October 9 observations. On October 15, the Solicitor General said an earlier MHA committee provided the basis. The discrepancy needs original records; it does not itself establish unlawful conduct.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C20",
+      "claim": "The 14 October Special Executive Magistrate order was a final criminal conviction for the two CJP organisers.",
+      "claimant": "Incorrect characterisation of preventive-security proceedings",
+      "claimDate": "2026-10-14",
+      "original": "S69",
+      "support": [],
+      "against": [
+        "S69",
+        "S73"
+      ],
+      "status": "Contradicted",
+      "reason": "The reported order gives notice under Section 130 BNSS and temporary custody pending a further inquiry after discussion of bonds and sureties. These proceedings do not amount to a final criminal trial verdict.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C21",
+      "claim": "The identity and organisational affiliation of the person behind the reported threat to the magistrate have been conclusively verified.",
+      "claimant": "Unverified inference from press reporting",
+      "claimDate": "2026-10-18",
+      "original": "S71",
+      "support": [],
+      "against": [
+        "S70",
+        "S71"
+      ],
+      "status": "Unverified",
+      "reason": "The reviewed sources report an allegation and a reported recusal, but do not provide an authenticated message, a definitive attribution or a signed final decision. Some reports describe an FIR, others an NCR; the exact registration needs original records.",
+      "reviewed": "2026-10-19"
+    },
+    {
+      "id": "C22",
+      "claim": "AISA's publicly reported association with CPI(ML) Liberation establishes that CPI(ML) directs or finances the separate CJP movement.",
+      "claimant": "Inference conflating a student organisation's affiliation with CJP control",
+      "claimDate": "2026-10-19",
+      "original": "S75",
+      "support": [],
+      "against": [
+        "S17",
+        "S74",
+        "S75"
+      ],
+      "status": "Unverified",
+      "reason": "AISA's institutional affiliation and its public cooperation with CJP are distinguishable. The reviewed sources contain no document showing that CPI(ML) owns, directs or finances CJP.",
+      "reviewed": "2026-10-19"
     }
   ]
 }
