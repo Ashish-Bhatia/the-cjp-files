@@ -80,6 +80,14 @@
       "x": 470,
       "y": 392,
       "detail": "1 September 2026 judicial order records CJP co-convenor's statement, the negotiated withdrawal of the September 5 march and limited July protest FIR relief; not an organisational ally of CJP."
+    },
+    {
+      "id": "N11",
+      "name": "CPI(ML) Liberation",
+      "type": "Political party",
+      "x": 225,
+      "y": 370,
+      "detail": "CPI(ML) Liberation publishes AISA among its associated organisations. Public affiliation with AISA does not establish that the party directs or finances the separate CJP movement."
     }
   ],
   "edges": [
@@ -163,6 +171,15 @@
       "date": "2026-09-01",
       "source": "S54",
       "note": "Saurav Das made a recorded statement as co-convenor of CJP in public proceedings. Shows an open, attributed institutional interaction, not hidden government command."
+    },
+    {
+      "id": "R10",
+      "a": "N05",
+      "b": "N11",
+      "type": "Declared student-wing affiliation",
+      "date": "2026-10-19",
+      "source": "S74",
+      "note": "AISA is publicly identified as associated with CPI(ML) Liberation. CJP's separate published cooperation with AISA is not evidence of a CPI(ML)-CJP command or financing relationship."
     }
   ]
 }
